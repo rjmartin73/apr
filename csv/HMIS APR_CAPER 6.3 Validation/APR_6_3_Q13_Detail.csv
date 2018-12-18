@@ -1,0 +1,1177 @@
+ClientID,HouseholdType,Stayer/Leaver,DataCollectionStage,Category,Name,EnrollID,EnrollDate,ExitDate,DisablingCondition,AssessmentID,AssessmentDate,AssessmentType,PhysicalDisability,DevelopmentalDisability,ChronicHealthCondition,HIVAIDS,MentalHealthProblem,AlcoholAbuse,DrugAbuse
+551,Without Children,Stayer,At Start,Data Not Collected,"Simpson, Home Boy",99485,4/12/2017 12:00:00 AM,,,,,,,,,,,,
+551,Without Children,Stayer,Recent,Data Not Collected,"Simpson, Home Boy",99485,4/12/2017 12:00:00 AM,,,,,,,,,,,,
+782,With Children and Adults,Stayer,At Start,None,"Test, 1120",99844,7/26/2017 12:00:00 AM,,No (0),22923,7/26/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+782,With Children and Adults,Stayer,Recent,None,"Test, 1120",99844,7/26/2017 12:00:00 AM,,No (0),22923,7/26/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+809,With Children and Adults,Stayer,At Start,Data Not Collected,"Bill, Gill",99841,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+809,With Children and Adults,Stayer,Recent,Data Not Collected,"Bill, Gill",99841,7/26/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+2188,Without Children,Stayer,At Start,Condition Unknown,"Housing, ClientOne",99907,8/4/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+2188,Without Children,Stayer,Recent,Condition Unknown,"Housing, ClientOne",99907,8/4/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+398984,With Children and Adults,Stayer,At Start,Data Not Collected,"Cooper, Dale",100242,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+398984,With Children and Adults,Stayer,Recent,Data Not Collected,"Cooper, Dale",100242,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+405948,Without Children,Stayer,At Start,None,"RHY, BCP-es",93429,8/22/2016 12:00:00 AM,,No (0),16677,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+405948,Without Children,Stayer,Recent,None,"RHY, BCP-es",93429,8/22/2016 12:00:00 AM,,No (0),16677,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+408245,Without Children,Stayer,At Start,None,"Bell, John",99825,7/26/2017 12:00:00 AM,,No (0),,,,,,,,,,
+408245,Without Children,Stayer,Recent,None,"Bell, John",99825,7/26/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409861,With Children and Adults,Stayer,At Start,1 or More Conditions,"Hill, Hank",98397,1/1/2016 12:00:00 AM,,Yes (1),21855,10/3/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),Yes (1),No (0),No (0)
+409861,With Children and Adults,Stayer,Recent,1 or More Conditions,"Hill, Hank",98397,1/1/2016 12:00:00 AM,,Yes (1),22222,2/24/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),Yes (1),No (0),No (0)
+409862,With Children and Adults,Stayer,At Start,1 or More Conditions,"Hill, Peggy",98398,1/1/2016 12:00:00 AM,,Yes (1),21857,1/1/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+409862,With Children and Adults,Stayer,Recent,1 or More Conditions,"Hill, Peggy",98398,1/1/2016 12:00:00 AM,,Yes (1),22223,2/24/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+409863,With Only Children,Stayer,At Start,1 or More Conditions,"Hill, Bobby",98399,1/7/2016 12:00:00 AM,,Yes (1),21858,11/7/2016 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+409863,With Only Children,Stayer,Recent,1 or More Conditions,"Hill, Bobby",98399,1/7/2016 12:00:00 AM,,Yes (1),21859,11/7/2016 12:00:00 AM,During Program Enrollment (2),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+409880,Without Children,Stayer,At Start,Data Not Collected,"Greeen, Bernice",98814,11/28/2016 12:00:00 AM,,,,,,,,,,,,
+409880,Without Children,Stayer,Recent,Data Not Collected,"Greeen, Bernice",98814,11/28/2016 12:00:00 AM,,,,,,,,,,,,
+409882,Without Children,Stayer,At Start,Condition Unknown,"Hammer, Mike",93384,8/2/2016 12:00:00 AM,,Yes (1),16626,8/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409882,Without Children,Stayer,Recent,Condition Unknown,"Hammer, Mike",93384,8/2/2016 12:00:00 AM,,Yes (1),16627,8/18/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409883,With Children and Adults,Stayer,At Start,Condition Unknown,"Humphrey, Dalton",93385,8/2/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409883,With Children and Adults,Stayer,Recent,Condition Unknown,"Humphrey, Dalton",93385,8/2/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409884,With Children and Adults,Stayer,At Start,None,"Humphrey, Daughter",93386,8/2/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409884,With Children and Adults,Stayer,Recent,None,"Humphrey, Daughter",93386,8/2/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409885,Without Children,Stayer,At Start,None,"Greg, Old",93389,8/18/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409885,Without Children,Stayer,Recent,None,"Greg, Old",93389,8/18/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409888,Without Children,Stayer,At Start,Condition Unknown,"HMIS Street Outreach, NewPATHSo",93393,8/15/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409888,Without Children,Stayer,Recent,Condition Unknown,"HMIS Street Outreach, NewPATHSo",93393,8/15/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409893,With Only Children,Stayer,At Start,Condition Unknown,"Test, BCP-P",93399,8/19/2016 12:00:00 AM,,Yes (1),16644,8/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409893,With Only Children,Stayer,Recent,Condition Unknown,"Test, BCP-P",93399,8/19/2016 12:00:00 AM,,Yes (1),16644,8/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409896,Without Children,Stayer,At Start,None,"Test, ESworkgroup",93404,8/19/2016 12:00:00 AM,,No (0),16647,8/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409896,Without Children,Stayer,Recent,None,"Test, ESworkgroup",93404,8/19/2016 12:00:00 AM,,No (0),16647,8/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409899,Without Children,Stayer,At Start,Condition Unknown,"Test2, EE",93408,8/1/2016 12:00:00 AM,,Yes (1),16654,8/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409899,Without Children,Stayer,Recent,Condition Unknown,"Test2, EE",93408,8/1/2016 12:00:00 AM,,Yes (1),16655,8/10/2016 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409910,Without Children,Stayer,At Start,Condition Unknown,"Test, NewPATH",93432,8/22/2016 12:00:00 AM,,Yes (1),16679,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409910,Without Children,Stayer,Recent,Condition Unknown,"Test, NewPATH",93432,8/22/2016 12:00:00 AM,,Yes (1),16679,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409915,Without Children,Stayer,At Start,Condition Unknown,"Test, SecondPath",93440,8/22/2016 12:00:00 AM,,Yes (1),16690,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409915,Without Children,Stayer,Recent,Condition Unknown,"Test, SecondPath",93440,8/22/2016 12:00:00 AM,,Yes (1),16691,8/22/2016 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409916,Without Children,Stayer,At Start,Condition Unknown,"test, VAhudvash",93444,8/22/2016 12:00:00 AM,,Yes (1),16695,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409916,Without Children,Stayer,Recent,Condition Unknown,"test, VAhudvash",93444,8/22/2016 12:00:00 AM,,Yes (1),16695,8/22/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409921,With Children and Adults,Stayer,At Start,Condition Unknown,"Date, NoBirth",93459,8/23/2016 12:00:00 AM,,Yes (1),16718,8/23/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409921,With Children and Adults,Stayer,Recent,Condition Unknown,"Date, NoBirth",93459,8/23/2016 12:00:00 AM,,Yes (1),16718,8/23/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409922,Without Children,Stayer,At Start,None,"Date, Adult",99882,10/1/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409922,Without Children,Stayer,Recent,None,"Date, Adult",99882,10/1/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409923,With Children and Adults,Stayer,At Start,None,"Date, OtherAdult",93461,8/23/2016 12:00:00 AM,,No (0),16717,8/23/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409923,With Children and Adults,Stayer,Recent,None,"Date, OtherAdult",93461,8/23/2016 12:00:00 AM,,No (0),16717,8/23/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409930,Without Children,Stayer,At Start,1 or More Conditions,"Test, NewCoC",93488,8/24/2016 12:00:00 AM,,Yes (1),16741,8/24/2016 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+409930,Without Children,Stayer,Recent,Condition Unknown,"Test, NewCoC",93488,8/24/2016 12:00:00 AM,,Yes (1),16815,8/25/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409931,Without Children,Stayer,At Start,1 or More Conditions,"Test, NewHOPWA",93489,8/24/2016 12:00:00 AM,,Yes (1),16742,8/24/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0)
+409931,Without Children,Stayer,Recent,1 or More Conditions,"Test, NewHOPWA",93489,8/24/2016 12:00:00 AM,,Yes (1),16742,8/24/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0)
+409933,Unknown Household Type,Stayer,At Start,Condition Unknown,"RRHtest, NewCoC",93492,1/1/2016 12:00:00 AM,,Yes (1),16745,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409933,Unknown Household Type,Stayer,Recent,Condition Unknown,"RRHtest, NewCoC",93492,1/1/2016 12:00:00 AM,,Yes (1),,,Annual (5),,,,,,,
+409937,Without Children,Stayer,At Start,None,"Test, HPdate",93500,8/10/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409937,Without Children,Stayer,Recent,None,"Test, HPdate",93500,8/10/2016 12:00:00 AM,,No (0),,,During Program Enrollment (2),,,,,,,
+409939,Without Children,Stayer,At Start,Condition Unknown,"Test, ESwkgp",93507,8/25/2016 12:00:00 AM,,Yes (1),16770,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409939,Without Children,Stayer,Recent,Condition Unknown,"Test, ESwkgp",93507,8/25/2016 12:00:00 AM,,Yes (1),16770,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409947,Without Children,Stayer,At Start,Condition Unknown,"Testso, NewPATH",93515,8/25/2016 12:00:00 AM,,Yes (1),16785,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409947,Without Children,Stayer,Recent,Condition Unknown,"Testso, NewPATH",93515,8/25/2016 12:00:00 AM,,Yes (1),,,During Program Enrollment (2),,,,,,,
+409948,Without Children,Stayer,At Start,Condition Unknown,"SOARtest, DIfwkgp",93517,8/25/2016 12:00:00 AM,,Yes (1),16789,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409948,Without Children,Stayer,Recent,Condition Unknown,"SOARtest, DIfwkgp",93517,8/25/2016 12:00:00 AM,,Yes (1),16789,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409951,With Children and Adults,Stayer,At Start,Condition Unknown,"Pointvalue, SSVFhpTest",93520,6/2/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409951,With Children and Adults,Stayer,Recent,Condition Unknown,"Pointvalue, SSVFhpTest",93520,6/2/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409952,With Children and Adults,Stayer,At Start,None,"Pointvalue, Spouse",93521,6/2/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409952,With Children and Adults,Stayer,Recent,None,"Pointvalue, Spouse",93521,6/2/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409953,With Only Children,Stayer,At Start,None,"Pointvalue, Child",93539,8/17/2016 12:00:00 AM,,No (0),16816,8/17/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409953,With Only Children,Stayer,Recent,None,"Pointvalue, Child",93539,8/17/2016 12:00:00 AM,,No (0),16816,8/17/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409957,Without Children,Stayer,At Start,Condition Unknown,"AMItest, SSVF",93530,8/3/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409957,Without Children,Stayer,Recent,Condition Unknown,"AMItest, SSVF",93530,8/3/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409961,With Only Children,Stayer,At Start,None,"QA11, HMIS-Youth",93536,8/25/2016 12:00:00 AM,,No (0),16813,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409961,With Only Children,Stayer,Recent,None,"QA11, HMIS-Youth",93536,8/25/2016 12:00:00 AM,,No (0),16813,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409962,With Children and Adults,Stayer,At Start,None,"QA12, HMIS-Dad",93537,8/25/2016 12:00:00 AM,,No (0),16814,8/25/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409962,With Children and Adults,Stayer,Recent,,"QA12, HMIS-Dad",93537,8/25/2016 12:00:00 AM,,No (0),16819,8/25/2016 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409963,With Children and Adults,Stayer,At Start,Data Not Collected,"QA12, HMIS-Son",93538,8/25/2016 12:00:00 AM,,,,,,,,,,,,
+409963,With Children and Adults,Stayer,Recent,Data Not Collected,"QA12, HMIS-Son",93538,8/25/2016 12:00:00 AM,,,,,During Program Enrollment (2),,,,,,,
+409965,Without Children,Stayer,At Start,Condition Unknown,"Test, NewDay",93552,8/26/2016 12:00:00 AM,,Yes (1),16836,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409965,Without Children,Stayer,Recent,Condition Unknown,"Test, NewDay",93552,8/26/2016 12:00:00 AM,,Yes (1),16836,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409967,Without Children,Stayer,At Start,Condition Unknown,"Test, NewESShelter",93559,8/26/2016 12:00:00 AM,,Yes (1),16840,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409967,Without Children,Stayer,Recent,Condition Unknown,"Test, NewESShelter",93559,8/26/2016 12:00:00 AM,,Yes (1),16840,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409968,Without Children,Stayer,At Start,Condition Unknown,"Test, NewCoCPSH",93562,6/7/2016 12:00:00 AM,,Yes (1),16843,6/7/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),,No (0)
+409968,Without Children,Stayer,Recent,Condition Unknown,"Test, NewCoCPSH",93562,6/7/2016 12:00:00 AM,,Yes (1),16843,6/7/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),,No (0)
+409972,Without Children,Stayer,At Start,Condition Unknown,"test, NewSTRMU",93567,7/13/2016 12:00:00 AM,,Yes (1),16852,7/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409972,Without Children,Stayer,Recent,Condition Unknown,"test, NewSTRMU",93567,7/13/2016 12:00:00 AM,,Yes (1),16852,7/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409973,With Children and Adults,Stayer,At Start,Condition Unknown,"Test, Crisis",93656,8/1/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409973,With Children and Adults,Stayer,Recent,Condition Unknown,"Test, Crisis",93656,8/1/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409974,With Children and Adults,Stayer,At Start,None,"Test, SpouseCrisis",93657,8/1/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409974,With Children and Adults,Stayer,Recent,None,"Test, SpouseCrisis",93657,8/1/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409975,With Children and Adults,Stayer,At Start,None,"Test, ChildCrisis",93658,8/1/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409975,With Children and Adults,Stayer,Recent,None,"Test, ChildCrisis",93658,8/1/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409976,Without Children,Stayer,At Start,Data Not Collected,"Test, OtherCrisis",93654,8/22/2016 12:00:00 AM,,,,,,,,,,,,
+409976,Without Children,Stayer,Recent,Data Not Collected,"Test, OtherCrisis",93654,8/22/2016 12:00:00 AM,,,,,Entry (1),,,,,,,
+409978,Without Children,Stayer,At Start,None,"Test, AssessDate",93580,7/4/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409978,Without Children,Stayer,Recent,None,"Test, AssessDate",93580,7/4/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409979,With Children and Adults,Stayer,At Start,Condition Unknown,"Test, NewVetAssess",93585,8/3/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409979,With Children and Adults,Stayer,Recent,Condition Unknown,"Test, NewVetAssess",93585,8/3/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409980,With Only Children,Stayer,At Start,None,"Test, ChildAssess",93586,5/4/2016 12:00:00 AM,,No (0),16875,5/4/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409980,With Only Children,Stayer,Recent,None,"Test, ChildAssess",93586,5/4/2016 12:00:00 AM,,No (0),16875,5/4/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409981,With Children and Adults,Stayer,At Start,None,"Test, ChildAssess",93587,8/5/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409981,With Children and Adults,Stayer,Recent,None,"Test, ChildAssess",93587,8/5/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409982,With Only Children,Stayer,At Start,None,"MGtest, NewRHY",93590,8/26/2016 12:00:00 AM,,No (0),16879,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409982,With Only Children,Stayer,Recent,,"MGtest, NewRHY",93590,8/26/2016 12:00:00 AM,,No (0),22186,1/27/2017 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),,No (0),No (0),No (0)
+409983,Without Children,Stayer,At Start,None,"ConsistTest, Workflow",93595,8/26/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409983,Without Children,Stayer,Recent,None,"ConsistTest, Workflow",93595,8/26/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409984,Without Children,Stayer,At Start,None,"Test, NewCrisis",93602,8/1/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409984,Without Children,Stayer,Recent,None,"Test, NewCrisis",93602,8/1/2016 12:00:00 AM,,No (0),,,During Program Enrollment (2),,,,,,,
+409985,With Children and Adults,Stayer,At Start,Condition Unknown,"Spouse, NonVet",93598,3/2/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409985,With Children and Adults,Stayer,Recent,Condition Unknown,"Spouse, NonVet",93598,3/2/2016 12:00:00 AM,,Yes (1),,,During Program Enrollment (2),,,,,,,
+409986,Without Children,Stayer,At Start,Condition Unknown,"Test, VetAdult",93637,8/29/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+409986,Without Children,Stayer,Recent,Condition Unknown,"Test, VetAdult",93637,8/29/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+409987,With Children and Adults,Stayer,At Start,None,"Test, ChildFam",93600,3/2/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409987,With Children and Adults,Stayer,Recent,None,"Test, ChildFam",93600,3/2/2016 12:00:00 AM,,No (0),,,Annual (5),,,,,,,
+409988,Without Children,Stayer,At Start,None,"Test, AdultEd",93608,8/26/2016 12:00:00 AM,,No (0),16911,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409988,Without Children,Stayer,Recent,None,"Test, AdultEd",93608,8/26/2016 12:00:00 AM,,No (0),16911,8/26/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409989,Without Children,Stayer,At Start,Condition Unknown,"Test, NoSOAR",93636,8/29/2016 12:00:00 AM,,Yes (1),16949,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409989,Without Children,Stayer,Recent,Condition Unknown,"Test, NoSOAR",93636,8/29/2016 12:00:00 AM,,Yes (1),16949,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409990,Without Children,Stayer,At Start,None,"Test, EdCheck",93617,8/11/2016 12:00:00 AM,,No (0),16921,8/11/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409990,Without Children,Stayer,Recent,None,"Test, EdCheck",93617,8/11/2016 12:00:00 AM,,No (0),16921,8/11/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409996,Without Children,Stayer,At Start,Condition Unknown,"Test, NextHP",93631,8/29/2016 12:00:00 AM,,Yes (1),16945,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409996,Without Children,Stayer,Recent,Condition Unknown,"Test, NextHP",93631,8/29/2016 12:00:00 AM,,Yes (1),16945,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409997,With Children and Adults,Stayer,At Start,None,"Child, NextHP",93629,8/24/2016 12:00:00 AM,,No (0),,,,,,,,,,
+409997,With Children and Adults,Stayer,Recent,None,"Child, NextHP",93629,8/24/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+409998,With Only Children,Stayer,At Start,None,"QA13, HMIS-Youth",93630,8/29/2016 12:00:00 AM,,No (0),16943,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409998,With Only Children,Stayer,Recent,None,"QA13, HMIS-Youth",93630,8/29/2016 12:00:00 AM,,No (0),16943,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+409999,With Only Children,Stayer,At Start,None,"EdTest, NewChildAssess",93634,8/18/2016 12:00:00 AM,,No (0),16946,8/18/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+409999,With Only Children,Stayer,Recent,None,"EdTest, NewChildAssess",93634,8/18/2016 12:00:00 AM,,No (0),16946,8/18/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410000,Without Children,Stayer,At Start,Condition Unknown,"TestNew, PATHsso",93635,8/29/2016 12:00:00 AM,,Yes (1),16947,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410000,Without Children,Stayer,Recent,Condition Unknown,"TestNew, PATHsso",93635,8/29/2016 12:00:00 AM,,Yes (1),16947,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410005,With Only Children,Stayer,At Start,Condition Unknown,"Test, FinalChildPATH",93645,7/7/2016 12:00:00 AM,,Yes (1),16963,7/7/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410005,With Only Children,Stayer,Recent,Condition Unknown,"Test, FinalChildPATH",93645,7/7/2016 12:00:00 AM,,Yes (1),16963,7/7/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410006,Without Children,Stayer,At Start,Condition Unknown,"PATH, FinalAdult",93650,8/29/2016 12:00:00 AM,,Yes (1),16975,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410006,Without Children,Stayer,Recent,Condition Unknown,"PATH, FinalAdult",93650,8/29/2016 12:00:00 AM,,Yes (1),16976,8/29/2016 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410007,Without Children,Stayer,At Start,Condition Unknown,"Test, LastVASH",93648,8/29/2016 12:00:00 AM,,Yes (1),16971,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410007,Without Children,Stayer,Recent,Condition Unknown,"Test, LastVASH",93648,8/29/2016 12:00:00 AM,,Yes (1),16973,8/29/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410008,Without Children,Stayer,At Start,Condition Unknown,"Test, NextVash",93651,8/29/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+410008,Without Children,Stayer,Recent,Condition Unknown,"Test, NextVash",93651,8/29/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+410009,Without Children,Stayer,At Start,Condition Unknown,"Test, HUDVASHnew",93653,8/29/2016 12:00:00 AM,,Yes (1),16982,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410009,Without Children,Stayer,Recent,Condition Unknown,"Test, HUDVASHnew",93653,8/29/2016 12:00:00 AM,,Yes (1),16982,8/29/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410010,With Children and Adults,Stayer,At Start,Condition Unknown,"ForCollection, UniversalTest",93655,8/2/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+410010,With Children and Adults,Stayer,Recent,Condition Unknown,"ForCollection, UniversalTest",93655,8/2/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+410012,With Only Children,Stayer,At Start,None,"Little, Eugene",93681,8/30/2016 12:00:00 AM,,No (0),,,,,,,,,,
+410012,With Only Children,Stayer,Recent,None,"Little, Eugene",93681,8/30/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410014,Without Children,Stayer,At Start,Condition Unknown,"Test, NewSSVF",93678,8/22/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+410014,Without Children,Stayer,Recent,Condition Unknown,"Test, NewSSVF",93678,8/22/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+410015,Without Children,Stayer,At Start,Condition Unknown,"Test, SpouseSSVF asd",93679,8/22/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+410015,Without Children,Stayer,Recent,Condition Unknown,"Test, SpouseSSVF asd",93679,8/22/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+410020,Without Children,Stayer,At Start,None,"TestVet, Third",100031,8/16/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410020,Without Children,Stayer,Recent,None,"TestVet, Third",100031,8/16/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410024,With Children and Adults,Stayer,At Start,None,"TestVet, Child",93707,9/5/2016 12:00:00 AM,,No (0),,,,,,,,,,
+410024,With Children and Adults,Stayer,Recent,None,"TestVet, Child",93707,9/5/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410025,Without Children,Stayer,At Start,Data Not Collected,"TestVet, OtherAdult",100033,8/16/2017 12:00:00 AM,,,,,,,,,,,,
+410025,Without Children,Stayer,Recent,Data Not Collected,"TestVet, OtherAdult",100033,8/16/2017 12:00:00 AM,,,,,,,,,,,,
+410164,With Only Children,Stayer,At Start,Condition Unknown,"RHYtest, SecondChild",98215,9/13/2016 12:00:00 AM,,Yes (1),21561,9/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410164,With Only Children,Stayer,Recent,Condition Unknown,"RHYtest, SecondChild",98215,9/13/2016 12:00:00 AM,,Yes (1),21561,9/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410165,Without Children,Stayer,At Start,Condition Unknown,"Hulka, Sgt",98218,9/14/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+410165,Without Children,Stayer,Recent,Condition Unknown,"Hulka, Sgt",98218,9/14/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+410166,Without Children,Stayer,At Start,Data Not Collected,"Crystal, Billy",98267,9/20/2016 12:00:00 AM,,,,,,,,,,,,
+410166,Without Children,Stayer,Recent,Data Not Collected,"Crystal, Billy",98267,9/20/2016 12:00:00 AM,,,,,,,,,,,,
+410167,With Only Children,Stayer,At Start,Condition Unknown,"Crystal, Child",98255,9/19/2015 12:00:00 AM,,Yes (1),21629,9/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410167,With Only Children,Stayer,Recent,Condition Unknown,"Crystal, Child",98255,9/19/2015 12:00:00 AM,,Yes (1),21629,9/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410170,With Only Children,Stayer,At Start,None,"Test, AnotherRHy",98237,9/1/2016 12:00:00 AM,,No (0),21596,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410170,With Only Children,Stayer,Recent,None,"Test, AnotherRHy",98237,9/1/2016 12:00:00 AM,,No (0),21596,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410174,With Only Children,Stayer,At Start,None,"THtest, MultiFund",100178,8/23/2017 12:00:00 AM,,No (0),23300,8/23/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410174,With Only Children,Stayer,Recent,None,"THtest, MultiFund",100178,8/23/2017 12:00:00 AM,,No (0),23300,8/23/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410182,With Children and Adults,Stayer,At Start,None,"Test, Family",98328,9/14/2016 12:00:00 AM,,No (0),21800,9/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410182,With Children and Adults,Stayer,Recent,None,"Test, Family",98328,9/14/2016 12:00:00 AM,,No (0),21800,9/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410183,With Children and Adults,Stayer,At Start,None,"Teset, Child",98329,9/14/2016 12:00:00 AM,,No (0),21801,9/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410183,With Children and Adults,Stayer,Recent,None,"Teset, Child",98329,9/14/2016 12:00:00 AM,,No (0),21801,9/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410186,With Only Children,Stayer,At Start,Condition Unknown,"Test, Annual",98340,9/1/2016 12:00:00 AM,,Yes (1),21736,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410186,With Only Children,Stayer,Recent,Condition Unknown,"Test, Annual",98340,9/1/2016 12:00:00 AM,,Yes (1),21737,9/29/2016 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410188,Without Children,Stayer,At Start,Data Not Collected,"Family, Prevention",99912,8/4/2017 12:00:00 AM,,,,,,,,,,,,
+410188,Without Children,Stayer,Recent,Data Not Collected,"Family, Prevention",99912,8/4/2017 12:00:00 AM,,,,,,,,,,,,
+410189,With Only Children,Stayer,At Start,None,"Family, Child",99233,3/3/2017 12:00:00 AM,,No (0),22527,3/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410189,With Only Children,Stayer,Recent,None,"Family, Child",99233,3/3/2017 12:00:00 AM,,No (0),22527,3/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410192,Unknown Household Type,Stayer,At Start,None,"Check, Address",98366,10/10/2016 12:00:00 AM,,No (0),,,,,,,,,,
+410192,Unknown Household Type,Stayer,Recent,None,"Check, Address",98366,10/10/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410201,Without Children,Stayer,At Start,None,"RHYtest, Another",98390,10/28/2016 12:00:00 AM,,No (0),,,,,,,,,,
+410201,Without Children,Stayer,Recent,None,"RHYtest, Another",98390,10/28/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410204,Without Children,Stayer,At Start,1 or More Conditions,"Testing, Hopwa",98391,10/28/2016 12:00:00 AM,,Yes (1),21842,10/28/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0)
+410204,Without Children,Stayer,Recent,1 or More Conditions,"Testing, Hopwa",98391,10/28/2016 12:00:00 AM,,Yes (1),21842,10/28/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0)
+410212,Without Children,Stayer,At Start,Data Not Collected,"Adult, AHAR",99096,12/6/2016 12:00:00 AM,,,,,,,,,,,,
+410212,Without Children,Stayer,Recent,Data Not Collected,"Adult, AHAR",99096,12/6/2016 12:00:00 AM,,,,,,,,,,,,
+410213,With Only Children,Leaver,At Start,Data Not Collected,"Adult, Child AHAR",99099,12/8/2016 12:00:00 AM,11/17/2017 12:00:00 AM,,,,,,,,,,,
+410213,With Only Children,Leaver,Exit,Data Not Collected,"Adult, Child AHAR",99099,12/8/2016 12:00:00 AM,11/17/2017 12:00:00 AM,,,,,,,,,,,
+410358,Without Children,Stayer,At Start,Data Not Collected,"KOLACZYK, JENNIFER",99111,12/21/2016 12:00:00 AM,,,,,,,,,,,,
+410358,Without Children,Stayer,Recent,Data Not Collected,"KOLACZYK, JENNIFER",99111,12/21/2016 12:00:00 AM,,,,,,,,,,,,
+410687,Without Children,Stayer,At Start,Data Not Collected,"hmisCh1, c1",100060,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+410687,Without Children,Stayer,Recent,Data Not Collected,"hmisCh1, c1",100060,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+410692,Unknown Household Type,Stayer,At Start,None,"Test, DQ-SL",99104,12/13/2016 12:00:00 AM,,No (0),22034,12/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410692,Unknown Household Type,Stayer,Recent,None,"Test, DQ-SL",99104,12/13/2016 12:00:00 AM,,No (0),22034,12/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410693,Unknown Household Type,Stayer,At Start,None,"Test, DQ-OtherAdult",99105,12/13/2016 12:00:00 AM,,No (0),22035,12/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410693,Unknown Household Type,Stayer,Recent,None,"Test, DQ-OtherAdult",99105,12/13/2016 12:00:00 AM,,No (0),22035,12/13/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410696,Without Children,Stayer,At Start,Data Not Collected,"Warnings, Test",99109,12/19/2016 12:00:00 AM,,,,,,,,,,,,
+410696,Without Children,Stayer,Recent,Data Not Collected,"Warnings, Test",99109,12/19/2016 12:00:00 AM,,,,,,,,,,,,
+410713,Without Children,Stayer,At Start,Data Not Collected,"Adult, Mother",99122,12/26/2016 12:00:00 AM,,,,,,,,,,,,
+410713,Without Children,Stayer,Recent,Data Not Collected,"Adult, Mother",99122,12/26/2016 12:00:00 AM,,,,,,,,,,,,
+410714,Without Children,Stayer,At Start,Data Not Collected,"Adult, Father",99123,12/26/2016 12:00:00 AM,,,,,,,,,,,,
+410714,Without Children,Stayer,Recent,Data Not Collected,"Adult, Father",99123,12/26/2016 12:00:00 AM,,,,,,,,,,,,
+410741,Without Children,Stayer,At Start,1 or More Conditions,"Arnez, Desi",99159,11/15/2016 12:00:00 AM,,Yes (1),22121,1/13/2017 12:00:00 AM,Entry (1),Yes (1),,,,,,
+410741,Without Children,Stayer,Recent,1 or More Conditions,"Arnez, Desi",99159,11/15/2016 12:00:00 AM,,Yes (1),22121,1/13/2017 12:00:00 AM,Entry (1),Yes (1),,,,,,
+410780,Without Children,Stayer,At Start,None,"EmergShelt, AdultTwo",99225,2/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410780,Without Children,Stayer,Recent,None,"EmergShelt, AdultTwo",99225,2/19/2017 12:00:00 AM,,No (0),,,During Program Enrollment (2),,,,,,,
+410802,Without Children,Stayer,At Start,Data Not Collected,"Augustine, Saint",99569,3/1/2016 12:00:00 AM,,,,,,,,,,,,
+410802,Without Children,Stayer,Recent,Data Not Collected,"Augustine, Saint",99569,3/1/2016 12:00:00 AM,,,,,,,,,,,,
+410821,Without Children,Stayer,At Start,None,"Selected, AllRaces",99380,4/7/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410821,Without Children,Stayer,Recent,None,"Selected, AllRaces",99380,4/7/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410828,Without Children,Stayer,At Start,None,"apr5, c1",100153,8/22/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410828,Without Children,Stayer,Recent,None,"apr5, c1",100153,8/22/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410831,Without Children,Stayer,At Start,Data Not Collected,"Halper, Santos R",99461,4/11/2017 12:00:00 AM,,,,,,,,,,,,
+410831,Without Children,Stayer,Recent,Data Not Collected,"Halper, Santos R",99461,4/11/2017 12:00:00 AM,,,,,,,,,,,,
+410846,With Only Children,Stayer,At Start,None,"CoC, CHchild",99263,1/1/2016 12:00:00 AM,,No (0),22277,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410846,With Only Children,Stayer,Recent,,"CoC, CHchild",99263,1/1/2016 12:00:00 AM,,No (0),22279,1/2/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+410849,With Children and Adults,Stayer,At Start,None,"ForCollection, Child",99268,8/2/2016 12:00:00 AM,,No (0),,,,,,,,,,
+410849,With Children and Adults,Stayer,Recent,None,"ForCollection, Child",99268,8/2/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410851,With Children and Adults,Stayer,At Start,None,"apr5, c2",100094,8/19/2017 12:00:00 AM,,No (0),23227,8/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410851,With Children and Adults,Stayer,Recent,None,"apr5, c2",100094,8/19/2017 12:00:00 AM,,No (0),23227,8/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+410852,With Children and Adults,Stayer,At Start,None,"apr5, fam1",100095,8/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410852,With Children and Adults,Stayer,Recent,None,"apr5, fam1",100095,8/19/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410856,With Only Children,Stayer,At Start,1 or More Conditions,"Diddy, Bo",99280,4/3/2017 12:00:00 AM,,Yes (1),22296,4/3/2017 12:00:00 AM,Entry (1),,,,,Yes (1),,
+410856,With Only Children,Stayer,Recent,1 or More Conditions,"Diddy, Bo",99280,4/3/2017 12:00:00 AM,,Yes (1),22296,4/3/2017 12:00:00 AM,Entry (1),,,,,Yes (1),,
+410953,Unknown Household Type,Stayer,At Start,None,"Donkulus, Re",99383,4/7/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410953,Unknown Household Type,Stayer,Recent,None,"Donkulus, Re",99383,4/7/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410975,Without Children,Stayer,At Start,Data Not Collected,"Test, VAMC",99408,4/1/2017 12:00:00 AM,,,,,,,,,,,,
+410975,Without Children,Stayer,Recent,Data Not Collected,"Test, VAMC",99408,4/1/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+410997,Without Children,Stayer,At Start,Condition Unknown,"PSH, AdultOnly91",99432,4/10/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+410997,Without Children,Stayer,Recent,Condition Unknown,"PSH, AdultOnly91",99432,4/10/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+410998,Without Children,Stayer,At Start,None,"VAMC, SSVF",99435,4/10/2017 12:00:00 AM,,No (0),,,,,,,,,,
+410998,Without Children,Stayer,Recent,None,"VAMC, SSVF",99435,4/10/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+410999,Without Children,Stayer,At Start,Data Not Collected,"Macklemore, John",99434,4/10/2017 12:00:00 AM,,,,,,,,,,,,
+410999,Without Children,Stayer,Recent,Data Not Collected,"Macklemore, John",99434,4/10/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411000,Without Children,Stayer,At Start,Data Not Collected,"The Younger, Seneca",99437,4/11/2017 12:00:00 AM,,,,,,,,,,,,
+411000,Without Children,Stayer,Recent,Data Not Collected,"The Younger, Seneca",99437,4/11/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411001,Without Children,Stayer,At Start,None,"apr5, c3",99828,7/26/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411001,Without Children,Stayer,Recent,None,"apr5, c3",99828,7/26/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411002,Without Children,Stayer,At Start,Data Not Collected,"apr5, ch1",99829,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411002,Without Children,Stayer,Recent,Data Not Collected,"apr5, ch1",99829,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411004,Without Children,Stayer,At Start,None,"VAMCtest, Another",99441,4/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411004,Without Children,Stayer,Recent,None,"VAMCtest, Another",99441,4/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411024,Without Children,Stayer,At Start,None,"Test1, VAMC",99462,4/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411024,Without Children,Stayer,Recent,None,"Test1, VAMC",99462,4/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411025,Without Children,Stayer,At Start,None,"Test2, VAMC",99463,4/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411025,Without Children,Stayer,Recent,None,"Test2, VAMC",99463,4/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411026,Without Children,Stayer,At Start,None,"Test3, VAMC",99464,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411026,Without Children,Stayer,Recent,None,"Test3, VAMC",99464,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411027,Without Children,Stayer,At Start,None,"Test3, OtherAdult",99465,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411027,Without Children,Stayer,Recent,None,"Test3, OtherAdult",99465,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411028,With Children and Adults,Stayer,At Start,None,"Test4, VAMC",99466,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411028,With Children and Adults,Stayer,Recent,None,"Test4, VAMC",99466,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411029,With Children and Adults,Stayer,At Start,None,"Test4, OtherAdult",99467,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411029,With Children and Adults,Stayer,Recent,None,"Test4, OtherAdult",99467,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411030,With Children and Adults,Stayer,At Start,None,"Test4, Child",99468,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411030,With Children and Adults,Stayer,Recent,None,"Test4, Child",99468,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411031,With Children and Adults,Stayer,At Start,None,"Test5, VAMC",99469,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411031,With Children and Adults,Stayer,Recent,None,"Test5, VAMC",99469,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411032,With Children and Adults,Stayer,At Start,None,"Test5, OtherAdult",99470,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411032,With Children and Adults,Stayer,Recent,None,"Test5, OtherAdult",99470,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411033,With Children and Adults,Stayer,At Start,None,"Test5, Child",99471,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411033,With Children and Adults,Stayer,Recent,None,"Test5, Child",99471,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411034,With Children and Adults,Stayer,At Start,None,"Test6, VAMC",99472,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411034,With Children and Adults,Stayer,Recent,None,"Test6, VAMC",99472,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411035,With Children and Adults,Stayer,At Start,None,"Test6, OtherAdult",99473,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411035,With Children and Adults,Stayer,Recent,None,"Test6, OtherAdult",99473,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411036,With Children and Adults,Stayer,At Start,None,"Test6, Child",99474,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411036,With Children and Adults,Stayer,Recent,None,"Test6, Child",99474,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411037,With Children and Adults,Stayer,At Start,None,"VAMCTest1, VASH",99475,4/11/2017 12:00:00 AM,,No (0),22433,4/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411037,With Children and Adults,Stayer,Recent,None,"VAMCTest1, VASH",99475,4/11/2017 12:00:00 AM,,No (0),22433,4/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411038,With Children and Adults,Stayer,At Start,None,"VAMCTest1, OtherAdult",99476,4/11/2017 12:00:00 AM,,No (0),22434,4/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411038,With Children and Adults,Stayer,Recent,None,"VAMCTest1, OtherAdult",99476,4/11/2017 12:00:00 AM,,No (0),22434,4/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411039,With Children and Adults,Stayer,At Start,None,"VAMCTest1, Child",99477,4/11/2017 12:00:00 AM,,No (0),22435,4/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411039,With Children and Adults,Stayer,Recent,None,"VAMCTest1, Child",99477,4/11/2017 12:00:00 AM,,No (0),22435,4/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411040,With Children and Adults,Stayer,At Start,None,"SSVF-HP, Fam-HoH",99478,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411040,With Children and Adults,Stayer,Recent,None,"SSVF-HP, Fam-HoH",99478,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411041,With Children and Adults,Stayer,At Start,None,"SSVF-HP, Fam-OtherAdult",99479,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411041,With Children and Adults,Stayer,Recent,None,"SSVF-HP, Fam-OtherAdult",99479,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411042,With Children and Adults,Stayer,At Start,None,"SSVF-HP, Fam-Child",99480,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411042,With Children and Adults,Stayer,Recent,None,"SSVF-HP, Fam-Child",99480,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411043,With Children and Adults,Stayer,At Start,None,"SSVF-RRH, Fam-HoH",99481,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411043,With Children and Adults,Stayer,Recent,None,"SSVF-RRH, Fam-HoH",99481,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411044,With Children and Adults,Stayer,At Start,None,"SSVF-RRH, Fam-OtherAdult",99482,4/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411044,With Children and Adults,Stayer,Recent,None,"SSVF-RRH, Fam-OtherAdult",99482,4/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411045,With Children and Adults,Stayer,At Start,Data Not Collected,"SSVF-RRH, Fam-Child",99483,4/11/2017 12:00:00 AM,,,,,,,,,,,,
+411045,With Children and Adults,Stayer,Recent,Data Not Collected,"SSVF-RRH, Fam-Child",99483,4/11/2017 12:00:00 AM,,,,,,,,,,,,
+411047,Without Children,Stayer,At Start,Data Not Collected,"apr5, ch2",99830,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411047,Without Children,Stayer,Recent,Data Not Collected,"apr5, ch2",99830,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411070,With Only Children,Stayer,At Start,Data Not Collected,"Deceased, ChildAC91",99508,9/1/2016 12:00:00 AM,,,,,,,,,,,,
+411070,With Only Children,Stayer,Recent,Data Not Collected,"Deceased, ChildAC91",99508,9/1/2016 12:00:00 AM,,,,,,,,,,,,
+411098,Without Children,Stayer,At Start,Condition Unknown,"MissingEntryAssess, DQincome",99550,4/2/2016 12:00:00 AM,,Yes (1),22493,3/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411098,Without Children,Stayer,Recent,Condition Unknown,"MissingEntryAssess, DQincome",99550,4/2/2016 12:00:00 AM,,Yes (1),22493,3/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411099,Without Children,Stayer,At Start,Condition Unknown,"FinanceAssessWrongDate, DQincome",99551,3/1/2016 12:00:00 AM,,Yes (1),22494,3/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411099,Without Children,Stayer,Recent,Condition Unknown,"FinanceAssessWrongDate, DQincome",99551,3/1/2016 12:00:00 AM,,Yes (1),22502,1/30/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411101,Without Children,Stayer,At Start,Condition Unknown,"CashStatusNoSourcesYes, DQincome",99555,11/1/2016 12:00:00 AM,,Yes (1),22499,11/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411101,Without Children,Stayer,Recent,Condition Unknown,"CashStatusNoSourcesYes, DQincome",99555,11/1/2016 12:00:00 AM,,Yes (1),22499,11/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411102,With Only Children,Stayer,At Start,Data Not Collected,"CashStatusNoSourcesYes, ChildOf",99554,3/1/2016 12:00:00 AM,,Data Not Collected (99),22498,3/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411102,With Only Children,Stayer,Recent,Data Not Collected,"CashStatusNoSourcesYes, ChildOf",99554,3/1/2016 12:00:00 AM,,Data Not Collected (99),22498,3/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411103,Without Children,Stayer,At Start,Data Not Collected,"apr5, ad1",99831,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411103,Without Children,Stayer,Recent,Data Not Collected,"apr5, ad1",99831,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411107,Without Children,Stayer,At Start,None,"DQ ES nbnb, AdultAC",100557,9/1/2017 12:00:00 AM,,No (0),23884,9/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411107,Without Children,Stayer,Recent,None,"DQ ES nbnb, AdultAC",100557,9/1/2017 12:00:00 AM,,No (0),23884,9/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411109,Without Children,Stayer,At Start,Data Not Collected,"famadd, test",99568,3/1/2016 12:00:00 AM,,,,,,,,,,,,
+411109,Without Children,Stayer,Recent,Data Not Collected,"famadd, test",99568,3/1/2016 12:00:00 AM,,,,,,,,,,,,
+411111,With Only Children,Stayer,At Start,None,"PHOnly, ChildOnly",100096,8/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411111,With Only Children,Stayer,Recent,None,"PHOnly, ChildOnly",100096,8/19/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411113,Without Children,Stayer,At Start,None,"Walton, Matt",100092,8/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411113,Without Children,Stayer,Recent,None,"Walton, Matt",100092,8/19/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411118,Without Children,Stayer,At Start,Data Not Collected,"apr5, uk1",99832,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411118,Without Children,Stayer,Recent,Data Not Collected,"apr5, uk1",99832,7/26/2017 12:00:00 AM,,,,,,,,,,,,
+411122,Without Children,Stayer,At Start,Data Not Collected,"Bee, Q26",100110,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411122,Without Children,Stayer,Recent,Data Not Collected,"Bee, Q26",100110,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411123,Without Children,Stayer,At Start,Data Not Collected,"Bee, Q26 Jr",100111,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411123,Without Children,Stayer,Recent,Data Not Collected,"Bee, Q26 Jr",100111,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411135,Without Children,Stayer,At Start,Data Not Collected,"Wilson, Steven",100112,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411135,Without Children,Stayer,Recent,Data Not Collected,"Wilson, Steven",100112,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411139,Without Children,Stayer,At Start,Data Not Collected,"apr5, c1ad3",100154,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411139,Without Children,Stayer,Recent,Data Not Collected,"apr5, c1ad3",100154,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411142,Without Children,Stayer,At Start,None,"MultiIncome, TH",100091,8/19/2017 12:00:00 AM,,No (0),23224,8/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411142,Without Children,Stayer,Recent,None,"MultiIncome, TH",100091,8/19/2017 12:00:00 AM,,No (0),23224,8/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411143,Unknown Household Type,Stayer,At Start,Data Not Collected,"Test1, SKR",100072,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+411143,Unknown Household Type,Stayer,Recent,Data Not Collected,"Test1, SKR",100072,8/18/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411144,Without Children,Stayer,At Start,None,"Test, Source",99609,1/1/2016 12:00:00 AM,,No (0),22580,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411144,Without Children,Stayer,Recent,,"Test, Source",99609,1/1/2016 12:00:00 AM,,No (0),22581,12/21/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411145,Without Children,Stayer,At Start,Data Not Collected,"Source Test, Short leaver",100107,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411145,Without Children,Stayer,Recent,Data Not Collected,"Source Test, Short leaver",100107,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411146,Without Children,Stayer,At Start,None,"Test APR, Early Source",99613,1/2/2015 12:00:00 AM,,No (0),22585,1/2/2015 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411146,Without Children,Stayer,Recent,,"Test APR, Early Source",99613,1/2/2015 12:00:00 AM,,No (0),22586,1/2/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411147,Without Children,Stayer,At Start,None,"APR Test, New Source",99616,1/2/2015 12:00:00 AM,,No (0),22589,1/2/2015 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411147,Without Children,Stayer,Recent,,"APR Test, New Source",99616,1/2/2015 12:00:00 AM,,No (0),24363,1/10/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411150,Without Children,Stayer,At Start,Data Not Collected,"Q27 TEST, SKR",100146,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411150,Without Children,Stayer,Recent,Data Not Collected,"Q27 TEST, SKR",100146,8/22/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411165,Without Children,Stayer,At Start,1 or More Conditions,"Test, Test",100362,9/12/2017 12:00:00 AM,,Yes (1),23608,9/12/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411165,Without Children,Stayer,Recent,1 or More Conditions,"Test, Test",100362,9/12/2017 12:00:00 AM,,Yes (1),23608,9/12/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411167,With Only Children,Stayer,At Start,Data Not Collected,"path17, c3",100172,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411167,With Only Children,Stayer,Recent,Data Not Collected,"path17, c3",100172,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411169,Without Children,Stayer,At Start,None,"Measure 4 Test, SPM take 2",99673,7/1/2016 12:00:00 AM,,No (0),22677,7/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411169,Without Children,Stayer,Recent,None,"Measure 4 Test, SPM take 2",99673,7/1/2016 12:00:00 AM,,No (0),22677,7/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411170,Without Children,Stayer,At Start,None,"Skipped Annual, SPM Test",99669,1/7/2011 12:00:00 AM,,No (0),22666,1/7/2011 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411170,Without Children,Stayer,Recent,,"Skipped Annual, SPM Test",99669,1/7/2011 12:00:00 AM,,No (0),22667,1/1/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411174,Without Children,Stayer,At Start,None,"Test, SPM Return",99710,2/17/2016 12:00:00 AM,,No (0),,,,,,,,,,
+411174,Without Children,Stayer,Recent,None,"Test, SPM Return",99710,2/17/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411177,Without Children,Stayer,At Start,None,"Check, FirstAnnual",100117,8/21/2017 12:00:00 AM,,No (0),23246,8/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411177,Without Children,Stayer,Recent,None,"Check, FirstAnnual",100117,8/21/2017 12:00:00 AM,,No (0),23246,8/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411178,Without Children,Stayer,At Start,Condition Unknown,"Check, SecondAnnual",99695,1/1/2016 12:00:00 AM,,Yes (1),22717,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411178,Without Children,Stayer,Recent,Condition Unknown,"Check, SecondAnnual",99695,1/1/2016 12:00:00 AM,,Yes (1),22719,1/1/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411179,Without Children,Stayer,At Start,None,"AnnualCheck, Another",100907,6/1/2017 12:00:00 AM,,No (0),24424,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411179,Without Children,Stayer,Recent,None,"AnnualCheck, Another",100907,6/1/2017 12:00:00 AM,,No (0),24424,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411180,Without Children,Stayer,At Start,None,"AnnualCheck, SecondAnother",99697,1/1/2015 12:00:00 AM,,No (0),22721,1/1/2015 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411180,Without Children,Stayer,Recent,,"AnnualCheck, SecondAnother",99697,1/1/2015 12:00:00 AM,,No (0),22723,1/1/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411181,Without Children,Stayer,At Start,Condition Unknown,"AnnualCheck, Third",99698,1/1/2016 12:00:00 AM,,Yes (1),22724,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411181,Without Children,Stayer,Recent,Condition Unknown,"AnnualCheck, Third",99698,1/1/2016 12:00:00 AM,,Yes (1),22726,11/29/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411188,Without Children,Stayer,At Start,Condition Unknown,"Return Test, Double Implied",99713,10/1/2015 12:00:00 AM,,Yes (1),,,,,,,,,,
+411188,Without Children,Stayer,Recent,Condition Unknown,"Return Test, Double Implied",99713,10/1/2015 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411189,Without Children,Stayer,At Start,Condition Unknown,"Test, Double Return",99716,10/1/2015 12:00:00 AM,,Yes (1),,,,,,,,,,
+411189,Without Children,Stayer,Recent,Condition Unknown,"Test, Double Return",99716,10/1/2015 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411197,With Children and Adults,Stayer,At Start,None,"ParentingYouth, Child",99843,7/26/2017 12:00:00 AM,,No (0),22921,7/26/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411197,With Children and Adults,Stayer,Recent,None,"ParentingYouth, Child",99843,7/26/2017 12:00:00 AM,,No (0),22921,7/26/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411198,With Children and Adults,Stayer,At Start,None,"ParYouthMultiChild, Test3",99729,8/5/2017 12:00:00 AM,,No (0),22761,8/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411198,With Children and Adults,Stayer,Recent,None,"ParYouthMultiChild, Test3",99729,8/5/2017 12:00:00 AM,,No (0),22761,8/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411199,With Children and Adults,Stayer,At Start,None,"ParYouthMultiChild, Child1",99730,8/5/2017 12:00:00 AM,,No (0),22762,8/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411199,With Children and Adults,Stayer,Recent,None,"ParYouthMultiChild, Child1",99730,8/5/2017 12:00:00 AM,,No (0),22762,8/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411200,With Children and Adults,Stayer,At Start,None,"ParYouthMultiChild, Child2",99731,8/5/2017 12:00:00 AM,,No (0),22763,8/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411200,With Children and Adults,Stayer,Recent,None,"ParYouthMultiChild, Child2",99731,8/5/2017 12:00:00 AM,,No (0),22763,8/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411202,Without Children,Stayer,At Start,Data Not Collected,"ESGclient, Closed",100152,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411202,Without Children,Stayer,Recent,Data Not Collected,"ESGclient, Closed",100152,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411204,With Children and Adults,Stayer,At Start,None,"Youth, Under18Parent",99739,6/15/2017 12:00:00 AM,,No (0),22781,6/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411204,With Children and Adults,Stayer,Recent,None,"Youth, Under18Parent",99739,6/15/2017 12:00:00 AM,,No (0),22781,6/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411205,With Children and Adults,Stayer,At Start,None,"Youth, OtherYouth",99740,6/15/2017 12:00:00 AM,,No (0),22782,6/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411205,With Children and Adults,Stayer,Recent,None,"Youth, OtherYouth",99740,6/15/2017 12:00:00 AM,,No (0),22782,6/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411206,With Children and Adults,Stayer,At Start,None,"Youth, Chidl",99741,6/15/2017 12:00:00 AM,,No (0),22783,6/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411206,With Children and Adults,Stayer,Recent,None,"Youth, Chidl",99741,6/15/2017 12:00:00 AM,,No (0),22783,6/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411207,Without Children,Stayer,At Start,None,"Parker, Jamie",100181,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411207,Without Children,Stayer,Recent,None,"Parker, Jamie",100181,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411208,Without Children,Stayer,At Start,Condition Unknown,"ServiceAndReferral, PATH",99743,6/1/2017 12:00:00 AM,,Yes (1),22786,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411208,Without Children,Stayer,Recent,Condition Unknown,"ServiceAndReferral, PATH",99743,6/1/2017 12:00:00 AM,,Yes (1),22786,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411211,Without Children,Stayer,At Start,None,"ChangedProjectType, UDAcheck",100197,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411211,Without Children,Stayer,Recent,None,"ChangedProjectType, UDAcheck",100197,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411214,Without Children,Stayer,At Start,Condition Unknown,"voca3, c1",100179,8/23/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411214,Without Children,Stayer,Recent,Condition Unknown,"voca3, c1",100179,8/23/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411216,Without Children,Leaver,At Start,None,"Workflow, PATH",100816,10/27/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),,,,,,,,,,
+411216,Without Children,Leaver,Exit,None,"Workflow, PATH",100816,10/27/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),,,,,,,,,,
+411222,With Children and Adults,Stayer,At Start,Data Not Collected,"Test, PC",99814,7/21/2017 12:00:00 AM,,,22880,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411222,With Children and Adults,Stayer,Recent,Data Not Collected,"Test, PC",99814,7/21/2017 12:00:00 AM,,,22917,7/21/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411223,With Children and Adults,Stayer,At Start,Data Not Collected,"PC, PC",99815,7/21/2017 12:00:00 AM,,,22882,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411223,With Children and Adults,Stayer,Recent,Data Not Collected,"PC, PC",99815,7/21/2017 12:00:00 AM,,,22882,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411224,With Only Children,Stayer,At Start,None,"test pc, PC",99760,7/7/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411224,With Only Children,Stayer,Recent,None,"test pc, PC",99760,7/7/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411225,Without Children,Stayer,At Start,None,"pc test, pc",99761,7/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411225,Without Children,Stayer,Recent,None,"pc test, pc",99761,7/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411226,Unknown Household Type,Stayer,At Start,None,"test, test",99764,7/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411226,Unknown Household Type,Stayer,Recent,None,"test, test",99764,7/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411228,Unknown Household Type,Stayer,At Start,None,"test3, PC",99766,7/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411228,Unknown Household Type,Stayer,Recent,None,"test3, PC",99766,7/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411229,Unknown Household Type,Stayer,At Start,None,"test5, pc",99768,7/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411229,Unknown Household Type,Stayer,Recent,None,"test5, pc",99768,7/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411230,Without Children,Stayer,At Start,None,"Test, RHY",100277,8/30/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411230,Without Children,Stayer,Recent,None,"Test, RHY",100277,8/30/2017 12:00:00 AM,,No (0),,,During Program Enrollment (2),,,,,,,
+411231,Without Children,Stayer,At Start,None,"Rooney, Wayne",100008,8/15/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411231,Without Children,Stayer,Recent,None,"Rooney, Wayne",100008,8/15/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411232,Without Children,Stayer,At Start,None,"Test, Vete",100028,8/16/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411232,Without Children,Stayer,Recent,None,"Test, Vete",100028,8/16/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411234,Without Children,Stayer,At Start,Data Not Collected,"Hunter, Head",100182,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411234,Without Children,Stayer,Recent,Data Not Collected,"Hunter, Head",100182,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411238,Without Children,Stayer,At Start,Data Not Collected,"Rooney, Lil' Wayne JR",100133,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411238,Without Children,Stayer,Recent,Data Not Collected,"Rooney, Lil' Wayne JR",100133,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411239,Without Children,Stayer,At Start,None,"test, sharing addnew",100259,8/29/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411239,Without Children,Stayer,Recent,None,"test, sharing addnew",100259,8/29/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411240,Without Children,Stayer,At Start,None,"DEF, ABC",100149,8/22/2017 12:00:00 AM,,No (0),23275,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411240,Without Children,Stayer,Recent,None,"DEF, ABC",100149,8/22/2017 12:00:00 AM,,No (0),23275,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411241,With Children and Adults,Stayer,At Start,Data Not Collected,"test1, new",99816,7/21/2017 12:00:00 AM,,,22881,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411241,With Children and Adults,Stayer,Recent,Data Not Collected,"test1, new",99816,7/21/2017 12:00:00 AM,,,22881,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411245,With Only Children,Stayer,At Start,Data Not Collected,"ewqwqe, aedwe",99802,7/21/2017 12:00:00 AM,,,22865,7/17/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411245,With Only Children,Stayer,Recent,Data Not Collected,"ewqwqe, aedwe",99802,7/21/2017 12:00:00 AM,,,22865,7/17/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411245,With Only Children,Stayer,Recent,Data Not Collected,"ewqwqe, aedwe",99802,7/21/2017 12:00:00 AM,,,22865,7/17/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411246,With Only Children,Stayer,At Start,None,"test1, test1",100180,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411246,With Only Children,Stayer,Recent,None,"test1, test1",100180,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411247,Without Children,Stayer,At Start,None,"wqewqe, sdewqd",99807,7/21/2017 12:00:00 AM,,No (0),22872,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411247,Without Children,Stayer,Recent,None,"wqewqe, sdewqd",99807,7/21/2017 12:00:00 AM,,No (0),22872,7/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411248,With Children and Adults,Stayer,At Start,Data Not Collected,"test1, Test1",99822,7/25/2017 12:00:00 AM,,,22891,7/25/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411248,With Children and Adults,Stayer,Recent,Data Not Collected,"test1, Test1",99822,7/25/2017 12:00:00 AM,,,,,Annual (5),,,,,,,
+411250,Without Children,Stayer,At Start,None,"RHY2, test",99819,7/24/2017 12:00:00 AM,,No (0),22887,7/24/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411250,Without Children,Stayer,Recent,None,"RHY2, test",99819,7/24/2017 12:00:00 AM,,No (0),22887,7/24/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411251,Without Children,Stayer,At Start,Client Doesn't Know/Client Refused,"Rhy3, test",99820,7/24/2017 12:00:00 AM,,Client doesn't know (8),22888,7/24/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),,No (0),No (0),No (0)
+411251,Without Children,Stayer,Recent,Client Doesn't Know/Client Refused,"Rhy3, test",99820,7/24/2017 12:00:00 AM,,Client doesn't know (8),22888,7/24/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),,No (0),No (0),No (0)
+411251,Without Children,Stayer,Recent,Client Doesn't Know/Client Refused,"Rhy3, test",99820,7/24/2017 12:00:00 AM,,Client doesn't know (8),22888,7/24/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411252,Without Children,Stayer,At Start,Data Not Collected,"rhy17, c1",100136,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411252,Without Children,Stayer,Recent,Data Not Collected,"rhy17, c1",100136,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411253,Without Children,Stayer,At Start,None,"test1, RHY",99823,7/25/2017 12:00:00 AM,,No (0),22892,7/25/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411253,Without Children,Stayer,Recent,None,"test1, RHY",99823,7/25/2017 12:00:00 AM,,No (0),22892,7/25/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411254,Without Children,Stayer,At Start,Data Not Collected,"Gat, Tag",100130,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411254,Without Children,Stayer,Recent,Data Not Collected,"Gat, Tag",100130,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411255,With Only Children,Stayer,At Start,Data Not Collected,"po, panda",99836,7/26/2017 12:00:00 AM,,,22907,7/26/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411255,With Only Children,Stayer,Recent,Data Not Collected,"po, panda",99836,7/26/2017 12:00:00 AM,,,22907,7/26/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411256,Without Children,Stayer,At Start,Data Not Collected,"Dan, Jack",100067,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+411256,Without Children,Stayer,Recent,Data Not Collected,"Dan, Jack",100067,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+411257,Without Children,Stayer,At Start,Data Not Collected,"bcp, test",100070,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+411257,Without Children,Stayer,Recent,Data Not Collected,"bcp, test",100070,8/18/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411258,Without Children,Stayer,At Start,None,"Cho, Pan",100156,8/22/2017 12:00:00 AM,,No (0),23279,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411258,Without Children,Stayer,Recent,None,"Cho, Pan",100156,8/22/2017 12:00:00 AM,,No (0),23279,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411260,Without Children,Stayer,At Start,Data Not Collected,"Williamson, Stacy",100057,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+411260,Without Children,Stayer,Recent,Data Not Collected,"Williamson, Stacy",100057,8/18/2017 12:00:00 AM,,,,,,,,,,,,
+411262,Without Children,Stayer,At Start,Data Not Collected,"Test, Mark",100129,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411262,Without Children,Stayer,Recent,Data Not Collected,"Test, Mark",100129,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411263,With Only Children,Stayer,At Start,None,"Data, NoFYSB",99855,7/27/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411263,With Only Children,Stayer,Recent,None,"Data, NoFYSB",99855,7/27/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411264,Without Children,Stayer,At Start,Data Not Collected,"FYSB, New",100125,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411264,Without Children,Stayer,Recent,Data Not Collected,"FYSB, New",100125,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411265,Without Children,Stayer,At Start,None,"Test, Kent",100150,8/22/2017 12:00:00 AM,,No (0),23276,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411265,Without Children,Stayer,Recent,None,"Test, Kent",100150,8/22/2017 12:00:00 AM,,No (0),23276,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411268,Without Children,Stayer,At Start,Condition Unknown,"Test, Emma",100118,8/21/2017 12:00:00 AM,,Yes (1),23247,8/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411268,Without Children,Stayer,Recent,Condition Unknown,"Test, Emma",100118,8/21/2017 12:00:00 AM,,Yes (1),23247,8/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411269,Without Children,Leaver,At Start,Data Not Collected,"Boy, Game",100138,8/22/2017 12:00:00 AM,11/20/2017 12:00:00 AM,,,,,,,,,,,
+411269,Without Children,Leaver,Exit,Data Not Collected,"Boy, Game",100138,8/22/2017 12:00:00 AM,11/20/2017 12:00:00 AM,,,,,,,,,,,
+411270,Without Children,Stayer,At Start,Data Not Collected,"Test, Gray",100141,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411270,Without Children,Stayer,Recent,Data Not Collected,"Test, Gray",100141,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411274,Without Children,Stayer,At Start,None,"Go, Rent",100010,8/15/2017 12:00:00 AM,,No (0),23142,8/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411274,Without Children,Stayer,Recent,None,"Go, Rent",100010,8/15/2017 12:00:00 AM,,No (0),23142,8/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411276,Without Children,Stayer,At Start,None,"Test, Henry",100090,8/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411276,Without Children,Stayer,Recent,None,"Test, Henry",100090,8/19/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411277,With Only Children,Stayer,At Start,Data Not Collected,"THtest, Child",100145,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411277,With Only Children,Stayer,Recent,Data Not Collected,"THtest, Child",100145,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411278,Without Children,Stayer,At Start,None,"Jones, Heather",100093,8/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411278,Without Children,Stayer,Recent,None,"Jones, Heather",100093,8/19/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411279,Without Children,Stayer,At Start,Data Not Collected,"TEST22, BCP",99898,8/3/2017 12:00:00 AM,,,,,,,,,,,,
+411279,Without Children,Stayer,Recent,Data Not Collected,"TEST22, BCP",99898,8/3/2017 12:00:00 AM,,,,,,,,,,,,
+411280,Without Children,Stayer,At Start,None,"Test, PATH",100155,8/22/2017 12:00:00 AM,,No (0),23278,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411280,Without Children,Stayer,Recent,None,"Test, PATH",100155,8/22/2017 12:00:00 AM,,No (0),23278,8/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411281,Without Children,Stayer,At Start,None,"Testing, BCP",99895,8/3/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411281,Without Children,Stayer,Recent,None,"Testing, BCP",99895,8/3/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411283,Without Children,Stayer,At Start,Data Not Collected,"Testing3, BCP",100151,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411283,Without Children,Stayer,Recent,Data Not Collected,"Testing3, BCP",100151,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411284,Without Children,Stayer,At Start,Data Not Collected,"test1, BCP",100164,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411284,Without Children,Stayer,Recent,Data Not Collected,"test1, BCP",100164,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411285,Without Children,Stayer,At Start,None,"dsadsad, asasd",99913,8/4/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411285,Without Children,Stayer,Recent,None,"dsadsad, asasd",99913,8/4/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411286,Without Children,Stayer,At Start,Data Not Collected,"test, Safe&E",100124,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411286,Without Children,Stayer,Recent,Data Not Collected,"test, Safe&E",100124,8/21/2017 12:00:00 AM,,,,,,,,,,,,
+411287,Without Children,Stayer,At Start,Data Not Collected,"Jackson, Julia",100137,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411287,Without Children,Stayer,Recent,Data Not Collected,"Jackson, Julia",100137,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411288,Without Children,Stayer,At Start,Data Not Collected,"TEST3, SKR",100143,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411288,Without Children,Stayer,Recent,Data Not Collected,"TEST3, SKR",100143,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411289,With Children and Adults,Stayer,At Start,1 or More Conditions,"FollowupTest, RHY",99957,8/13/2017 12:00:00 AM,,Yes (1),23099,8/13/2017 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411289,With Children and Adults,Stayer,Recent,1 or More Conditions,"FollowupTest, RHY",99957,8/13/2017 12:00:00 AM,,Yes (1),23099,8/13/2017 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411290,With Children and Adults,Stayer,At Start,None,"SafeExitTest, OtherChild",99958,8/13/2017 12:00:00 AM,,No (0),23100,8/13/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411290,With Children and Adults,Stayer,Recent,None,"SafeExitTest, OtherChild",99958,8/13/2017 12:00:00 AM,,No (0),23100,8/13/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411291,Without Children,Stayer,At Start,Data Not Collected,"TEST4, SKR",100256,8/29/2017 12:00:00 AM,,,,,,,,,,,,
+411291,Without Children,Stayer,Recent,Data Not Collected,"TEST4, SKR",100256,8/29/2017 12:00:00 AM,,,,,,,,,,,,
+411295,Without Children,Stayer,At Start,Data Not Collected,"ANNUAL, SKR",100128,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411295,Without Children,Stayer,Recent,Data Not Collected,"ANNUAL, SKR",100128,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411296,Without Children,Stayer,At Start,None,"Test, DV",99959,8/13/2017 12:00:00 AM,,No (0),23101,8/13/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411296,Without Children,Stayer,Recent,,"Test, DV",99959,8/13/2017 12:00:00 AM,,No (0),23103,8/13/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411297,Without Children,Stayer,At Start,Data Not Collected,"Test, GPD TIP",99967,8/14/2017 12:00:00 AM,,,,,,,,,,,,
+411297,Without Children,Stayer,Recent,Data Not Collected,"Test, GPD TIP",99967,8/14/2017 12:00:00 AM,,,,,,,,,,,,
+411298,Without Children,Stayer,At Start,None,"PARTIAL, SKR",100034,8/16/2017 12:00:00 AM,,No (0),23166,8/16/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411298,Without Children,Stayer,Recent,None,"PARTIAL, SKR",100034,8/16/2017 12:00:00 AM,,No (0),23166,8/16/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411299,Without Children,Stayer,At Start,None,"AssessmentTest, Vet",100119,8/21/2017 12:00:00 AM,,No (0),23248,8/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411299,Without Children,Stayer,Recent,None,"AssessmentTest, Vet",100119,8/21/2017 12:00:00 AM,,No (0),23248,8/21/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411300,Without Children,Stayer,At Start,None,"Vet, New",99982,8/15/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411300,Without Children,Stayer,Recent,None,"Vet, New",99982,8/15/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411301,Without Children,Stayer,At Start,Condition Unknown,"Curtis, Ian",99987,8/15/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411301,Without Children,Stayer,Recent,Condition Unknown,"Curtis, Ian",99987,8/15/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411303,Without Children,Stayer,At Start,None,"Benjamin, Astro",100030,8/16/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411303,Without Children,Stayer,Recent,None,"Benjamin, Astro",100030,8/16/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411305,Without Children,Stayer,At Start,Data Not Collected,"Etten, Matt",100045,8/17/2017 12:00:00 AM,,,,,,,,,,,,
+411305,Without Children,Stayer,Recent,Data Not Collected,"Etten, Matt",100045,8/17/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411306,Without Children,Stayer,At Start,None,"Something, Wendy",100061,8/18/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411306,Without Children,Stayer,Recent,None,"Something, Wendy",100061,8/18/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411307,With Only Children,Stayer,At Start,None,"RHY, Student1",100050,8/17/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411307,With Only Children,Stayer,Recent,None,"RHY, Student1",100050,8/17/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411308,With Only Children,Stayer,At Start,Condition Unknown,"RHY, Student2",100051,8/17/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411308,With Only Children,Stayer,Recent,Condition Unknown,"RHY, Student2",100051,8/17/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411309,With Only Children,Stayer,At Start,None,"RHY, Student3",100052,8/17/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411309,With Only Children,Stayer,Recent,None,"RHY, Student3",100052,8/17/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411310,Without Children,Stayer,At Start,None,"NonRHY, AdultStudent1",100053,8/17/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411310,Without Children,Stayer,Recent,None,"NonRHY, AdultStudent1",100053,8/17/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411311,Without Children,Stayer,At Start,Data Not Collected,"RHY, StudentAdult2",100173,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411311,Without Children,Stayer,Recent,Data Not Collected,"RHY, StudentAdult2",100173,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411313,Without Children,Stayer,At Start,None,"RHY, NewCLient",100089,8/18/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411313,Without Children,Stayer,Recent,None,"RHY, NewCLient",100089,8/18/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411314,With Only Children,Stayer,At Start,None,"No.1, Student",100097,8/19/2017 12:00:00 AM,,No (0),23230,8/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411314,With Only Children,Stayer,Recent,None,"No.1, Student",100097,8/19/2017 12:00:00 AM,,No (0),23230,8/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411315,Without Children,Stayer,At Start,Data Not Collected,"No.2, Student",100252,8/29/2017 12:00:00 AM,,,,,,,,,,,,
+411315,Without Children,Stayer,Recent,Data Not Collected,"No.2, Student",100252,8/29/2017 12:00:00 AM,,,,,,,,,,,,
+411316,Without Children,Stayer,At Start,None,"BCPStatus, R2RHY",100099,8/19/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411316,Without Children,Stayer,Recent,None,"BCPStatus, R2RHY",100099,8/19/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411318,Without Children,Stayer,At Start,Data Not Collected,"SOARtest, PATH",100238,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411318,Without Children,Stayer,Recent,Data Not Collected,"SOARtest, PATH",100238,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411319,With Children and Adults,Stayer,At Start,None,"SOARtest, PATHChild",100176,8/1/2017 12:00:00 AM,,No (0),23298,8/23/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411319,With Children and Adults,Stayer,Recent,None,"SOARtest, PATHChild",100176,8/1/2017 12:00:00 AM,,No (0),23298,8/23/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411320,Without Children,Stayer,At Start,Data Not Collected,"Test, MoveIn",100157,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411320,Without Children,Stayer,Recent,Data Not Collected,"Test, MoveIn",100157,8/22/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411321,Without Children,Stayer,At Start,None,"HIVADS, SKR",100235,8/28/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411321,Without Children,Stayer,Recent,None,"HIVADS, SKR",100235,8/28/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411322,Without Children,Stayer,At Start,Data Not Collected,"AssessmentTest, PATH",100163,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411322,Without Children,Stayer,Recent,Data Not Collected,"AssessmentTest, PATH",100163,8/22/2017 12:00:00 AM,,,,,,,,,,,,
+411326,Without Children,Stayer,At Start,Condition Unknown,"Onyeabor, William",100174,8/23/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411326,Without Children,Stayer,Recent,Condition Unknown,"Onyeabor, William",100174,8/23/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411328,Without Children,Stayer,At Start,None,"Farmingo, Brad",100184,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411328,Without Children,Stayer,Recent,None,"Farmingo, Brad",100184,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411329,Without Children,Stayer,At Start,None,"Erickson, Brad",100185,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411329,Without Children,Stayer,Recent,None,"Erickson, Brad",100185,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411330,Without Children,Stayer,At Start,Condition Unknown,"Edmond, Peter",100187,8/23/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411330,Without Children,Stayer,Recent,Condition Unknown,"Edmond, Peter",100187,8/23/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411331,Without Children,Stayer,At Start,None,"Check, Education Required",100188,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411331,Without Children,Stayer,Recent,None,"Check, Education Required",100188,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411332,With Only Children,Stayer,At Start,None,"Check, ChildEd",100189,8/23/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411332,With Only Children,Stayer,Recent,None,"Check, ChildEd",100189,8/23/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411333,With Children and Adults,Stayer,At Start,None,"Family, SSVF HoH",100254,8/29/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411333,With Children and Adults,Stayer,Recent,None,"Family, SSVF HoH",100254,8/29/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411334,With Children and Adults,Stayer,At Start,None,"Family, SSVF non HoH",100255,8/29/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411334,With Children and Adults,Stayer,Recent,None,"Family, SSVF non HoH",100255,8/29/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411335,Without Children,Stayer,At Start,Condition Unknown,"123, Test",100191,8/23/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411335,Without Children,Stayer,Recent,Condition Unknown,"123, Test",100191,8/23/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411336,Without Children,Stayer,At Start,Condition Unknown,"123, testing",100192,8/23/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411336,Without Children,Stayer,Recent,Condition Unknown,"123, testing",100192,8/23/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411340,Without Children,Stayer,At Start,Data Not Collected,"123, tester",100239,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411340,Without Children,Stayer,Recent,Data Not Collected,"123, tester",100239,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411341,Without Children,Stayer,At Start,Data Not Collected,"123, TEstone",100199,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411341,Without Children,Stayer,Recent,Data Not Collected,"123, TEstone",100199,8/23/2017 12:00:00 AM,,,,,,,,,,,,
+411342,Without Children,Stayer,At Start,None,"123, testiin",100358,9/12/2017 12:00:00 AM,,No (0),23604,9/12/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411342,Without Children,Stayer,Recent,None,"123, testiin",100358,9/12/2017 12:00:00 AM,,No (0),23604,9/12/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411343,Without Children,Stayer,At Start,None,"Giantsbane, Tormund",100202,8/24/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411343,Without Children,Stayer,Recent,None,"Giantsbane, Tormund",100202,8/24/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411345,Without Children,Stayer,At Start,Data Not Collected,"EdReq, Adult",100215,8/24/2017 12:00:00 AM,,,,,,,,,,,,
+411345,Without Children,Stayer,Recent,Data Not Collected,"EdReq, Adult",100215,8/24/2017 12:00:00 AM,,,,,,,,,,,,
+411346,Without Children,Stayer,At Start,1 or More Conditions,"Lodge, Possum",100218,8/25/2017 12:00:00 AM,,No (0),23337,8/25/2017 12:00:00 AM,Entry (1),,,,,,Yes (1),
+411346,Without Children,Stayer,Recent,1 or More Conditions,"Lodge, Possum",100218,8/25/2017 12:00:00 AM,,No (0),23337,8/25/2017 12:00:00 AM,Entry (1),,,,,,Yes (1),
+411349,Without Children,Stayer,At Start,None,"AssessAtExit, OtherAdutl",100223,8/25/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411349,Without Children,Stayer,Recent,None,"AssessAtExit, OtherAdutl",100223,8/25/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411350,Without Children,Stayer,At Start,None,"Client, EmpTest",100228,8/27/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411350,Without Children,Stayer,Recent,None,"Client, EmpTest",100228,8/27/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411353,With Children and Adults,Stayer,At Start,Data Not Collected,"Jim, Sonny",100243,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411353,With Children and Adults,Stayer,Recent,Data Not Collected,"Jim, Sonny",100243,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411354,With Children and Adults,Stayer,At Start,Data Not Collected,"Cooper, Jane",100244,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411354,With Children and Adults,Stayer,Recent,Data Not Collected,"Cooper, Jane",100244,8/28/2017 12:00:00 AM,,,,,,,,,,,,
+411355,Without Children,Stayer,At Start,None,"Patricia, Susan",100236,8/28/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411355,Without Children,Stayer,Recent,None,"Patricia, Susan",100236,8/28/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411357,Without Children,Stayer,At Start,None,"Belinda, John",100342,9/11/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411357,Without Children,Stayer,Recent,None,"Belinda, John",100342,9/11/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411363,Without Children,Stayer,At Start,Condition Unknown,"Silverstone, Stephen",100253,8/29/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411363,Without Children,Stayer,Recent,Condition Unknown,"Silverstone, Stephen",100253,8/29/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411373,Without Children,Stayer,At Start,None,"Deonardo, Sunny",100276,8/30/2017 12:00:00 AM,,No (0),23438,8/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411373,Without Children,Stayer,Recent,None,"Deonardo, Sunny",100276,8/30/2017 12:00:00 AM,,No (0),23438,8/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411374,Without Children,Stayer,At Start,Condition Unknown,"RHY, HighestGrade",100278,8/30/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411374,Without Children,Stayer,Recent,Condition Unknown,"RHY, HighestGrade",100278,8/30/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411378,Without Children,Stayer,At Start,None,"Test, ExitHoH",100292,8/31/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411378,Without Children,Stayer,Recent,None,"Test, ExitHoH",100292,8/31/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411379,Without Children,Stayer,At Start,Data Not Collected,"Test, OtherAdult",100293,8/31/2017 12:00:00 AM,,,,,,,,,,,,
+411379,Without Children,Stayer,Recent,Data Not Collected,"Test, OtherAdult",100293,8/31/2017 12:00:00 AM,,,,,,,,,,,,
+411382,Without Children,Stayer,At Start,Data Not Collected,"Test, MultiFund",100327,9/6/2017 12:00:00 AM,,,,,,,,,,,,
+411382,Without Children,Stayer,Recent,Data Not Collected,"Test, MultiFund",100327,9/6/2017 12:00:00 AM,,,,,During Program Enrollment (2),,,,,,,
+411383,With Children and Adults,Stayer,At Start,Data Not Collected,"OtherAdult, MultiFund",100304,9/1/2017 12:00:00 AM,,,,,,,,,,,,
+411383,With Children and Adults,Stayer,Recent,Data Not Collected,"OtherAdult, MultiFund",100304,9/1/2017 12:00:00 AM,,,,,,,,,,,,
+411384,Without Children,Leaver,At Start,None,"Test, MultiVet",100812,10/30/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),24271,10/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411384,Without Children,Leaver,Exit,None,"Test, MultiVet",100812,10/30/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),,,,,,,,,,
+411385,With Children and Adults,Stayer,At Start,Data Not Collected,"Test, Child",100306,9/1/2017 12:00:00 AM,,,,,,,,,,,,
+411385,With Children and Adults,Stayer,Recent,Data Not Collected,"Test, Child",100306,9/1/2017 12:00:00 AM,,,,,,,,,,,,
+411386,Unknown Household Type,Stayer,At Start,None,"Housing Move-in, Testing",100338,9/10/2017 12:00:00 AM,,No (0),23582,9/10/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411386,Unknown Household Type,Stayer,Recent,None,"Housing Move-in, Testing",100338,9/10/2017 12:00:00 AM,,No (0),23582,9/10/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411392,Without Children,Stayer,At Start,None,"Bag, Jim",100325,9/5/2017 12:00:00 AM,,No (0),23555,9/5/2017 12:00:00 AM,Entry (1),No (0),No (0),,,No (0),,
+411392,Without Children,Stayer,Recent,None,"Bag, Jim",100325,9/5/2017 12:00:00 AM,,No (0),23555,9/5/2017 12:00:00 AM,Entry (1),No (0),No (0),,,No (0),,
+411393,Without Children,Stayer,At Start,1 or More Conditions,"robin, red",100328,9/6/2017 12:00:00 AM,,No (0),23563,9/6/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),,,,
+411393,Without Children,Stayer,Recent,1 or More Conditions,"robin, red",100328,9/6/2017 12:00:00 AM,,No (0),23563,9/6/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),,,,
+411394,Without Children,Stayer,At Start,1 or More Conditions,"calc, ion",100329,9/6/2017 12:00:00 AM,,Client doesn't know (8),23564,9/6/2017 12:00:00 AM,Entry (1),No (0),Yes (1),,,,,
+411394,Without Children,Stayer,Recent,1 or More Conditions,"calc, ion",100329,9/6/2017 12:00:00 AM,,Client doesn't know (8),23564,9/6/2017 12:00:00 AM,Entry (1),No (0),Yes (1),,,,,
+411395,Without Children,Stayer,At Start,None,"Sop, Pos",100331,9/7/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411395,Without Children,Stayer,Recent,None,"Sop, Pos",100331,9/7/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411396,Without Children,Stayer,At Start,Data Not Collected,"yop, poy",100332,9/7/2017 12:00:00 AM,,Data Not Collected (99),,,,,,,,,,
+411396,Without Children,Stayer,Recent,Data Not Collected,"yop, poy",100332,9/7/2017 12:00:00 AM,,Data Not Collected (99),,,Entry (1),,,,,,,
+411397,Without Children,Stayer,At Start,None,"Tah, Hat",100333,9/7/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411397,Without Children,Stayer,Recent,None,"Tah, Hat",100333,9/7/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411398,Without Children,Stayer,At Start,None,"nel, Len",100336,9/7/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411398,Without Children,Stayer,Recent,None,"nel, Len",100336,9/7/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411399,Without Children,Stayer,At Start,Condition Unknown,"Krispers, Rice",100337,9/8/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411399,Without Children,Stayer,Recent,Condition Unknown,"Krispers, Rice",100337,9/8/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411401,With Only Children,Stayer,At Start,1 or More Conditions,"Test, Disab",100348,9/11/2017 12:00:00 AM,,Yes (1),23596,9/11/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+411401,With Only Children,Stayer,Recent,1 or More Conditions,"Test, Disab",100348,9/11/2017 12:00:00 AM,,Yes (1),23596,9/11/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+411403,Without Children,Stayer,At Start,1 or More Conditions,"McArthur, John",100352,8/15/2016 12:00:00 AM,,No (0),23599,8/15/2016 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),Yes (1),No (0)
+411403,Without Children,Stayer,Recent,,"McArthur, John",100352,8/15/2016 12:00:00 AM,,No (0),23615,9/13/2017 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411404,Without Children,Stayer,At Start,1 or More Conditions,"Set, Get",100357,9/12/2017 12:00:00 AM,,Yes (1),23602,9/12/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Client doesn't know (8),,Client Refused (9),Data Not Collected (99),No (0)
+411404,Without Children,Stayer,Recent,1 or More Conditions,"Set, Get",100357,9/12/2017 12:00:00 AM,,Yes (1),23602,9/12/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Client doesn't know (8),,Client Refused (9),Data Not Collected (99),No (0)
+411406,Without Children,Stayer,At Start,Condition Unknown,"test, ping",100360,9/12/2017 12:00:00 AM,,Yes (1),23606,9/12/2017 12:00:00 AM,Entry (1),Data Not Collected (99),Client Refused (9),Client doesn't know (8),Client doesn't know (8),Client Refused (9),Data Not Collected (99),Client doesn't know (8)
+411406,Without Children,Stayer,Recent,Condition Unknown,"test, ping",100360,9/12/2017 12:00:00 AM,,Yes (1),23606,9/12/2017 12:00:00 AM,Entry (1),Data Not Collected (99),Client Refused (9),Client doesn't know (8),Client doesn't know (8),Client Refused (9),Data Not Collected (99),Client doesn't know (8)
+411409,Without Children,Stayer,At Start,Condition Unknown,"Not, Ton",100364,9/13/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411409,Without Children,Stayer,Recent,Condition Unknown,"Not, Ton",100364,9/13/2017 12:00:00 AM,,Yes (1),23636,9/14/2017 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411413,Without Children,Stayer,At Start,None,"AssessTest, Health",100370,9/1/2017 12:00:00 AM,,No (0),23629,9/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411413,Without Children,Stayer,Recent,None,"AssessTest, Health",100370,9/1/2017 12:00:00 AM,,No (0),23629,9/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411418,Without Children,Stayer,At Start,None,"reay, Year",100382,9/14/2017 12:00:00 AM,,No (0),23640,9/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411418,Without Children,Stayer,Recent,1 or More Conditions,"reay, Year",100382,9/14/2017 12:00:00 AM,,No (0),23641,9/14/2017 12:00:00 AM,During Program Enrollment (2),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411419,With Children and Adults,Stayer,At Start,1 or More Conditions,"Graham, Heather Joan",100384,9/14/2017 12:00:00 AM,,No (0),23643,9/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),Yes (1)
+411419,With Children and Adults,Stayer,Recent,1 or More Conditions,"Graham, Heather Joan",100384,9/14/2017 12:00:00 AM,,No (0),23643,9/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),Yes (1)
+411420,Without Children,Stayer,At Start,Condition Unknown,"Teg, Get",100383,9/14/2017 12:00:00 AM,,Yes (1),23642,9/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411420,Without Children,Stayer,Recent,1 or More Conditions,"Teg, Get",100383,9/14/2017 12:00:00 AM,,Yes (1),23644,9/14/2017 12:00:00 AM,During Program Enrollment (2),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411421,Without Children,Stayer,At Start,Condition Unknown,"yar, Ray",100386,9/14/2017 12:00:00 AM,,Yes (1),23645,9/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411421,Without Children,Stayer,Recent,1 or More Conditions,"yar, Ray",100386,9/14/2017 12:00:00 AM,,Yes (1),23646,9/14/2017 12:00:00 AM,During Program Enrollment (2),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411425,With Only Children,Stayer,At Start,None,"OfYouth, child",100394,9/1/2017 12:00:00 AM,,No (0),23657,9/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411425,With Only Children,Stayer,Recent,None,"OfYouth, child",100394,9/1/2017 12:00:00 AM,,No (0),23657,9/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411444,With Children and Adults,Stayer,At Start,1 or More Conditions,"Client, HOH",100422,9/20/2017 12:00:00 AM,,Yes (1),23715,9/20/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411444,With Children and Adults,Stayer,Recent,1 or More Conditions,"Client, HOH",100422,9/20/2017 12:00:00 AM,,Yes (1),23715,9/20/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411445,With Children and Adults,Stayer,At Start,1 or More Conditions,"Client, HOHChild",100423,9/20/2017 12:00:00 AM,,Yes (1),23716,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411445,With Children and Adults,Stayer,Recent,1 or More Conditions,"Client, HOHChild",100423,9/20/2017 12:00:00 AM,,Yes (1),23716,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411447,With Children and Adults,Stayer,At Start,None,"Client, HOHTwo",100424,9/20/2017 12:00:00 AM,,No (0),23717,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411447,With Children and Adults,Stayer,Recent,None,"Client, HOHTwo",100424,9/20/2017 12:00:00 AM,,No (0),23717,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411448,With Children and Adults,Stayer,At Start,1 or More Conditions,"Client, HOHTwoClhild",100425,9/20/2017 12:00:00 AM,,Yes (1),23718,9/20/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411448,With Children and Adults,Stayer,Recent,1 or More Conditions,"Client, HOHTwoClhild",100425,9/20/2017 12:00:00 AM,,Yes (1),23718,9/20/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411449,With Children and Adults,Stayer,At Start,None,"Client, HOHThree",100426,9/20/2017 12:00:00 AM,,No (0),23719,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411449,With Children and Adults,Stayer,Recent,None,"Client, HOHThree",100426,9/20/2017 12:00:00 AM,,No (0),23719,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411450,With Children and Adults,Stayer,At Start,None,"Client, HOHThreeChild",100427,9/20/2017 12:00:00 AM,,No (0),23720,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411450,With Children and Adults,Stayer,Recent,None,"Client, HOHThreeChild",100427,9/20/2017 12:00:00 AM,,No (0),23720,9/20/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411453,Without Children,Stayer,At Start,1 or More Conditions,"Client, HOHAdult",100430,9/20/2017 12:00:00 AM,,Yes (1),23721,9/20/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411453,Without Children,Stayer,Recent,1 or More Conditions,"Client, HOHAdult",100430,9/20/2017 12:00:00 AM,,Yes (1),23721,9/20/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411458,With Children and Adults,Stayer,At Start,None,"Graham, Franny K",100440,9/22/2017 12:00:00 AM,,No (0),23727,9/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411458,With Children and Adults,Stayer,Recent,None,"Graham, Franny K",100440,9/22/2017 12:00:00 AM,,No (0),23727,9/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411471,Without Children,Stayer,At Start,None,"TestLength, Annual",100465,10/1/2016 12:00:00 AM,,No (0),23775,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411471,Without Children,Stayer,Recent,None,"TestLength, Annual",100465,10/1/2016 12:00:00 AM,,No (0),23775,1/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411472,Without Children,Stayer,At Start,None,"TestLength, OtherAdult",100466,8/31/2017 12:00:00 AM,,No (0),23776,8/31/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411472,Without Children,Stayer,Recent,None,"TestLength, OtherAdult",100466,8/31/2017 12:00:00 AM,,No (0),23776,8/31/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411474,Without Children,Stayer,At Start,None,"EntryError, Pre101",100468,9/30/2016 12:00:00 AM,,No (0),,,,,,,,,,
+411474,Without Children,Stayer,Recent,None,"EntryError, Pre101",100468,9/30/2016 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411475,Without Children,Stayer,At Start,Condition Unknown,"EntryError, Post101",100469,10/1/2016 12:00:00 AM,,Yes (1),,,,,,,,,,
+411475,Without Children,Stayer,Recent,Condition Unknown,"EntryError, Post101",100469,10/1/2016 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411487,Unknown Household Type,Stayer,At Start,None,"Test2, BCP",100481,9/28/2017 12:00:00 AM,,No (0),23790,9/28/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411487,Unknown Household Type,Stayer,Recent,None,"Test2, BCP",100481,9/28/2017 12:00:00 AM,,No (0),23790,9/28/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411489,With Only Children,Stayer,At Start,None,"Parent, Under18",100482,8/1/2017 12:00:00 AM,,No (0),23791,8/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411489,With Only Children,Stayer,Recent,None,"Parent, Under18",100482,8/1/2017 12:00:00 AM,,No (0),23791,8/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411490,With Only Children,Stayer,At Start,None,"Und18Parent, Child",100483,8/1/2017 12:00:00 AM,,No (0),23792,8/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411490,With Only Children,Stayer,Recent,None,"Und18Parent, Child",100483,8/1/2017 12:00:00 AM,,No (0),23792,8/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411491,Without Children,Stayer,At Start,None,"Ffej, Jeff",100487,9/29/2017 12:00:00 AM,,No (0),23796,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411491,Without Children,Stayer,Recent,None,"Ffej, Jeff",100487,9/29/2017 12:00:00 AM,,No (0),23796,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411492,Without Children,Stayer,At Start,Data Not Collected,"Ffej, Geff",100488,9/29/2017 12:00:00 AM,,,,,,,,,,,,
+411492,Without Children,Stayer,Recent,Data Not Collected,"Ffej, Geff",100488,9/29/2017 12:00:00 AM,,,,,,,,,,,,
+411493,Without Children,Stayer,At Start,Data Not Collected,"Tey, Yet",100530,9/29/2017 12:00:00 AM,,,,,,,,,,,,
+411493,Without Children,Stayer,Recent,Data Not Collected,"Tey, Yet",100530,9/29/2017 12:00:00 AM,,,,,,,,,,,,
+411494,Without Children,Stayer,At Start,Client Doesn't Know/Client Refused,"Tey, Yett",100490,9/29/2017 12:00:00 AM,,Client Refused (9),23799,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411494,Without Children,Stayer,Recent,Client Doesn't Know/Client Refused,"Tey, Yett",100490,9/29/2017 12:00:00 AM,,Client Refused (9),23799,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411495,Without Children,Stayer,At Start,None,"oiu, Uio",100491,9/29/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411495,Without Children,Stayer,Recent,None,"oiu, Uio",100491,9/29/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411498,Without Children,Stayer,At Start,None,"Brupo, Opurb",100493,9/29/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411498,Without Children,Stayer,Recent,None,"Brupo, Opurb",100493,9/29/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411502,Without Children,Stayer,At Start,None,"RHYTest, BCP",100496,9/29/2017 12:00:00 AM,,No (0),23806,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411502,Without Children,Stayer,Recent,None,"RHYTest, BCP",100496,9/29/2017 12:00:00 AM,,No (0),23806,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411503,Without Children,Stayer,At Start,None,"Dnuorg, Ground",100497,9/29/2017 12:00:00 AM,,No (0),23807,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411503,Without Children,Stayer,Recent,None,"Dnuorg, Ground",100497,9/29/2017 12:00:00 AM,,No (0),23807,9/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411508,Without Children,Stayer,At Start,1 or More Conditions,"EnrollmentWF, Edit",100524,9/29/2017 12:00:00 AM,,Yes (1),23842,9/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411508,Without Children,Stayer,Recent,1 or More Conditions,"EnrollmentWF, Edit",100524,9/29/2017 12:00:00 AM,,Yes (1),23848,9/29/2017 12:00:00 AM,During Program Enrollment (2),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411520,Without Children,Stayer,At Start,1 or More Conditions,"CHtest, Vet",100528,1/1/2017 12:00:00 AM,,Yes (1),23849,1/1/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+411520,Without Children,Stayer,Recent,1 or More Conditions,"CHtest, Vet",100528,1/1/2017 12:00:00 AM,,Yes (1),23918,12/29/2017 12:00:00 AM,During Program Enrollment (2),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1),Yes (1)
+411525,Without Children,Stayer,At Start,1 or More Conditions,"Inactive, ESnbn",100534,9/1/2016 12:00:00 AM,,Yes (1),23858,9/1/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411525,Without Children,Stayer,Recent,1 or More Conditions,"Inactive, ESnbn",100534,9/1/2016 12:00:00 AM,,Yes (1),23858,9/1/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411527,Without Children,Stayer,At Start,None,"TEST, BCPQQ",100536,9/30/2017 12:00:00 AM,,No (0),23861,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411527,Without Children,Stayer,Recent,None,"TEST, BCPQQ",100536,9/30/2017 12:00:00 AM,,No (0),23861,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411528,Without Children,Stayer,At Start,None,"PS, BCPESG",100537,9/30/2017 12:00:00 AM,,No (0),23862,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411528,Without Children,Stayer,Recent,None,"PS, BCPESG",100537,9/30/2017 12:00:00 AM,,No (0),23862,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411529,Without Children,Stayer,At Start,None,"ESG, BCP",100538,9/30/2017 12:00:00 AM,,No (0),23863,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411529,Without Children,Stayer,Recent,None,"ESG, BCP",100538,9/30/2017 12:00:00 AM,,No (0),23863,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411530,Without Children,Stayer,At Start,None,"IncomeCheck, BCP",100550,9/7/2017 12:00:00 AM,,No (0),23880,9/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411530,Without Children,Stayer,Recent,None,"IncomeCheck, BCP",100550,9/7/2017 12:00:00 AM,,No (0),23880,9/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411536,Without Children,Stayer,At Start,None,"SingleFunding, BCP",100547,9/30/2017 12:00:00 AM,,No (0),23876,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411536,Without Children,Stayer,Recent,None,"SingleFunding, BCP",100547,9/30/2017 12:00:00 AM,,No (0),23876,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411537,Without Children,Stayer,At Start,None,"DualFunding, BCP",100548,9/30/2017 12:00:00 AM,,No (0),23877,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411537,Without Children,Stayer,Recent,None,"DualFunding, BCP",100548,9/30/2017 12:00:00 AM,,No (0),23877,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411545,Without Children,Stayer,At Start,1 or More Conditions,"StayerNoUpdate, CHVet",100565,1/1/2017 12:00:00 AM,,Yes (1),23893,1/1/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),No (0),No (0),Yes (1)
+411545,Without Children,Stayer,Recent,1 or More Conditions,"StayerNoUpdate, CHVet",100565,1/1/2017 12:00:00 AM,,Yes (1),23893,1/1/2017 12:00:00 AM,Entry (1),Yes (1),Yes (1),Yes (1),Yes (1),No (0),No (0),Yes (1)
+411548,With Only Children,Stayer,At Start,Data Not Collected,"Man, Test",100566,10/2/2017 12:00:00 AM,,,,,,,,,,,,
+411548,With Only Children,Stayer,Recent,Data Not Collected,"Man, Test",100566,10/2/2017 12:00:00 AM,,,,,,,,,,,,
+411551,Without Children,Stayer,At Start,None,"Assessment, Financial",100567,10/2/2017 12:00:00 AM,,No (0),23897,10/2/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411551,Without Children,Stayer,Recent,None,"Assessment, Financial",100567,10/2/2017 12:00:00 AM,,No (0),23897,10/2/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411552,Without Children,Stayer,At Start,None,"neh, Hen",100568,10/2/2017 12:00:00 AM,,No (0),23898,10/2/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411552,Without Children,Stayer,Recent,None,"neh, Hen",100568,10/2/2017 12:00:00 AM,,No (0),23898,10/2/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411553,Without Children,Stayer,At Start,None,"Ydna, Andy",100569,10/2/2016 12:00:00 AM,,No (0),23899,10/2/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411553,Without Children,Stayer,Recent,,"Ydna, Andy",100569,10/2/2016 12:00:00 AM,,No (0),24228,10/23/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),,No (0),No (0),No (0)
+411555,Without Children,Stayer,At Start,None,"nah, Han",100571,10/3/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411555,Without Children,Stayer,Recent,None,"nah, Han",100571,10/3/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411556,Without Children,Stayer,At Start,None,"you, Yit",100572,10/3/2017 12:00:00 AM,,No (0),23902,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411556,Without Children,Stayer,Recent,None,"you, Yit",100572,10/3/2017 12:00:00 AM,,No (0),23902,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411557,Without Children,Stayer,At Start,None,"Terw, Quer",100573,10/3/2017 12:00:00 AM,,No (0),23903,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411557,Without Children,Stayer,Recent,None,"Terw, Quer",100573,10/3/2017 12:00:00 AM,,No (0),23903,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411561,Without Children,Stayer,At Start,None,"Terro, Yertey",100577,10/3/2017 12:00:00 AM,,No (0),23907,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411561,Without Children,Stayer,Recent,None,"Terro, Yertey",100577,10/3/2017 12:00:00 AM,,No (0),23907,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411563,Without Children,Stayer,At Start,None,"BednightBefore, ESnbn",100579,10/1/2016 12:00:00 AM,,No (0),23909,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411563,Without Children,Stayer,Recent,None,"BednightBefore, ESnbn",100579,10/1/2016 12:00:00 AM,,No (0),23909,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411564,With Only Children,Stayer,At Start,None,"yotttt, toy",100580,10/3/2017 12:00:00 AM,,No (0),23910,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411564,With Only Children,Stayer,Recent,None,"yotttt, toy",100580,10/3/2017 12:00:00 AM,,No (0),23910,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411567,Without Children,Leaver,At Start,None,"Head, Arrow",100583,10/3/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),23913,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411567,Without Children,Leaver,Exit,,"Head, Arrow",100583,10/3/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),24282,11/1/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),,No (0),No (0),No (0)
+411569,Without Children,Stayer,At Start,None,"Gor, Poting",100585,10/3/2017 12:00:00 AM,,No (0),23914,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411569,Without Children,Stayer,Recent,None,"Gor, Poting",100585,10/3/2017 12:00:00 AM,,No (0),23914,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411570,Without Children,Stayer,At Start,None,"Er, Young",100586,10/3/2017 12:00:00 AM,,No (0),23915,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411570,Without Children,Stayer,Recent,None,"Er, Young",100586,10/3/2017 12:00:00 AM,,No (0),23915,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411572,Without Children,Stayer,At Start,None,"ActiveClient, SO",100770,10/11/2017 12:00:00 AM,,No (0),24181,10/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411572,Without Children,Stayer,Recent,None,"ActiveClient, SO",100770,10/11/2017 12:00:00 AM,,No (0),24181,10/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411574,Without Children,Stayer,At Start,None,"SOP, RHYClient",100590,10/4/2017 12:00:00 AM,,No (0),23920,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411574,Without Children,Stayer,Recent,None,"SOP, RHYClient",100590,10/4/2017 12:00:00 AM,,No (0),23920,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411576,With Only Children,Stayer,At Start,None,"Client, Orientation",100593,10/4/2017 12:00:00 AM,,No (0),23923,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411576,With Only Children,Stayer,Recent,None,"Client, Orientation",100593,10/4/2017 12:00:00 AM,,No (0),23923,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411577,Without Children,Stayer,At Start,None,"Todd, Tedd",100594,10/4/2017 12:00:00 AM,,No (0),23924,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411577,Without Children,Stayer,Recent,None,"Todd, Tedd",100594,10/4/2017 12:00:00 AM,,No (0),23924,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411579,With Only Children,Stayer,At Start,None,"Mouse, Jerry",100596,10/4/2017 12:00:00 AM,,No (0),23926,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411579,With Only Children,Stayer,Recent,None,"Mouse, Jerry",100596,10/4/2017 12:00:00 AM,,No (0),23926,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411580,With Only Children,Stayer,At Start,None,"Henry, Hen",100597,10/4/2017 12:00:00 AM,,No (0),23927,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411580,With Only Children,Stayer,Recent,None,"Henry, Hen",100597,10/4/2017 12:00:00 AM,,No (0),23927,10/4/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411581,Without Children,Leaver,At Start,None,"Nig, Gin",100598,10/5/2017 12:00:00 AM,10/6/2017 12:00:00 AM,No (0),23929,10/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411581,Without Children,Leaver,Exit,,"Nig, Gin",100598,10/5/2017 12:00:00 AM,10/6/2017 12:00:00 AM,No (0),24003,10/6/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),,No (0),No (0),No (0)
+411583,Without Children,Stayer,At Start,Data Not Collected,"Test, FintestClient",100653,10/6/2017 12:00:00 AM,,,,,,,,,,,,
+411583,Without Children,Stayer,Recent,Data Not Collected,"Test, FintestClient",100653,10/6/2017 12:00:00 AM,,,,,,,,,,,,
+411687,Without Children,Leaver,At Start,None,"Matthew, Jon",102341,3/22/2018 12:00:00 AM,3/22/2018 12:00:00 AM,No (0),26150,3/22/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411687,Without Children,Leaver,Exit,None,"Matthew, Jon",102341,3/22/2018 12:00:00 AM,3/22/2018 12:00:00 AM,No (0),,,,,,,,,,
+411690,Without Children,Stayer,At Start,None,"Report, AHAR",100767,10/10/2017 12:00:00 AM,,No (0),24178,10/10/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411690,Without Children,Stayer,Recent,None,"Report, AHAR",100767,10/10/2017 12:00:00 AM,,No (0),24178,10/10/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411691,Without Children,Stayer,At Start,None,"Grey, Ben",100768,10/11/2016 12:00:00 AM,,No (0),24179,10/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411691,Without Children,Stayer,Recent,,"Grey, Ben",100768,10/11/2016 12:00:00 AM,,No (0),24231,10/23/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411692,Without Children,Stayer,At Start,None,"Reporter, PathGuy",100769,10/2/2017 12:00:00 AM,,No (0),24180,10/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411692,Without Children,Stayer,Recent,None,"Reporter, PathGuy",100769,10/2/2017 12:00:00 AM,,No (0),24180,10/11/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411693,Without Children,Leaver,At Start,None,"Report, PathGuy1",100771,10/3/2017 12:00:00 AM,10/11/2017 12:00:00 AM,No (0),24182,10/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411693,Without Children,Leaver,Exit,,"Report, PathGuy1",100771,10/3/2017 12:00:00 AM,10/11/2017 12:00:00 AM,No (0),24183,10/11/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411694,Without Children,Leaver,At Start,1 or More Conditions,"guy, pathsubstance",100772,10/12/2017 12:00:00 AM,10/12/2017 12:00:00 AM,No (0),24184,10/12/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1)
+411694,Without Children,Leaver,Exit,None,"guy, pathsubstance",100772,10/12/2017 12:00:00 AM,10/12/2017 12:00:00 AM,No (0),,,,,,,,,,
+411695,Without Children,Stayer,At Start,1 or More Conditions,"drug, pathguy",100773,10/12/2017 12:00:00 AM,,Yes (1),24185,10/12/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1)
+411695,Without Children,Stayer,Recent,1 or More Conditions,"drug, pathguy",100773,10/12/2017 12:00:00 AM,,Yes (1),24185,10/12/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1)
+411698,Without Children,Leaver,At Start,None,"InsTest, Health",100782,10/16/2017 12:00:00 AM,10/16/2017 12:00:00 AM,No (0),24195,10/16/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411698,Without Children,Leaver,Exit,None,"InsTest, Health",100782,10/16/2017 12:00:00 AM,10/16/2017 12:00:00 AM,No (0),,,,,,,,,,
+411699,Without Children,Stayer,At Start,None,"CritIssue, SOP",100783,10/1/2017 12:00:00 AM,,No (0),24197,10/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411699,Without Children,Stayer,Recent,None,"CritIssue, SOP",100783,10/1/2017 12:00:00 AM,,No (0),24197,10/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411700,Without Children,Stayer,At Start,None,"Date, ChangeAssessment",100785,10/19/2016 12:00:00 AM,,No (0),24208,10/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411700,Without Children,Stayer,Recent,None,"Date, ChangeAssessment",100785,10/19/2016 12:00:00 AM,,No (0),24208,10/19/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411701,Without Children,Stayer,At Start,None,"Family, ThreeMember",100786,10/19/2017 12:00:00 AM,,No (0),24210,10/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411701,Without Children,Stayer,Recent,None,"Family, ThreeMember",100786,10/19/2017 12:00:00 AM,,No (0),24210,10/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411702,Without Children,Stayer,At Start,None,"Family, Two",100787,10/19/2017 12:00:00 AM,,No (0),24211,10/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411702,Without Children,Stayer,Recent,None,"Family, Two",100787,10/19/2017 12:00:00 AM,,No (0),24211,10/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411703,Without Children,Stayer,At Start,None,"Family, One",100788,10/19/2017 12:00:00 AM,,No (0),24212,10/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411703,Without Children,Stayer,Recent,None,"Family, One",100788,10/19/2017 12:00:00 AM,,No (0),24212,10/19/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411714,Without Children,Stayer,At Start,None,"Klitchko, John",100805,10/30/2017 12:00:00 AM,,No (0),24259,10/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411714,Without Children,Stayer,Recent,None,"Klitchko, John",100805,10/30/2017 12:00:00 AM,,No (0),24259,10/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+411715,With Children and Adults,Leaver,At Start,Condition Unknown,"One, Vet",100807,10/2/2017 12:00:00 AM,10/29/2017 12:00:00 AM,Yes (1),,,,,,,,,,
+411715,With Children and Adults,Leaver,Exit,Condition Unknown,"One, Vet",100807,10/2/2017 12:00:00 AM,10/29/2017 12:00:00 AM,Yes (1),,,,,,,,,,
+411716,With Children and Adults,Leaver,At Start,None,"One, Child",100808,10/2/2017 12:00:00 AM,10/29/2017 12:00:00 AM,No (0),,,,,,,,,,
+411716,With Children and Adults,Leaver,Exit,None,"One, Child",100808,10/2/2017 12:00:00 AM,10/29/2017 12:00:00 AM,No (0),,,,,,,,,,
+411717,Without Children,Stayer,At Start,Condition Unknown,"Two, Vet",100809,10/2/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411717,Without Children,Stayer,Recent,Condition Unknown,"Two, Vet",100809,10/2/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411718,Without Children,Stayer,At Start,Condition Unknown,"Three, Vet",100810,10/3/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+411718,Without Children,Stayer,Recent,Condition Unknown,"Three, Vet",100810,10/3/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+411723,With Only Children,Leaver,At Start,None,"Bee, Bee",100817,11/1/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),24279,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411723,With Only Children,Leaver,Exit,,"Bee, Bee",100817,11/1/2017 12:00:00 AM,11/1/2017 12:00:00 AM,No (0),24280,11/1/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411724,With Only Children,Leaver,At Start,None,"Test, ExitInsurance",100818,11/2/2017 12:00:00 AM,11/2/2017 12:00:00 AM,No (0),24283,11/2/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411724,With Only Children,Leaver,Exit,,"Test, ExitInsurance",100818,11/2/2017 12:00:00 AM,11/2/2017 12:00:00 AM,No (0),24284,11/2/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411726,Without Children,Stayer,At Start,1 or More Conditions,"AfterReportEnd, Annual",100820,1/3/2017 12:00:00 AM,,Yes (1),24287,1/3/2017 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411726,Without Children,Stayer,Recent,1 or More Conditions,"AfterReportEnd, Annual",100820,1/3/2017 12:00:00 AM,,Yes (1),24290,11/15/2017 12:00:00 AM,Annual (5),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411727,Without Children,Stayer,At Start,1 or More Conditions,"HouseholdChronic, AO",100821,11/1/2016 12:00:00 AM,,Yes (1),24291,11/1/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411727,Without Children,Stayer,Recent,1 or More Conditions,"HouseholdChronic, AO",100821,11/1/2016 12:00:00 AM,,Yes (1),24298,11/3/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411728,Without Children,Stayer,At Start,1 or More Conditions,"HouseholdChronic, AO-NotChronic",100822,11/1/2016 12:00:00 AM,,Yes (1),24292,11/1/2016 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411728,Without Children,Stayer,Recent,1 or More Conditions,"HouseholdChronic, AO-NotChronic",100822,11/1/2016 12:00:00 AM,,Yes (1),24299,11/3/2017 12:00:00 AM,Annual (5),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411729,With Children and Adults,Stayer,At Start,1 or More Conditions,"HouseholdChronic, AC",100823,12/1/2016 12:00:00 AM,,Yes (1),24294,12/1/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411729,With Children and Adults,Stayer,Recent,1 or More Conditions,"HouseholdChronic, AC",100823,12/1/2016 12:00:00 AM,,Yes (1),24296,12/1/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411730,With Children and Adults,Stayer,At Start,None,"HouseholdChronic, AC-Child",100824,12/1/2016 12:00:00 AM,,No (0),24295,12/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411730,With Children and Adults,Stayer,Recent,,"HouseholdChronic, AC-Child",100824,12/1/2016 12:00:00 AM,,No (0),24297,12/1/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411733,Without Children,Stayer,At Start,1 or More Conditions,"ChronicNoAnn, AO",100827,1/4/2017 12:00:00 AM,,Yes (1),24301,1/4/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411733,Without Children,Stayer,Recent,1 or More Conditions,"ChronicNoAnn, AO",100827,1/4/2017 12:00:00 AM,,Yes (1),24302,1/5/2018 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411734,Without Children,Stayer,At Start,1 or More Conditions,"Test8, Sean",100829,9/22/2017 12:00:00 AM,,Yes (1),24305,9/22/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411734,Without Children,Stayer,Recent,1 or More Conditions,"Test8, Sean",100829,9/22/2017 12:00:00 AM,,Yes (1),24305,9/22/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411735,Without Children,Stayer,At Start,1 or More Conditions,"MissAnn, AOChronic",100840,12/7/2016 12:00:00 AM,,Yes (1),24324,12/7/2016 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411735,Without Children,Stayer,Recent,1 or More Conditions,"MissAnn, AOChronic",100840,12/7/2016 12:00:00 AM,,Yes (1),24325,1/3/2018 12:00:00 AM,Annual (5),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411736,Without Children,Stayer,At Start,1 or More Conditions,"Enrollments, back2back",100831,1/6/2017 12:00:00 AM,,Yes (1),24312,1/6/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411736,Without Children,Stayer,Recent,1 or More Conditions,"Enrollments, back2back",100831,1/6/2017 12:00:00 AM,,Yes (1),24312,1/6/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411737,Without Children,Stayer,At Start,1 or More Conditions,"Enrollments, b2b",100833,1/27/2017 12:00:00 AM,,Yes (1),24314,1/27/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411737,Without Children,Stayer,Recent,1 or More Conditions,"Enrollments, b2b",100833,1/27/2017 12:00:00 AM,,Yes (1),24314,1/27/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411738,Without Children,Stayer,At Start,1 or More Conditions,"Spouse, Added",100834,2/1/2016 12:00:00 AM,,Yes (1),24315,2/1/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411738,Without Children,Stayer,Recent,1 or More Conditions,"Spouse, Added",100834,2/1/2016 12:00:00 AM,,Yes (1),24317,2/9/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411739,Without Children,Stayer,At Start,1 or More Conditions,"Spouse, CameLate",100835,2/22/2017 12:00:00 AM,,Yes (1),24316,2/22/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411739,Without Children,Stayer,Recent,1 or More Conditions,"Spouse, CameLate",100835,2/22/2017 12:00:00 AM,,Yes (1),24318,2/23/2017 12:00:00 AM,Annual (5),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411740,Without Children,Stayer,At Start,1 or More Conditions,"ContinuousSpouse, AdultHoho",100838,2/1/2017 12:00:00 AM,,Yes (1),24322,2/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411740,Without Children,Stayer,Recent,1 or More Conditions,"ContinuousSpouse, AdultHoho",100838,2/1/2017 12:00:00 AM,,Yes (1),24322,2/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411741,Without Children,Stayer,At Start,1 or More Conditions,"Continuous, Spouse",100839,2/1/2017 12:00:00 AM,,Yes (1),24323,2/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411741,Without Children,Stayer,Recent,1 or More Conditions,"Continuous, Spouse",100839,2/1/2017 12:00:00 AM,,Yes (1),24323,2/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411742,Without Children,Stayer,At Start,1 or More Conditions,"MissAnnual, AO",100841,12/8/2016 12:00:00 AM,,Yes (1),24328,12/8/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411742,Without Children,Stayer,Recent,1 or More Conditions,"MissAnnual, AO",100841,12/8/2016 12:00:00 AM,,Yes (1),24330,11/6/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411743,Without Children,Stayer,At Start,1 or More Conditions,"EarlyAndInFram, 2Annual",100842,12/7/2016 12:00:00 AM,,Yes (1),24331,12/7/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411743,Without Children,Stayer,Recent,1 or More Conditions,"EarlyAndInFram, 2Annual",100842,12/7/2016 12:00:00 AM,,Yes (1),24334,12/14/2017 12:00:00 AM,During Program Enrollment (2),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411744,Without Children,Stayer,At Start,1 or More Conditions,"Annual, WayEarly",100843,5/1/2017 12:00:00 AM,,Yes (1),24335,5/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411744,Without Children,Stayer,Recent,1 or More Conditions,"Annual, WayEarly",100843,5/1/2017 12:00:00 AM,,Yes (1),24336,11/6/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411745,Without Children,Stayer,At Start,1 or More Conditions,"Eighteen, Turning",100844,1/1/2017 12:00:00 AM,,Yes (1),24337,1/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411745,Without Children,Stayer,Recent,1 or More Conditions,"Eighteen, Turning",100844,1/1/2017 12:00:00 AM,,Yes (1),24338,12/21/2017 12:00:00 AM,Annual (5),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411749,Without Children,Stayer,At Start,Data Not Collected,"Client, New",100855,11/7/2013 12:00:00 AM,,,,,,,,,,,,
+411749,Without Children,Stayer,Recent,Data Not Collected,"Client, New",100855,11/7/2013 12:00:00 AM,,,,,,,,,,,,
+411750,With Only Children,Stayer,At Start,Data Not Collected,"ES, RTest",100852,11/8/2016 12:00:00 AM,,,,,,,,,,,,
+411750,With Only Children,Stayer,Recent,Data Not Collected,"ES, RTest",100852,11/8/2016 12:00:00 AM,,,,,,,,,,,,
+411756,Without Children,Stayer,At Start,None,"AssessGap, Annual",100859,3/1/2015 12:00:00 AM,,No (0),24358,3/1/2015 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411756,Without Children,Stayer,Recent,,"AssessGap, Annual",100859,3/1/2015 12:00:00 AM,,No (0),24359,3/10/2016 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411757,Without Children,Stayer,At Start,None,"EntryMaster, AdjustedProgram",100860,5/2/2016 12:00:00 AM,,No (0),24360,5/2/2016 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411757,Without Children,Stayer,Recent,None,"EntryMaster, AdjustedProgram",100860,5/2/2016 12:00:00 AM,,No (0),24360,5/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411758,Without Children,Stayer,At Start,None,"FamilyIntoEnrollment, Copied",100861,10/1/2016 12:00:00 AM,,No (0),24361,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411758,Without Children,Stayer,Recent,None,"FamilyIntoEnrollment, Copied",100861,10/1/2016 12:00:00 AM,,No (0),24361,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411759,Without Children,Stayer,At Start,Data Not Collected,"CopyFamily, OtherAdult",100862,10/1/2016 12:00:00 AM,,,,,,,,,,,,
+411759,Without Children,Stayer,Recent,Data Not Collected,"CopyFamily, OtherAdult",100862,10/1/2016 12:00:00 AM,,,,,,,,,,,,
+411764,Without Children,Stayer,At Start,None,"HoH, AddedFam",100869,1/9/2015 12:00:00 AM,,No (0),24369,1/9/2015 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411764,Without Children,Stayer,Recent,,"HoH, AddedFam",100869,1/9/2015 12:00:00 AM,,No (0),24370,1/12/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411765,Without Children,Stayer,At Start,Data Not Collected,"Member, AddedInFam",100870,1/7/2016 12:00:00 AM,,,,,,,,,,,,
+411765,Without Children,Stayer,Recent,Data Not Collected,"Member, AddedInFam",100870,1/7/2016 12:00:00 AM,,,24371,1/12/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411770,With Children and Adults,Leaver,At Start,None,"Youth, Parenting",100875,11/13/2017 12:00:00 AM,11/13/2017 12:00:00 AM,No (0),24386,11/13/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411770,With Children and Adults,Leaver,Exit,None,"Youth, Parenting",100875,11/13/2017 12:00:00 AM,11/13/2017 12:00:00 AM,No (0),,,,,,,,,,
+411771,With Children and Adults,Stayer,At Start,None,"Youth, Spouse",100876,11/13/2017 12:00:00 AM,,No (0),24387,11/13/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411771,With Children and Adults,Stayer,Recent,None,"Youth, Spouse",100876,11/13/2017 12:00:00 AM,,No (0),24387,11/13/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411772,With Children and Adults,Stayer,At Start,Data Not Collected,"Youth, Child",100877,11/13/2017 12:00:00 AM,,,,,,,,,,,,
+411772,With Children and Adults,Stayer,Recent,Data Not Collected,"Youth, Child",100877,11/13/2017 12:00:00 AM,,,,,,,,,,,,
+411773,With Children and Adults,Stayer,At Start,Data Not Collected,"Youth, ChildElder",100878,11/13/2017 12:00:00 AM,,,,,,,,,,,,
+411773,With Children and Adults,Stayer,Recent,Data Not Collected,"Youth, ChildElder",100878,11/13/2017 12:00:00 AM,,,,,,,,,,,,
+411774,Without Children,Leaver,At Start,None,"ContactInfo, RTest",100879,11/14/2017 12:00:00 AM,11/14/2017 12:00:00 AM,No (0),24389,11/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411774,Without Children,Leaver,Exit,,"ContactInfo, RTest",100879,11/14/2017 12:00:00 AM,11/14/2017 12:00:00 AM,No (0),24391,11/14/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411775,With Only Children,Stayer,At Start,None,"ContactInfo1, RTest",100880,11/14/2017 12:00:00 AM,,No (0),24392,11/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411775,With Only Children,Stayer,Recent,None,"ContactInfo1, RTest",100880,11/14/2017 12:00:00 AM,,No (0),24392,11/14/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411783,With Children and Adults,Stayer,At Start,None,"HoH, 12Yrold",100890,11/1/2017 12:00:00 AM,,No (0),24400,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411783,With Children and Adults,Stayer,Recent,None,"HoH, 12Yrold",100890,11/1/2017 12:00:00 AM,,No (0),24400,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411784,With Children and Adults,Stayer,At Start,None,"Adult, 24Yrold",100891,11/1/2017 12:00:00 AM,,No (0),24401,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411784,With Children and Adults,Stayer,Recent,None,"Adult, 24Yrold",100891,11/1/2017 12:00:00 AM,,No (0),24401,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411794,Without Children,Stayer,At Start,Condition Unknown,"DisablingCond, Bad",100902,9/1/2016 12:00:00 AM,,Yes (1),24414,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411794,Without Children,Stayer,Recent,Condition Unknown,"DisablingCond, Bad",100902,9/1/2016 12:00:00 AM,,Yes (1),24414,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411795,Without Children,Stayer,At Start,Condition Unknown,"AnnualDisCond, Unknown",100903,9/1/2016 12:00:00 AM,,Yes (1),24415,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411795,Without Children,Stayer,Recent,Condition Unknown,"AnnualDisCond, Unknown",100903,9/1/2016 12:00:00 AM,,Yes (1),24416,9/7/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411796,Without Children,Leaver,At Start,Condition Unknown,"Exit, BadDisCond",100904,12/14/2016 12:00:00 AM,11/16/2017 12:00:00 AM,Yes (1),24417,12/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411796,Without Children,Leaver,Exit,Condition Unknown,"Exit, BadDisCond",100904,12/14/2016 12:00:00 AM,11/16/2017 12:00:00 AM,Yes (1),24418,11/16/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411800,Without Children,Stayer,At Start,1 or More Conditions,"Jones, Dougie",100969,11/28/2017 12:00:00 AM,,Yes (1),50658,11/28/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),,No (0),No (0),No (0)
+411800,Without Children,Stayer,Recent,1 or More Conditions,"Jones, Dougie",100969,11/28/2017 12:00:00 AM,,Yes (1),50658,11/28/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),,No (0),No (0),No (0)
+411806,With Children and Adults,Stayer,At Start,None,"Household, 2 Youth",100916,11/21/2017 12:00:00 AM,,No (0),24451,11/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411806,With Children and Adults,Stayer,Recent,None,"Household, 2 Youth",100916,11/21/2017 12:00:00 AM,,No (0),24451,11/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411807,With Children and Adults,Stayer,At Start,None,"Household, OtherAdult",100926,11/22/2017 12:00:00 AM,,No (0),24461,11/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411807,With Children and Adults,Stayer,Recent,None,"Household, OtherAdult",100926,11/22/2017 12:00:00 AM,,No (0),24461,11/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411808,With Children and Adults,Stayer,At Start,None,"Household, Child",100918,11/21/2017 12:00:00 AM,,No (0),24453,11/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411808,With Children and Adults,Stayer,Recent,None,"Household, Child",100918,11/21/2017 12:00:00 AM,,No (0),24453,11/22/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411819,With Children and Adults,Stayer,At Start,Data Not Collected,"Household, OtherChild",100930,11/22/2017 12:00:00 AM,,,,,,,,,,,,
+411819,With Children and Adults,Stayer,Recent,Data Not Collected,"Household, OtherChild",100930,11/22/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+411821,Without Children,Stayer,At Start,None,"WithChild, Client123",100934,11/15/2017 12:00:00 AM,,No (0),24469,11/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411821,Without Children,Stayer,Recent,None,"WithChild, Client123",100934,11/15/2017 12:00:00 AM,,No (0),24469,11/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411822,With Children and Adults,Stayer,At Start,None,"WithChild, Child123",100933,11/1/2017 12:00:00 AM,,No (0),24468,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411822,With Children and Adults,Stayer,Recent,None,"WithChild, Child123",100933,11/1/2017 12:00:00 AM,,No (0),24468,11/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411824,With Only Children,Stayer,At Start,None,"AssessmentLink, Testing",100939,11/27/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411824,With Only Children,Stayer,Recent,None,"AssessmentLink, Testing",100939,11/27/2017 12:00:00 AM,,No (0),,,During Program Enrollment (2),,,,,,,
+411829,With Only Children,Stayer,At Start,None,"NoHoH, Child",100945,11/1/2016 12:00:00 AM,,No (0),24483,11/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411829,With Only Children,Stayer,Recent,None,"NoHoH, Child",100945,11/1/2016 12:00:00 AM,,No (0),24483,11/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411835,With Only Children,Stayer,At Start,None,"EnrollhoH, Double",100948,8/1/2016 12:00:00 AM,,No (0),24488,8/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411835,With Only Children,Stayer,Recent,None,"EnrollhoH, Double",100948,8/1/2016 12:00:00 AM,,No (0),24488,8/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411836,With Only Children,Stayer,At Start,None,"Enrol, Child",100949,8/1/2016 12:00:00 AM,,No (0),24489,8/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411836,With Only Children,Stayer,Recent,None,"Enrol, Child",100949,8/1/2016 12:00:00 AM,,No (0),24489,8/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411846,With Children and Adults,Leaver,At Start,None,"Test, AgeCheckAdult",100963,11/28/2017 12:00:00 AM,1/10/2018 12:00:00 AM,No (0),24509,11/28/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411846,With Children and Adults,Leaver,Exit,None,"Test, AgeCheckAdult",100963,11/28/2017 12:00:00 AM,1/10/2018 12:00:00 AM,No (0),,,,,,,,,,
+411847,With Children and Adults,Leaver,At Start,None,"Test, AgeChildCheck",100964,11/28/2017 12:00:00 AM,11/29/2017 12:00:00 AM,No (0),24510,11/28/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411847,With Children and Adults,Leaver,Exit,,"Test, AgeChildCheck",100964,11/28/2017 12:00:00 AM,11/29/2017 12:00:00 AM,No (0),24565,11/29/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411848,Without Children,Stayer,At Start,1 or More Conditions,"EntryAssessment, Doulbe",100967,11/1/2017 12:00:00 AM,,Yes (1),24516,11/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411848,Without Children,Stayer,Recent,1 or More Conditions,"EntryAssessment, Doulbe",100967,11/1/2017 12:00:00 AM,,Yes (1),24516,11/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411849,Without Children,Stayer,At Start,None,"EntryAssessment, OtherAdult",100968,11/1/2017 12:00:00 AM,,No (0),24513,12/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411849,Without Children,Stayer,Recent,None,"EntryAssessment, OtherAdult",100968,11/1/2017 12:00:00 AM,,No (0),24513,12/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411850,Without Children,Leaver,At Start,None,"Test, RRHClient1",100970,11/29/2017 12:00:00 AM,1/10/2018 12:00:00 AM,No (0),24519,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411850,Without Children,Leaver,Exit,None,"Test, RRHClient1",100970,11/29/2017 12:00:00 AM,1/10/2018 12:00:00 AM,No (0),,,,,,,,,,
+411851,Without Children,Stayer,At Start,None,"Test, RRHClient2",100971,11/29/2017 12:00:00 AM,,No (0),24520,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411851,Without Children,Stayer,Recent,None,"Test, RRHClient2",100971,11/29/2017 12:00:00 AM,,No (0),24520,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411852,Without Children,Stayer,At Start,None,"Test, RRHClient3",100972,11/29/2017 12:00:00 AM,,No (0),24521,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411852,Without Children,Stayer,Recent,None,"Test, RRHClient3",100972,11/29/2017 12:00:00 AM,,No (0),24521,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411884,Without Children,Leaver,At Start,None,"ONe, Test",101014,9/1/2016 12:00:00 AM,11/30/2017 12:00:00 AM,No (0),24569,9/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411884,Without Children,Leaver,Exit,,"ONe, Test",101014,9/1/2016 12:00:00 AM,11/30/2017 12:00:00 AM,No (0),24570,11/30/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411885,Without Children,Stayer,At Start,None,"Test, HoHAge3917",101015,11/30/2017 12:00:00 AM,,No (0),24571,11/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411885,Without Children,Stayer,Recent,None,"Test, HoHAge3917",101015,11/30/2017 12:00:00 AM,,No (0),24571,11/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411886,Without Children,Leaver,At Start,None,"Test, ChildSwitched",101016,11/30/2017 12:00:00 AM,11/30/2017 12:00:00 AM,No (0),24572,11/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411886,Without Children,Leaver,Exit,,"Test, ChildSwitched",101016,11/30/2017 12:00:00 AM,11/30/2017 12:00:00 AM,No (0),24573,11/30/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411912,Without Children,Stayer,At Start,Data Not Collected,"PermAdd, RRH",101046,12/5/2017 12:00:00 AM,,,,,,,,,,,,
+411912,Without Children,Stayer,Recent,Data Not Collected,"PermAdd, RRH",101046,12/5/2017 12:00:00 AM,,,,,,,,,,,,
+411913,Without Children,Stayer,At Start,None,"RRH, SSVFAdult",101047,12/5/2017 12:00:00 AM,,No (0),,,,,,,,,,
+411913,Without Children,Stayer,Recent,None,"RRH, SSVFAdult",101047,12/5/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+411914,Without Children,Stayer,At Start,Data Not Collected,"RRH, SSVFAdult1",101048,12/5/2017 12:00:00 AM,,,,,,,,,,,,
+411914,Without Children,Stayer,Recent,Data Not Collected,"RRH, SSVFAdult1",101048,12/5/2017 12:00:00 AM,,,,,,,,,,,,
+411915,Without Children,Stayer,At Start,None,"Household, 3Part",101049,12/14/2016 12:00:00 AM,,No (0),24622,12/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411915,Without Children,Stayer,Recent,,"Household, 3Part",101049,12/14/2016 12:00:00 AM,,No (0),24626,12/6/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411916,Without Children,Leaver,At Start,None,"InHousehold, OtherAdult",101050,12/14/2016 12:00:00 AM,12/5/2017 12:00:00 AM,No (0),24624,12/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411916,Without Children,Leaver,Exit,,"InHousehold, OtherAdult",101050,12/14/2016 12:00:00 AM,12/5/2017 12:00:00 AM,No (0),24625,12/5/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411917,Without Children,Stayer,At Start,None,"InHousehold, ThirdAdult",101051,12/14/2016 12:00:00 AM,,No (0),24623,12/14/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411917,Without Children,Stayer,Recent,,"InHousehold, ThirdAdult",101051,12/14/2016 12:00:00 AM,,No (0),24627,12/5/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411918,Without Children,Stayer,At Start,None,"HoH, Adult",101052,12/5/2017 12:00:00 AM,,No (0),24628,12/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411918,Without Children,Stayer,Recent,None,"HoH, Adult",101052,12/5/2017 12:00:00 AM,,No (0),24628,12/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411919,Without Children,Stayer,At Start,None,"Adult, AgingInto",101053,12/5/2017 12:00:00 AM,,No (0),24629,12/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411919,Without Children,Stayer,Recent,None,"Adult, AgingInto",101053,12/5/2017 12:00:00 AM,,No (0),24629,12/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411920,Without Children,Leaver,At Start,None,"Child, GoingToExit",101054,12/5/2017 12:00:00 AM,12/6/2017 12:00:00 AM,No (0),24630,12/5/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411920,Without Children,Leaver,Exit,,"Child, GoingToExit",101054,12/5/2017 12:00:00 AM,12/6/2017 12:00:00 AM,No (0),24631,12/6/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411921,Without Children,Stayer,At Start,1 or More Conditions,"Doublecount, Q26a",101055,12/1/2017 12:00:00 AM,,Yes (1),24632,12/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411921,Without Children,Stayer,Recent,1 or More Conditions,"Doublecount, Q26a",101055,12/1/2017 12:00:00 AM,,Yes (1),24632,12/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+411922,Without Children,Stayer,At Start,1 or More Conditions,"DoubleCount, OthAdult",101057,12/1/2017 12:00:00 AM,,Yes (1),24634,12/1/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411922,Without Children,Stayer,Recent,1 or More Conditions,"DoubleCount, OthAdult",101057,12/1/2017 12:00:00 AM,,Yes (1),24634,12/1/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+411923,With Children and Adults,Stayer,At Start,None,"HoH, Multiple",101058,12/6/2017 12:00:00 AM,,No (0),24635,12/6/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411923,With Children and Adults,Stayer,Recent,None,"HoH, Multiple",101058,12/6/2017 12:00:00 AM,,No (0),24635,12/6/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411924,With Children and Adults,Stayer,At Start,None,"HoH, Second",101059,12/6/2017 12:00:00 AM,,No (0),24636,12/6/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411924,With Children and Adults,Stayer,Recent,None,"HoH, Second",101059,12/6/2017 12:00:00 AM,,No (0),24636,12/6/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411926,Without Children,Stayer,At Start,Data Not Collected,"CH Status, NULL",101061,12/1/2017 12:00:00 AM,,,,,,,,,,,,
+411926,Without Children,Stayer,Recent,Data Not Collected,"CH Status, NULL",101061,12/1/2017 12:00:00 AM,,,,,,,,,,,,
+411927,Without Children,Stayer,At Start,Client Doesn't Know/Client Refused,"CH Status, DK/R",101062,12/6/2017 12:00:00 AM,,Client doesn't know (8),24639,12/6/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411927,Without Children,Stayer,Recent,Client Doesn't Know/Client Refused,"CH Status, DK/R",101062,12/6/2017 12:00:00 AM,,Client doesn't know (8),24639,12/6/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411928,Without Children,Stayer,At Start,1 or More Conditions,"NoSourcesAtAnnual, CashYes",101063,12/1/2016 12:00:00 AM,,Yes (1),24640,12/1/2016 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411928,Without Children,Stayer,Recent,1 or More Conditions,"NoSourcesAtAnnual, CashYes",101063,12/1/2016 12:00:00 AM,,Yes (1),24641,12/1/2017 12:00:00 AM,Annual (5),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+411929,Without Children,Stayer,At Start,1 or More Conditions,"NoSourcesEntry, CashYes",101064,12/1/2016 12:00:00 AM,,Yes (1),24642,12/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+411929,Without Children,Stayer,Recent,1 or More Conditions,"NoSourcesEntry, CashYes",101064,12/1/2016 12:00:00 AM,,Yes (1),24643,12/1/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+411930,Without Children,Stayer,At Start,None,"ToMinorHoH, 3917AAdult",101065,12/7/2017 12:00:00 AM,,No (0),24646,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411930,Without Children,Stayer,Recent,None,"ToMinorHoH, 3917AAdult",101065,12/7/2017 12:00:00 AM,,No (0),24646,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411931,Without Children,Stayer,At Start,None,"To Minor, A-Adult",101066,12/7/2017 12:00:00 AM,,No (0),24647,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411931,Without Children,Stayer,Recent,None,"To Minor, A-Adult",101066,12/7/2017 12:00:00 AM,,No (0),24647,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411932,Unknown Household Type,Stayer,At Start,None,"HoH, BAtoM",101067,12/7/2017 12:00:00 AM,,No (0),24648,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411932,Unknown Household Type,Stayer,Recent,None,"HoH, BAtoM",101067,12/7/2017 12:00:00 AM,,No (0),24648,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411933,Unknown Household Type,Stayer,At Start,None,"ToMinor, B-Adult",101068,12/7/2017 12:00:00 AM,,No (0),24649,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411933,Unknown Household Type,Stayer,Recent,None,"ToMinor, B-Adult",101068,12/7/2017 12:00:00 AM,,No (0),24649,12/7/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411936,Without Children,Stayer,At Start,None,"MissingDC, ES-IND",101071,10/1/2017 12:00:00 AM,,No (0),24658,10/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411936,Without Children,Stayer,Recent,None,"MissingDC, ES-IND",101071,10/1/2017 12:00:00 AM,,No (0),24658,10/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+411981,With Only Children,Stayer,At Start,None,"Test, ProgramDate",101131,12/15/2014 12:00:00 AM,,No (0),,,,,,,,,,
+411981,With Only Children,Stayer,Recent,None,"Test, ProgramDate",101131,12/15/2014 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412012,With Only Children,Stayer,At Start,None,"Workflow, Test",102157,12/15/2017 12:00:00 AM,,No (0),25764,12/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412012,With Only Children,Stayer,Recent,None,"Workflow, Test",102157,12/15/2017 12:00:00 AM,,No (0),25764,12/15/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412034,Without Children,Stayer,At Start,Data Not Collected,"TestCase, EnrollmentGuy12",102178,12/26/2017 12:00:00 AM,,,,,,,,,,,,
+412034,Without Children,Stayer,Recent,Data Not Collected,"TestCase, EnrollmentGuy12",102178,12/26/2017 12:00:00 AM,,,,,,,,,,,,
+412037,With Only Children,Leaver,At Start,1 or More Conditions,"EnrolledNoExitInt, PATH",102175,11/1/2017 12:00:00 AM,12/22/2017 12:00:00 AM,Yes (1),25856,11/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412037,With Only Children,Leaver,Exit,Condition Unknown,"EnrolledNoExitInt, PATH",102175,11/1/2017 12:00:00 AM,12/22/2017 12:00:00 AM,Yes (1),,,,,,,,,,
+412043,Without Children,Leaver,At Start,None,"Ben, Gary",102180,12/28/2017 12:00:00 AM,12/28/2017 12:00:00 AM,No (0),25875,12/28/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412043,Without Children,Leaver,Exit,,"Ben, Gary",102180,12/28/2017 12:00:00 AM,12/28/2017 12:00:00 AM,No (0),25876,12/28/2017 12:00:00 AM,Exit (3),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412045,Without Children,Stayer,At Start,Data Not Collected,"Yo, TestParticipant",102182,12/28/2017 12:00:00 AM,,,,,,,,,,,,
+412045,Without Children,Stayer,Recent,Data Not Collected,"Yo, TestParticipant",102182,12/28/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+412046,Without Children,Stayer,At Start,Data Not Collected,"YoYo, TestParticipantone",102183,12/28/2017 12:00:00 AM,,,,,,,,,,,,
+412046,Without Children,Stayer,Recent,Data Not Collected,"YoYo, TestParticipantone",102183,12/28/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+412047,Without Children,Stayer,At Start,Data Not Collected,"YoYoYo, TestParticipationtwo",102184,12/28/2017 12:00:00 AM,,,,,,,,,,,,
+412047,Without Children,Stayer,Recent,Data Not Collected,"YoYoYo, TestParticipationtwo",102184,12/28/2017 12:00:00 AM,,,,,Entry (1),,,,,,,
+412052,Without Children,Stayer,At Start,None,"Unsheltered, Other Adult",102187,1/8/2018 12:00:00 AM,,No (0),,,,,,,,,,
+412052,Without Children,Stayer,Recent,None,"Unsheltered, Other Adult",102187,1/8/2018 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412057,Without Children,Stayer,At Start,1 or More Conditions,"Old, IsChTest",102190,1/8/2018 12:00:00 AM,,Yes (1),25899,1/8/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),Yes (1),No (0),No (0),Yes (1)
+412057,Without Children,Stayer,Recent,1 or More Conditions,"Old, IsChTest",102190,1/8/2018 12:00:00 AM,,Yes (1),25899,1/8/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),Yes (1),No (0),No (0),Yes (1)
+412058,Without Children,Stayer,At Start,1 or More Conditions,"Test, IsCHUnshelteredPIT",102191,1/8/2018 12:00:00 AM,,Yes (1),25901,1/8/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412058,Without Children,Stayer,Recent,1 or More Conditions,"Test, IsCHUnshelteredPIT",102191,1/8/2018 12:00:00 AM,,Yes (1),25901,1/8/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412065,Without Children,Stayer,At Start,1 or More Conditions,"WithoutEnroll, PitTestClnt1",102200,1/30/2018 12:00:00 AM,,Yes (1),25963,1/30/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),Yes (1),No (0),Yes (1),No (0)
+412065,Without Children,Stayer,Recent,1 or More Conditions,"WithoutEnroll, PitTestClnt1",102200,1/30/2018 12:00:00 AM,,Yes (1),25963,1/30/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),Yes (1),No (0),Yes (1),No (0)
+412072,Without Children,Stayer,At Start,1 or More Conditions,"SPM, ESnbnNegated",102208,9/30/2016 12:00:00 AM,,Yes (1),25974,9/30/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412072,Without Children,Stayer,Recent,1 or More Conditions,"SPM, ESnbnNegated",102208,9/30/2016 12:00:00 AM,,Yes (1),25974,9/30/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412073,Without Children,Stayer,At Start,None,"SPM, SHonly",102209,9/30/2016 12:00:00 AM,,No (0),25975,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412073,Without Children,Stayer,Recent,None,"SPM, SHonly",102209,9/30/2016 12:00:00 AM,,No (0),25975,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412074,Without Children,Stayer,At Start,None,"SPM, SHwithESee",102212,9/30/2016 12:00:00 AM,,No (0),25978,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412074,Without Children,Stayer,Recent,None,"SPM, SHwithESee",102212,9/30/2016 12:00:00 AM,,No (0),25978,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412075,Without Children,Stayer,At Start,None,"SPM, SHwithPSHnoOverlap",102214,10/1/2016 12:00:00 AM,,No (0),25981,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412075,Without Children,Stayer,Recent,None,"SPM, SHwithPSHnoOverlap",102214,10/1/2016 12:00:00 AM,,No (0),25981,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412078,Without Children,Stayer,At Start,None,"SPM, ESeePSHnext",102218,10/1/2016 12:00:00 AM,,No (0),25988,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412078,Without Children,Stayer,Recent,None,"SPM, ESeePSHnext",102218,10/1/2016 12:00:00 AM,,No (0),25988,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412079,Without Children,Stayer,At Start,None,"SPM, ESeeTHoverlap",102220,10/1/2016 12:00:00 AM,,No (0),25991,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412079,Without Children,Stayer,Recent,None,"SPM, ESeeTHoverlap",102220,10/1/2016 12:00:00 AM,,No (0),25991,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412081,Without Children,Stayer,At Start,None,"SPM, ESeePSHnegated",102222,10/1/2016 12:00:00 AM,,No (0),25994,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412081,Without Children,Stayer,Recent,None,"SPM, ESeePSHnegated",102222,10/1/2016 12:00:00 AM,,No (0),25994,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412082,Without Children,Stayer,At Start,None,"SPM, ESeeOtherCoC",102225,9/30/2017 12:00:00 AM,,No (0),25999,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412082,Without Children,Stayer,Recent,None,"SPM, ESeeOtherCoC",102225,9/30/2017 12:00:00 AM,,No (0),25999,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412083,Without Children,Stayer,At Start,1 or More Conditions,"SPM, THactive",102226,9/30/2016 12:00:00 AM,,Yes (1),26000,9/30/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412083,Without Children,Stayer,Recent,1 or More Conditions,"SPM, THactive",102226,9/30/2016 12:00:00 AM,,Yes (1),26000,9/30/2016 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412084,Without Children,Stayer,At Start,None,"SPM, PSHnotLHNoMoveExit",102227,9/30/2016 12:00:00 AM,,No (0),26001,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412084,Without Children,Stayer,Recent,,"SPM, PSHnotLHNoMoveExit",102227,9/30/2016 12:00:00 AM,,No (0),127897,9/30/2017 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412087,Without Children,Stayer,At Start,None,"SPM, PSHentryPriorMoveIn",102231,9/30/2016 12:00:00 AM,,No (0),26008,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412087,Without Children,Stayer,Recent,None,"SPM, PSHentryPriorMoveIn",102231,9/30/2016 12:00:00 AM,,No (0),26008,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412088,Without Children,Stayer,At Start,None,"SPM, PSHEntryMoveInPrior",102232,9/30/2016 12:00:00 AM,,No (0),26009,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412088,Without Children,Stayer,Recent,None,"SPM, PSHEntryMoveInPrior",102232,9/30/2016 12:00:00 AM,,No (0),26009,9/30/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412089,Without Children,Stayer,At Start,None,"SPM, ESeePSH",102234,9/30/2017 12:00:00 AM,,No (0),26012,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412089,Without Children,Stayer,Recent,None,"SPM, ESeePSH",102234,9/30/2017 12:00:00 AM,,No (0),26012,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412090,Without Children,Stayer,At Start,None,"SPM, ESeePSHLitHome",102236,9/30/2017 12:00:00 AM,,No (0),26015,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412090,Without Children,Stayer,Recent,None,"SPM, ESeePSHLitHome",102236,9/30/2017 12:00:00 AM,,No (0),26015,9/30/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412091,Without Children,Stayer,At Start,None,"SPM, PSHEntryIsMoveIn",102237,10/2/2016 12:00:00 AM,,No (0),26016,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412091,Without Children,Stayer,Recent,None,"SPM, PSHEntryIsMoveIn",102237,10/2/2016 12:00:00 AM,,No (0),26016,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412092,Without Children,Stayer,At Start,None,"SPM, PSHMovedInAfter",102238,10/2/2016 12:00:00 AM,,No (0),26017,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412092,Without Children,Stayer,Recent,,"SPM, PSHMovedInAfter",102238,10/2/2016 12:00:00 AM,,No (0),128125,7/18/2018 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412093,Without Children,Stayer,At Start,None,"SPM, THandPSHLHoverlap",102239,10/1/2016 12:00:00 AM,,No (0),26018,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412093,Without Children,Stayer,Recent,None,"SPM, THandPSHLHoverlap",102239,10/1/2016 12:00:00 AM,,No (0),26018,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412094,Without Children,Stayer,At Start,None,"SPM, TH-PSHnLHoverlap",102241,10/1/2016 12:00:00 AM,,No (0),26020,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412094,Without Children,Stayer,Recent,None,"SPM, TH-PSHnLHoverlap",102241,10/1/2016 12:00:00 AM,,No (0),26020,10/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412095,Without Children,Stayer,At Start,None,"SPM, PSHLHEnteredNoMove",102243,10/2/2016 12:00:00 AM,,No (0),26022,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412095,Without Children,Stayer,Recent,None,"SPM, PSHLHEnteredNoMove",102243,10/2/2016 12:00:00 AM,,No (0),26022,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412096,Without Children,Stayer,At Start,None,"SPM, PSHnotLHlos",102244,10/2/2016 12:00:00 AM,,No (0),26023,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412096,Without Children,Stayer,Recent,None,"SPM, PSHnotLHlos",102244,10/2/2016 12:00:00 AM,,No (0),,,Annual (5),,,,,,,
+412098,Without Children,Stayer,At Start,None,"SPM, PSHNightbeforecheck",102245,10/2/2016 12:00:00 AM,,No (0),26024,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412098,Without Children,Stayer,Recent,None,"SPM, PSHNightbeforecheck",102245,10/2/2016 12:00:00 AM,,No (0),26024,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412099,Without Children,Stayer,At Start,None,"SPM, PSHNightBeforeYes",102246,10/2/2016 12:00:00 AM,,No (0),26025,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412099,Without Children,Stayer,Recent,None,"SPM, PSHNightBeforeYes",102246,10/2/2016 12:00:00 AM,,No (0),26025,10/2/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412126,With Children and Adults,Stayer,At Start,1 or More Conditions,"SPM 5.1 Test, Household",102258,2/1/2018 12:00:00 AM,,Yes (1),26041,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412126,With Children and Adults,Stayer,Recent,1 or More Conditions,"SPM 5.1 Test, Household",102258,2/1/2018 12:00:00 AM,,Yes (1),26041,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412127,With Children and Adults,Stayer,At Start,None,"SPM 5.1 Test, Child",102259,2/1/2018 12:00:00 AM,,No (0),26042,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412127,With Children and Adults,Stayer,Recent,None,"SPM 5.1 Test, Child",102259,2/1/2018 12:00:00 AM,,No (0),26042,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412128,Without Children,Stayer,At Start,None,"3.917.3 test, PH- Lit Homeless",102260,12/1/2017 12:00:00 AM,,No (0),26043,12/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412128,Without Children,Stayer,Recent,None,"3.917.3 test, PH- Lit Homeless",102260,12/1/2017 12:00:00 AM,,No (0),26043,12/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412129,Unknown Household Type,Stayer,At Start,None,"ABCD, Test1259",102261,2/13/2018 12:00:00 AM,,No (0),26044,2/13/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412129,Unknown Household Type,Stayer,Recent,None,"ABCD, Test1259",102261,2/13/2018 12:00:00 AM,,No (0),26044,2/13/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412130,Unknown Household Type,Stayer,At Start,1 or More Conditions,"ABCD, Test1259Unknown",102262,2/13/2018 12:00:00 AM,,Yes (1),26045,2/13/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412130,Unknown Household Type,Stayer,Recent,1 or More Conditions,"ABCD, Test1259Unknown",102262,2/13/2018 12:00:00 AM,,Yes (1),26045,2/13/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412135,With Children and Adults,Leaver,At Start,1 or More Conditions,"HH1Adult, PQR",102271,2/1/2018 12:00:00 AM,3/1/2018 12:00:00 AM,Yes (1),26059,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),Yes (1),No (0),No (0),No (0),No (0)
+412135,With Children and Adults,Leaver,Exit,Condition Unknown,"HH1Adult, PQR",102271,2/1/2018 12:00:00 AM,3/1/2018 12:00:00 AM,Yes (1),,,,,,,,,,
+412136,With Children and Adults,Leaver,At Start,None,"HH1Child, PQR",102272,2/1/2018 12:00:00 AM,3/1/2018 12:00:00 AM,No (0),26060,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412136,With Children and Adults,Leaver,Exit,None,"HH1Child, PQR",102272,2/1/2018 12:00:00 AM,3/1/2018 12:00:00 AM,No (0),,,,,,,,,,
+412137,With Children and Adults,Stayer,At Start,1 or More Conditions,"nbnShelter, PITYouthHouse",102273,2/1/2018 12:00:00 AM,,Yes (1),26063,2/1/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412137,With Children and Adults,Stayer,Recent,1 or More Conditions,"nbnShelter, PITYouthHouse",102273,2/1/2018 12:00:00 AM,,Yes (1),26063,2/1/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412138,With Children and Adults,Stayer,At Start,None,"nbnShelter, PITYouthOtherAdul",102274,2/1/2018 12:00:00 AM,,No (0),26064,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412138,With Children and Adults,Stayer,Recent,None,"nbnShelter, PITYouthOtherAdul",102274,2/1/2018 12:00:00 AM,,No (0),26064,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412139,With Children and Adults,Stayer,At Start,None,"nbnShelter, PITYouthChild",102275,2/1/2018 12:00:00 AM,,No (0),26065,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412139,With Children and Adults,Stayer,Recent,None,"nbnShelter, PITYouthChild",102275,2/1/2018 12:00:00 AM,,No (0),26065,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412140,With Children and Adults,Stayer,At Start,1 or More Conditions,"Housetype, PITAandD",102276,2/1/2018 12:00:00 AM,,Yes (1),26066,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+412140,With Children and Adults,Stayer,Recent,1 or More Conditions,"Housetype, PITAandD",102276,2/1/2018 12:00:00 AM,,Yes (1),26066,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+412141,With Children and Adults,Stayer,At Start,None,"Housetype, PITAandDChild",102277,2/1/2018 12:00:00 AM,,No (0),26068,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412141,With Children and Adults,Stayer,Recent,None,"Housetype, PITAandDChild",102277,2/1/2018 12:00:00 AM,,No (0),26068,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412142,With Children and Adults,Stayer,At Start,None,"Housetype, PITAandDchild2",102278,2/1/2018 12:00:00 AM,,No (0),26067,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412142,With Children and Adults,Stayer,Recent,None,"Housetype, PITAandDchild2",102278,2/1/2018 12:00:00 AM,,No (0),26067,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412143,Without Children,Stayer,At Start,1 or More Conditions,"AOYouthHoushold, PITTH",102279,2/1/2018 12:00:00 AM,,Yes (1),26069,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+412143,Without Children,Stayer,Recent,1 or More Conditions,"AOYouthHoushold, PITTH",102279,2/1/2018 12:00:00 AM,,Yes (1),26069,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0)
+412144,Without Children,Stayer,At Start,1 or More Conditions,"AOhouse, PITSH",102280,2/1/2018 12:00:00 AM,,Yes (1),26070,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1)
+412144,Without Children,Stayer,Recent,1 or More Conditions,"AOhouse, PITSH",102280,2/1/2018 12:00:00 AM,,Yes (1),26070,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1)
+412145,With Children and Adults,Stayer,At Start,None,"Househtype`, PITHoHAO",102281,2/1/2018 12:00:00 AM,,No (0),26071,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412145,With Children and Adults,Stayer,Recent,None,"Househtype`, PITHoHAO",102281,2/1/2018 12:00:00 AM,,No (0),26071,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412146,With Children and Adults,Stayer,At Start,1 or More Conditions,"Housetype, PITOtherAdult",102282,2/1/2018 12:00:00 AM,,Yes (1),26072,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412146,With Children and Adults,Stayer,Recent,1 or More Conditions,"Housetype, PITOtherAdult",102282,2/1/2018 12:00:00 AM,,Yes (1),26072,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412147,With Children and Adults,Stayer,At Start,None,"Houset, PITChildAHO",102283,2/1/2018 12:00:00 AM,,No (0),26073,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412147,With Children and Adults,Stayer,Recent,None,"Houset, PITChildAHO",102283,2/1/2018 12:00:00 AM,,No (0),26073,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412148,With Only Children,Stayer,At Start,1 or More Conditions,"Typeunder18, PITPrntYouth",102284,2/1/2018 12:00:00 AM,,Yes (1),26074,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412148,With Only Children,Stayer,Recent,1 or More Conditions,"Typeunder18, PITPrntYouth",102284,2/1/2018 12:00:00 AM,,Yes (1),26074,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412149,With Only Children,Stayer,At Start,None,"TypeUnder18, PITPrntYouthAdult",102285,2/1/2018 12:00:00 AM,,No (0),26075,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412149,With Only Children,Stayer,Recent,None,"TypeUnder18, PITPrntYouthAdult",102285,2/1/2018 12:00:00 AM,,No (0),26075,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412150,With Only Children,Stayer,At Start,None,"Under18, PITPrntYoutChild",102286,2/1/2018 12:00:00 AM,,No (0),26076,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412150,With Only Children,Stayer,Recent,None,"Under18, PITPrntYoutChild",102286,2/1/2018 12:00:00 AM,,No (0),26076,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412151,With Children and Adults,Stayer,At Start,1 or More Conditions,"hhtype, PITPrntYouth1825",102287,2/1/2018 12:00:00 AM,,Yes (1),26077,2/1/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412151,With Children and Adults,Stayer,Recent,1 or More Conditions,"hhtype, PITPrntYouth1825",102287,2/1/2018 12:00:00 AM,,Yes (1),26077,2/1/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412152,With Children and Adults,Stayer,At Start,None,"hhtype, PITprntYouthotheradu",102288,2/1/2018 12:00:00 AM,,No (0),26078,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412152,With Children and Adults,Stayer,Recent,None,"hhtype, PITprntYouthotheradu",102288,2/1/2018 12:00:00 AM,,No (0),26078,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412153,With Children and Adults,Stayer,At Start,None,"hhtype, PITprntChild",102289,2/1/2018 12:00:00 AM,,No (0),26079,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412153,With Children and Adults,Stayer,Recent,None,"hhtype, PITprntChild",102289,2/1/2018 12:00:00 AM,,No (0),26079,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412154,With Only Children,Stayer,At Start,1 or More Conditions,"House, PITChiOnly",102290,2/1/2018 12:00:00 AM,,Yes (1),26080,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412154,With Only Children,Stayer,Recent,1 or More Conditions,"House, PITChiOnly",102290,2/1/2018 12:00:00 AM,,Yes (1),26080,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412155,With Only Children,Stayer,At Start,None,"house, PITChionlyother",102291,2/1/2018 12:00:00 AM,,No (0),26081,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412155,With Only Children,Stayer,Recent,None,"house, PITChionlyother",102291,2/1/2018 12:00:00 AM,,No (0),26081,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412156,Unknown Household Type,Stayer,At Start,1 or More Conditions,"UnknownHouse, PIT",102292,2/1/2018 12:00:00 AM,,Yes (1),26082,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412156,Unknown Household Type,Stayer,Recent,1 or More Conditions,"UnknownHouse, PIT",102292,2/1/2018 12:00:00 AM,,Yes (1),26082,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412157,Unknown Household Type,Stayer,At Start,1 or More Conditions,"UnknownHouse, PITUnkonwn",102293,2/1/2018 12:00:00 AM,,Yes (1),26083,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412157,Unknown Household Type,Stayer,Recent,1 or More Conditions,"UnknownHouse, PITUnkonwn",102293,2/1/2018 12:00:00 AM,,Yes (1),26083,2/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412158,With Children and Adults,Stayer,At Start,None,"AChouse, PITACwithunkonwn",102294,2/1/2018 12:00:00 AM,,No (0),26084,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412158,With Children and Adults,Stayer,Recent,None,"AChouse, PITACwithunkonwn",102294,2/1/2018 12:00:00 AM,,No (0),26084,2/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412159,With Children and Adults,Stayer,At Start,Data Not Collected,"AChouse, PITACUnknownpers",102295,2/1/2018 12:00:00 AM,,,,,,,,,,,,
+412159,With Children and Adults,Stayer,Recent,Data Not Collected,"AChouse, PITACUnknownpers",102295,2/1/2018 12:00:00 AM,,,,,,,,,,,,
+412160,With Children and Adults,Stayer,At Start,Data Not Collected,"AChouse, PITACwunknochild",102296,2/1/2018 12:00:00 AM,,,,,,,,,,,,
+412160,With Children and Adults,Stayer,Recent,Data Not Collected,"AChouse, PITACwunknochild",102296,2/1/2018 12:00:00 AM,,,,,,,,,,,,
+412169,With Children and Adults,Stayer,At Start,1 or More Conditions,"NotChronic, 2PersoneeHoH",102300,1/1/2018 12:00:00 AM,,Yes (1),26096,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),Yes (1),No (0)
+412169,With Children and Adults,Stayer,Recent,1 or More Conditions,"NotChronic, 2PersoneeHoH",102300,1/1/2018 12:00:00 AM,,Yes (1),26096,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),Yes (1),No (0)
+412170,With Children and Adults,Stayer,At Start,1 or More Conditions,"NotChronic, 2PersoneeChild",102301,1/1/2018 12:00:00 AM,,Yes (1),26097,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412170,With Children and Adults,Stayer,Recent,1 or More Conditions,"NotChronic, 2PersoneeChild",102301,1/1/2018 12:00:00 AM,,Yes (1),26097,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412171,With Children and Adults,Stayer,At Start,1 or More Conditions,"ChronicEpisodic, 2PersoneeHoH",102302,1/1/2018 12:00:00 AM,,Yes (1),26098,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412171,With Children and Adults,Stayer,Recent,1 or More Conditions,"ChronicEpisodic, 2PersoneeHoH",102302,1/1/2018 12:00:00 AM,,Yes (1),26098,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412172,With Children and Adults,Stayer,At Start,None,"ChronicEpisodic, 2PersoneeChild",102303,1/1/2018 12:00:00 AM,,No (0),26099,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412172,With Children and Adults,Stayer,Recent,None,"ChronicEpisodic, 2PersoneeChild",102303,1/1/2018 12:00:00 AM,,No (0),26099,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412173,Without Children,Stayer,At Start,1 or More Conditions,"AgeIntoChronic, 1PersEEHoH",102304,11/29/2017 12:00:00 AM,,Yes (1),26100,12/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412173,Without Children,Stayer,Recent,1 or More Conditions,"AgeIntoChronic, 1PersEEHoH",102304,11/29/2017 12:00:00 AM,,Yes (1),26100,12/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412174,Without Children,Stayer,At Start,1 or More Conditions,"AgeIntoEpisodic, 1PersEE",102305,12/29/2017 12:00:00 AM,,Yes (1),26101,12/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412174,Without Children,Stayer,Recent,1 or More Conditions,"AgeIntoEpisodic, 1PersEE",102305,12/29/2017 12:00:00 AM,,Yes (1),26101,12/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412175,Without Children,Stayer,At Start,1 or More Conditions,"NotChronic, 1PersEE",102306,1/2/2018 12:00:00 AM,,Yes (1),26102,1/2/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),Yes (1),No (0)
+412175,Without Children,Stayer,Recent,1 or More Conditions,"NotChronic, 1PersEE",102306,1/2/2018 12:00:00 AM,,Yes (1),26102,1/2/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),Yes (1),No (0)
+412176,Without Children,Stayer,At Start,1 or More Conditions,"EntryChronic, 1PersonSH",102307,1/1/2018 12:00:00 AM,,Yes (1),26103,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412176,Without Children,Stayer,Recent,1 or More Conditions,"EntryChronic, 1PersonSH",102307,1/1/2018 12:00:00 AM,,Yes (1),26103,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412177,Without Children,Stayer,At Start,1 or More Conditions,"AgeIntoContinuous, 1PersSH",102308,11/29/2017 12:00:00 AM,,Yes (1),26104,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412177,Without Children,Stayer,Recent,1 or More Conditions,"AgeIntoContinuous, 1PersSH",102308,11/29/2017 12:00:00 AM,,Yes (1),26104,11/29/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),Yes (1),No (0),No (0)
+412178,Without Children,Stayer,At Start,1 or More Conditions,"AgeIntoEpisodic, 1PersSH",102309,12/29/2017 12:00:00 AM,,Yes (1),26105,12/29/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412178,Without Children,Stayer,Recent,1 or More Conditions,"AgeIntoEpisodic, 1PersSH",102309,12/29/2017 12:00:00 AM,,Yes (1),26105,12/29/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412179,Without Children,Stayer,At Start,1 or More Conditions,"MissedAgeInto, 1PersSHHoH",102310,12/29/2017 12:00:00 AM,,Yes (1),26106,12/29/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412179,Without Children,Stayer,Recent,1 or More Conditions,"MissedAgeInto, 1PersSHHoH",102310,12/29/2017 12:00:00 AM,,Yes (1),26106,12/29/2017 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412180,Without Children,Stayer,At Start,1 or More Conditions,"NotChronic, 1PersTH",102311,1/1/2018 12:00:00 AM,,Yes (1),26107,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412180,Without Children,Stayer,Recent,1 or More Conditions,"NotChronic, 1PersTH",102311,1/1/2018 12:00:00 AM,,Yes (1),26107,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412181,With Children and Adults,Stayer,At Start,1 or More Conditions,"EpisodeChronic, 2PersNbN",102312,1/1/2018 12:00:00 AM,,Yes (1),26108,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412181,With Children and Adults,Stayer,Recent,1 or More Conditions,"EpisodeChronic, 2PersNbN",102312,1/1/2018 12:00:00 AM,,Yes (1),26108,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412182,With Children and Adults,Stayer,At Start,None,"EpisodeChronic, 2PersNbNChild",102313,1/1/2018 12:00:00 AM,,No (0),26109,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412182,With Children and Adults,Stayer,Recent,None,"EpisodeChronic, 2PersNbNChild",102313,1/1/2018 12:00:00 AM,,No (0),26109,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412183,Without Children,Stayer,At Start,1 or More Conditions,"AgeIntoContinuous, 1PersNbNHoH",102314,12/1/2017 12:00:00 AM,,Yes (1),26110,12/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412183,Without Children,Stayer,Recent,1 or More Conditions,"AgeIntoContinuous, 1PersNbNHoH",102314,12/1/2017 12:00:00 AM,,Yes (1),26110,12/1/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412184,Without Children,Stayer,At Start,1 or More Conditions,"DoubleMonthMissAgeInto, 1PersESnbn",102315,1/1/2018 12:00:00 AM,,Yes (1),26111,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412184,Without Children,Stayer,Recent,1 or More Conditions,"DoubleMonthMissAgeInto, 1PersESnbn",102315,1/1/2018 12:00:00 AM,,Yes (1),26111,1/1/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412185,Without Children,Stayer,At Start,1 or More Conditions,"TwoSpannedAgedCont, 1PersESNbN",102316,11/29/2017 12:00:00 AM,,Yes (1),26112,11/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412185,Without Children,Stayer,Recent,1 or More Conditions,"TwoSpannedAgedCont, 1PersESNbN",102316,11/29/2017 12:00:00 AM,,Yes (1),26112,11/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412186,Without Children,Stayer,At Start,1 or More Conditions,"AgeEpisodic1Span, 1PersESNBN",102317,12/29/2017 12:00:00 AM,,Yes (1),26113,12/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412186,Without Children,Stayer,Recent,1 or More Conditions,"AgeEpisodic1Span, 1PersESNBN",102317,12/29/2017 12:00:00 AM,,Yes (1),26113,12/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412187,Without Children,Stayer,At Start,1 or More Conditions,"MissedAgeEpisodic, 1PersES NBN",102318,1/2/2018 12:00:00 AM,,Yes (1),26114,1/2/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412187,Without Children,Stayer,Recent,1 or More Conditions,"MissedAgeEpisodic, 1PersES NBN",102318,1/2/2018 12:00:00 AM,,Yes (1),26114,1/2/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412188,Without Children,Stayer,At Start,1 or More Conditions,"DoubleSpanAgeEpisodic, 1PersonNBN",102319,11/29/2017 12:00:00 AM,,Yes (1),26115,11/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412188,Without Children,Stayer,Recent,1 or More Conditions,"DoubleSpanAgeEpisodic, 1PersonNBN",102319,11/29/2017 12:00:00 AM,,Yes (1),26115,11/29/2017 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412190,Without Children,Stayer,At Start,None,"ActiveClient2, Den",102322,1/1/2018 12:00:00 AM,,No (0),26119,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412190,Without Children,Stayer,Recent,None,"ActiveClient2, Den",102322,1/1/2018 12:00:00 AM,,No (0),26119,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412191,Without Children,Stayer,At Start,None,"ActiveClient2, Denny",102323,1/1/2018 12:00:00 AM,,No (0),26120,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412191,Without Children,Stayer,Recent,None,"ActiveClient2, Denny",102323,1/1/2018 12:00:00 AM,,No (0),26120,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412194,Without Children,Leaver,At Start,Condition Unknown,"BarrierAtExit, DisCond",102327,1/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,Yes (1),26125,1/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412194,Without Children,Leaver,Exit,1 or More Conditions,"BarrierAtExit, DisCond",102327,1/1/2018 12:00:00 AM,2/1/2018 12:00:00 AM,Yes (1),26126,2/1/2018 12:00:00 AM,Exit (3),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0)
+412195,Without Children,Stayer,At Start,Condition Unknown,"MissesEpAge, Individual",102328,9/1/2017 12:00:00 AM,,Yes (1),,,,,,,,,,
+412195,Without Children,Stayer,Recent,Condition Unknown,"MissesEpAge, Individual",102328,9/1/2017 12:00:00 AM,,Yes (1),,,Entry (1),,,,,,,
+412208,Without Children,Stayer,At Start,None,"RRH Project Type ID, SSVF",102334,3/12/2018 12:00:00 AM,,No (0),,,,,,,,,,
+412208,Without Children,Stayer,Recent,None,"RRH Project Type ID, SSVF",102334,3/12/2018 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412212,Without Children,Stayer,At Start,None,"TEst, RHY",102340,3/22/2018 12:00:00 AM,,No (0),50659,3/22/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+412212,Without Children,Stayer,Recent,None,"TEst, RHY",102340,3/22/2018 12:00:00 AM,,No (0),50659,3/22/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+412237,Without Children,Stayer,At Start,None,"SSVF EmploymentCheck, New",102355,4/3/2018 12:00:00 AM,,No (0),,,,,,,,,,
+412237,Without Children,Stayer,Recent,None,"SSVF EmploymentCheck, New",102355,4/3/2018 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412916,With Children and Adults,Stayer,At Start,None,"HoH, Youth",104300,4/1/2018 12:00:00 AM,,No (0),127858,4/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412916,With Children and Adults,Stayer,Recent,None,"HoH, Youth",104300,4/1/2018 12:00:00 AM,,No (0),127858,4/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412917,With Children and Adults,Stayer,At Start,None,"HoH, OtherAdult",104302,4/1/2018 12:00:00 AM,,No (0),,,,,,,,,,
+412917,With Children and Adults,Stayer,Recent,None,"HoH, OtherAdult",104302,4/1/2018 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412930,With Only Children,Leaver,At Start,None,"RHYFamily, RHYDaughter",104312,6/19/2018 12:00:00 AM,6/19/2018 12:00:00 AM,No (0),127874,6/19/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),,No (0),No (0),No (0)
+412930,With Only Children,Leaver,Exit,None,"RHYFamily, RHYDaughter",104312,6/19/2018 12:00:00 AM,6/19/2018 12:00:00 AM,No (0),,,,,,,,,,
+412935,Without Children,Leaver,At Start,1 or More Conditions,"ES, RHY5482",104324,6/21/2018 12:00:00 AM,6/21/2018 12:00:00 AM,Yes (1),127886,6/21/2018 12:00:00 AM,Entry (1),Yes (1),No (0),No (0),,No (0),No (0),No (0)
+412935,Without Children,Leaver,Exit,Condition Unknown,"ES, RHY5482",104324,6/21/2018 12:00:00 AM,6/21/2018 12:00:00 AM,Yes (1),,,,,,,,,,
+412938,With Children and Adults,Stayer,At Start,None,"Look, Annual",104331,6/1/2016 12:00:00 AM,,No (0),127899,6/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412938,With Children and Adults,Stayer,Recent,,"Look, Annual",104331,6/1/2016 12:00:00 AM,,No (0),127904,6/27/2018 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412939,With Children and Adults,Stayer,At Start,None,"Annual, Child",104332,6/1/2016 12:00:00 AM,,No (0),127900,6/1/2016 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412939,With Children and Adults,Stayer,Recent,,"Annual, Child",104332,6/1/2016 12:00:00 AM,,No (0),127905,6/27/2018 12:00:00 AM,During Program Enrollment (2),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412940,With Children and Adults,Stayer,At Start,Client Doesn't Know/Client Refused,"Doesnt Know, Bad Veteran",104333,9/16/1997 12:00:00 AM,,Client doesn't know (8),127906,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412940,With Children and Adults,Stayer,Recent,Client Doesn't Know/Client Refused,"Doesnt Know, Bad Veteran",104333,9/16/1997 12:00:00 AM,,Client doesn't know (8),127906,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412941,With Children and Adults,Stayer,At Start,Client Doesn't Know/Client Refused,"Refused, Bad Veteran",104334,6/1/2017 12:00:00 AM,,Client Refused (9),127908,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412941,With Children and Adults,Stayer,Recent,Client Doesn't Know/Client Refused,"Refused, Bad Veteran",104334,6/1/2017 12:00:00 AM,,Client Refused (9),127908,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412942,With Children and Adults,Stayer,At Start,Data Not Collected,"DNC, Bad Veteran",104335,6/1/2017 12:00:00 AM,,Data Not Collected (99),127907,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412942,With Children and Adults,Stayer,Recent,Data Not Collected,"DNC, Bad Veteran",104335,6/1/2017 12:00:00 AM,,Data Not Collected (99),127907,6/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412943,With Children and Adults,Stayer,At Start,None,"105, Vet",104336,6/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+412943,With Children and Adults,Stayer,Recent,None,"105, Vet",104336,6/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412944,With Children and Adults,Stayer,At Start,None,"Person, NoDOB",104337,6/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+412944,With Children and Adults,Stayer,Recent,None,"Person, NoDOB",104337,6/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412945,With Children and Adults,Stayer,At Start,None,"entry, Child Born after",104338,6/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+412945,With Children and Adults,Stayer,Recent,None,"entry, Child Born after",104338,6/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412946,With Children and Adults,Stayer,At Start,None,"DOB, Refused",104339,6/1/2017 12:00:00 AM,,No (0),,,,,,,,,,
+412946,With Children and Adults,Stayer,Recent,None,"DOB, Refused",104339,6/1/2017 12:00:00 AM,,No (0),,,Entry (1),,,,,,,
+412948,With Only Children,Leaver,At Start,1 or More Conditions,"IsCh, YouthHoH",104349,1/24/2018 12:00:00 AM,2/19/2018 12:00:00 AM,Yes (1),127924,1/24/2018 12:00:00 AM,Entry (1),No (0),Yes (1),No (0),No (0),No (0),No (0),No (0)
+412948,With Only Children,Leaver,Exit,Condition Unknown,"IsCh, YouthHoH",104349,1/24/2018 12:00:00 AM,2/19/2018 12:00:00 AM,Yes (1),,,,,,,,,,
+412949,With Only Children,Leaver,At Start,None,"OfYouthHoH, Child",104350,1/24/2018 12:00:00 AM,2/19/2018 12:00:00 AM,No (0),127925,1/24/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412949,With Only Children,Leaver,Exit,None,"OfYouthHoH, Child",104350,1/24/2018 12:00:00 AM,2/19/2018 12:00:00 AM,No (0),,,,,,,,,,
+412952,Without Children,Stayer,At Start,None,"1, Income",104353,7/1/2017 12:00:00 AM,,No (0),127930,7/1/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412952,Without Children,Stayer,Recent,,"1, Income",104353,7/1/2017 12:00:00 AM,,No (0),127931,7/16/2018 12:00:00 AM,Annual (5),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412953,Without Children,Leaver,At Start,None,"Client, Another",104354,7/1/2018 12:00:00 AM,7/15/2018 12:00:00 AM,No (0),127932,7/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+412953,Without Children,Leaver,Exit,None,"Client, Another",104354,7/1/2018 12:00:00 AM,7/15/2018 12:00:00 AM,No (0),,,,,,,,,,
+412987,Without Children,Stayer,At Start,Data Not Collected,"Frost, John",104385,8/2/2018 12:00:00 AM,,,,,,,,,,,,
+412987,Without Children,Stayer,Recent,Data Not Collected,"Frost, John",104385,8/2/2018 12:00:00 AM,,,,,,,,,,,,
+412991,Without Children,Leaver,At Start,Data Not Collected,"Test, CT-5533",104388,8/6/2018 12:00:00 AM,8/8/2018 12:00:00 AM,,,,,,,,,,,
+412991,Without Children,Leaver,Exit,Data Not Collected,"Test, CT-5533",104388,8/6/2018 12:00:00 AM,8/8/2018 12:00:00 AM,,,,,,,,,,,
+413023,Without Children,Stayer,At Start,None,"Wednesday, Two",104417,7/1/2018 12:00:00 AM,,No (0),128021,7/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+413023,Without Children,Stayer,Recent,None,"Wednesday, Two",104417,7/1/2018 12:00:00 AM,,No (0),128021,7/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+413028,Without Children,Leaver,At Start,None,"Birchworm, John",104427,7/3/2017 12:00:00 AM,6/29/2018 12:00:00 AM,No (0),128036,7/3/2017 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+413028,Without Children,Leaver,Exit,None,"Birchworm, John",104427,7/3/2017 12:00:00 AM,6/29/2018 12:00:00 AM,No (0),,,,,,,,,,
+413045,With Children and Adults,Leaver,At Start,None,"Case, Multi",104464,7/1/2018 12:00:00 AM,7/3/2018 12:00:00 AM,No (0),128126,7/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+413045,With Children and Adults,Leaver,Exit,None,"Case, Multi",104464,7/1/2018 12:00:00 AM,7/3/2018 12:00:00 AM,No (0),,,,,,,,,,
+413046,With Children and Adults,Leaver,At Start,None,"multi, Child",104465,7/1/2018 12:00:00 AM,7/3/2018 12:00:00 AM,No (0),128127,7/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+413046,With Children and Adults,Leaver,Exit,None,"multi, Child",104465,7/1/2018 12:00:00 AM,7/3/2018 12:00:00 AM,No (0),,,,,,,,,,
+413052,Without Children,Stayer,At Start,None,"TEst, Primary",104478,6/1/2018 12:00:00 AM,,No (0),128146,6/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)
+413052,Without Children,Stayer,Recent,None,"TEst, Primary",104478,6/1/2018 12:00:00 AM,,No (0),128146,6/1/2018 12:00:00 AM,Entry (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0)

@@ -1,0 +1,165 @@
+A. Time for Record Entry,ClientID,Name,Entry,EXIT,EntryDate,EntryCreatedDate,ExitDate,ExitCreatedDate,EntryExplanation,ExitExplanation
+0 days,410213,"Adult, Child AHAR",,Yes,,,11/17/2017 12:00:00 AM,11/17/2017 12:32:16 PM,,0 Days between Exit Date and Exit Created Date
+0 days,411216,"Workflow, PATH",,Yes,,,11/1/2017 12:00:00 AM,11/1/2017 11:56:50 AM,5 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411269,"Boy, Game",,Yes,,,11/20/2017 12:00:00 AM,11/20/2017 1:27:02 PM,,0 Days between Exit Date and Exit Created Date
+0 days,411548,"Man, Test",Yes,,10/2/2017 12:00:00 AM,10/2/2017 1:59:34 PM,,,0 Days between Entry Date and Created Date,
+0 days,411551,"Assessment, Financial",Yes,,10/2/2017 12:00:00 AM,10/2/2017 2:52:19 PM,,,0 Days between Entry Date and Created Date,
+0 days,411552,"neh, Hen",Yes,,10/2/2017 12:00:00 AM,10/2/2017 3:19:33 PM,,,0 Days between Entry Date and Created Date,
+0 days,411555,"nah, Han",Yes,,10/3/2017 12:00:00 AM,10/3/2017 8:29:44 AM,,,0 Days between Entry Date and Created Date,
+0 days,411556,"you, Yit",Yes,,10/3/2017 12:00:00 AM,10/3/2017 8:30:45 AM,,,0 Days between Entry Date and Created Date,
+0 days,411557,"Terw, Quer",Yes,,10/3/2017 12:00:00 AM,10/3/2017 8:39:44 AM,,,0 Days between Entry Date and Created Date,
+0 days,411561,"Terro, Yertey",Yes,,10/3/2017 12:00:00 AM,10/3/2017 9:17:54 AM,,,0 Days between Entry Date and Created Date,
+0 days,411564,"yotttt, toy",Yes,,10/3/2017 12:00:00 AM,10/3/2017 10:57:05 AM,,,0 Days between Entry Date and Created Date,
+0 days,411567,"Head, Arrow",Yes,Yes,10/3/2017 12:00:00 AM,10/3/2017 11:16:01 AM,11/1/2017 12:00:00 AM,11/1/2017 3:05:15 PM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411569,"Gor, Poting",Yes,,10/3/2017 12:00:00 AM,10/3/2017 11:19:34 AM,,,0 Days between Entry Date and Created Date,
+0 days,411570,"Er, Young",Yes,,10/3/2017 12:00:00 AM,10/3/2017 11:21:07 AM,,,0 Days between Entry Date and Created Date,
+0 days,411572,"ActiveClient, SO",Yes,,10/11/2017 12:00:00 AM,10/11/2017 12:00:40 PM,,,0 Days between Entry Date and Created Date,
+0 days,411576,"Client, Orientation",Yes,,10/4/2017 12:00:00 AM,10/4/2017 12:47:39 PM,,,0 Days between Entry Date and Created Date,
+0 days,411581,"Nig, Gin",Yes,Yes,10/5/2017 12:00:00 AM,10/5/2017 8:53:46 AM,10/6/2017 12:00:00 AM,10/6/2017 9:25:50 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411583,"Test, FintestClient",Yes,,10/6/2017 12:00:00 AM,10/6/2017 9:31:32 AM,,,0 Days between Entry Date and Created Date,
+0 days,411687,"Matthew, Jon",Yes,Yes,3/22/2018 12:00:00 AM,3/22/2018 11:20:58 AM,3/22/2018 12:00:00 AM,3/22/2018 11:22:15 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411690,"Report, AHAR",Yes,,10/10/2017 12:00:00 AM,10/10/2017 2:09:18 PM,,,0 Days between Entry Date and Created Date,
+0 days,411693,"Report, PathGuy1",,Yes,,,10/11/2017 12:00:00 AM,10/11/2017 3:03:47 PM,8 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411694,"guy, pathsubstance",Yes,Yes,10/12/2017 12:00:00 AM,10/12/2017 8:21:45 AM,10/12/2017 12:00:00 AM,10/12/2017 8:45:25 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411695,"drug, pathguy",Yes,,10/12/2017 12:00:00 AM,10/12/2017 8:25:19 AM,,,0 Days between Entry Date and Created Date,
+0 days,411698,"InsTest, Health",Yes,Yes,10/16/2017 12:00:00 AM,10/16/2017 10:11:10 AM,10/16/2017 12:00:00 AM,10/16/2017 10:11:58 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411701,"Family, ThreeMember",Yes,,10/19/2017 12:00:00 AM,10/19/2017 2:51:06 PM,,,0 Days between Entry Date and Created Date,
+0 days,411702,"Family, Two",Yes,,10/19/2017 12:00:00 AM,10/19/2017 2:51:06 PM,,,0 Days between Entry Date and Created Date,
+0 days,411703,"Family, One",Yes,,10/19/2017 12:00:00 AM,10/19/2017 2:51:06 PM,,,0 Days between Entry Date and Created Date,
+0 days,411723,"Bee, Bee",Yes,Yes,11/1/2017 12:00:00 AM,11/1/2017 1:08:40 PM,11/1/2017 12:00:00 AM,11/1/2017 1:31:11 PM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411724,"Test, ExitInsurance",Yes,Yes,11/2/2017 12:00:00 AM,11/2/2017 11:10:00 AM,11/2/2017 12:00:00 AM,11/2/2017 11:16:31 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411770,"Youth, Parenting",Yes,Yes,11/13/2017 12:00:00 AM,11/13/2017 12:21:31 PM,11/13/2017 12:00:00 AM,11/13/2017 2:36:10 PM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411771,"Youth, Spouse",Yes,,11/13/2017 12:00:00 AM,11/13/2017 12:21:31 PM,,,0 Days between Entry Date and Created Date,
+0 days,411772,"Youth, Child",Yes,,11/13/2017 12:00:00 AM,11/13/2017 12:21:31 PM,,,0 Days between Entry Date and Created Date,
+0 days,411773,"Youth, ChildElder",Yes,,11/13/2017 12:00:00 AM,11/13/2017 12:21:31 PM,,,0 Days between Entry Date and Created Date,
+0 days,411774,"ContactInfo, RTest",Yes,Yes,11/14/2017 12:00:00 AM,11/14/2017 8:26:44 AM,11/14/2017 12:00:00 AM,11/14/2017 8:36:52 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411796,"Exit, BadDisCond",,Yes,,,11/16/2017 12:00:00 AM,11/16/2017 8:42:06 AM,,0 Days between Exit Date and Exit Created Date
+0 days,411807,"Household, OtherAdult",Yes,,11/22/2017 12:00:00 AM,11/22/2017 12:43:15 PM,,,0 Days between Entry Date and Created Date,
+0 days,411819,"Household, OtherChild",Yes,,11/22/2017 12:00:00 AM,11/22/2017 1:21:55 PM,,,0 Days between Entry Date and Created Date,
+0 days,411824,"AssessmentLink, Testing",Yes,,11/27/2017 12:00:00 AM,11/27/2017 8:57:10 AM,,,0 Days between Entry Date and Created Date,
+0 days,411846,"Test, AgeCheckAdult",Yes,Yes,11/28/2017 12:00:00 AM,11/28/2017 11:07:24 AM,1/10/2018 12:00:00 AM,1/10/2018 10:27:41 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411847,"Test, AgeChildCheck",Yes,Yes,11/28/2017 12:00:00 AM,11/28/2017 11:07:24 AM,11/29/2017 12:00:00 AM,11/30/2017 10:24:38 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411850,"Test, RRHClient1",Yes,Yes,11/29/2017 12:00:00 AM,11/29/2017 8:58:29 AM,1/10/2018 12:00:00 AM,1/10/2018 10:43:43 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411851,"Test, RRHClient2",Yes,,11/29/2017 12:00:00 AM,11/29/2017 8:58:29 AM,,,0 Days between Entry Date and Created Date,
+0 days,411852,"Test, RRHClient3",Yes,,11/29/2017 12:00:00 AM,11/29/2017 8:58:29 AM,,,0 Days between Entry Date and Created Date,
+0 days,411884,"ONe, Test",,Yes,,,11/30/2017 12:00:00 AM,11/30/2017 11:12:16 AM,,0 Days between Exit Date and Exit Created Date
+0 days,411885,"Test, HoHAge3917",Yes,,11/30/2017 12:00:00 AM,11/30/2017 12:06:48 PM,,,0 Days between Entry Date and Created Date,
+0 days,411886,"Test, ChildSwitched",Yes,Yes,11/30/2017 12:00:00 AM,11/30/2017 12:06:48 PM,11/30/2017 12:00:00 AM,11/30/2017 12:09:12 PM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,411912,"PermAdd, RRH",Yes,,12/5/2017 12:00:00 AM,12/5/2017 10:44:13 AM,,,0 Days between Entry Date and Created Date,
+0 days,411913,"RRH, SSVFAdult",Yes,,12/5/2017 12:00:00 AM,12/5/2017 11:06:52 AM,,,0 Days between Entry Date and Created Date,
+0 days,411914,"RRH, SSVFAdult1",Yes,,12/5/2017 12:00:00 AM,12/5/2017 11:06:52 AM,,,0 Days between Entry Date and Created Date,
+0 days,411916,"InHousehold, OtherAdult",,Yes,,,12/5/2017 12:00:00 AM,12/5/2017 11:29:10 AM,,0 Days between Exit Date and Exit Created Date
+0 days,411918,"HoH, Adult",Yes,,12/5/2017 12:00:00 AM,12/5/2017 12:31:05 PM,,,0 Days between Entry Date and Created Date,
+0 days,411919,"Adult, AgingInto",Yes,,12/5/2017 12:00:00 AM,12/5/2017 12:31:05 PM,,,0 Days between Entry Date and Created Date,
+0 days,411920,"Child, GoingToExit",Yes,,12/5/2017 12:00:00 AM,12/5/2017 12:31:05 PM,,,0 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+0 days,411923,"HoH, Multiple",Yes,,12/6/2017 12:00:00 AM,12/6/2017 10:15:42 AM,,,0 Days between Entry Date and Created Date,
+0 days,411924,"HoH, Second",Yes,,12/6/2017 12:00:00 AM,12/6/2017 10:15:42 AM,,,0 Days between Entry Date and Created Date,
+0 days,411927,"CH Status, DK/R",Yes,,12/6/2017 12:00:00 AM,12/6/2017 11:04:29 AM,,,0 Days between Entry Date and Created Date,
+0 days,411930,"ToMinorHoH, 3917AAdult",Yes,,12/7/2017 12:00:00 AM,12/7/2017 8:31:10 AM,,,0 Days between Entry Date and Created Date,
+0 days,411931,"To Minor, A-Adult",Yes,,12/7/2017 12:00:00 AM,12/7/2017 8:31:10 AM,,,0 Days between Entry Date and Created Date,
+0 days,411932,"HoH, BAtoM",Yes,,12/7/2017 12:00:00 AM,12/7/2017 8:34:15 AM,,,0 Days between Entry Date and Created Date,
+0 days,411933,"ToMinor, B-Adult",Yes,,12/7/2017 12:00:00 AM,12/7/2017 8:34:15 AM,,,0 Days between Entry Date and Created Date,
+0 days,412012,"Workflow, Test",Yes,,12/15/2017 12:00:00 AM,12/15/2017 7:59:17 AM,,,0 Days between Entry Date and Created Date,
+0 days,412037,"EnrolledNoExitInt, PATH",,Yes,,,12/22/2017 12:00:00 AM,12/22/2017 3:54:30 PM,51 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,412045,"Yo, TestParticipant",Yes,,12/28/2017 12:00:00 AM,12/28/2017 2:35:15 PM,,,0 Days between Entry Date and Created Date,
+0 days,412046,"YoYo, TestParticipantone",Yes,,12/28/2017 12:00:00 AM,12/28/2017 2:37:16 PM,,,0 Days between Entry Date and Created Date,
+0 days,412047,"YoYoYo, TestParticipationtwo",Yes,,12/28/2017 12:00:00 AM,12/28/2017 2:43:47 PM,,,0 Days between Entry Date and Created Date,
+0 days,412052,"Unsheltered, Other Adult",Yes,,1/8/2018 12:00:00 AM,1/8/2018 8:18:27 AM,,,0 Days between Entry Date and Created Date,
+0 days,412057,"Old, IsChTest",Yes,,1/8/2018 12:00:00 AM,1/8/2018 2:41:02 PM,,,0 Days between Entry Date and Created Date,
+0 days,412057,"Old, IsChTest",Yes,,1/8/2018 12:00:00 AM,1/8/2018 2:41:02 PM,,,0 Days between Entry Date and Created Date,
+0 days,412058,"Test, IsCHUnshelteredPIT",Yes,,1/8/2018 12:00:00 AM,1/8/2018 3:03:35 PM,,,0 Days between Entry Date and Created Date,
+0 days,412129,"ABCD, Test1259",Yes,,2/13/2018 12:00:00 AM,2/13/2018 1:36:52 PM,,,0 Days between Entry Date and Created Date,
+0 days,412208,"RRH Project Type ID, SSVF",Yes,,3/12/2018 12:00:00 AM,3/12/2018 8:48:41 AM,,,0 Days between Entry Date and Created Date,
+0 days,412930,"RHYFamily, RHYDaughter",Yes,Yes,6/19/2018 12:00:00 AM,6/19/2018 9:51:31 AM,6/19/2018 12:00:00 AM,6/19/2018 9:55:32 AM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,412935,"ES, RHY5482",Yes,Yes,6/21/2018 12:00:00 AM,6/21/2018 12:57:19 PM,6/21/2018 12:00:00 AM,6/21/2018 12:58:53 PM,0 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+0 days,412987,"Frost, John",Yes,,8/2/2018 12:00:00 AM,8/2/2018 4:42:13 PM,,,0 Days between Entry Date and Created Date,
+0 days,412991,"Test, CT-5533",,Yes,,,8/8/2018 12:00:00 AM,8/8/2018 9:51:38 AM,2 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+1-3 Days,411715,"One, Vet",,Yes,,,10/29/2017 12:00:00 AM,10/30/2017 2:39:19 PM,28 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+1-3 Days,411716,"One, Child",,Yes,,,10/29/2017 12:00:00 AM,10/30/2017 2:40:10 PM,28 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+1-3 Days,411806,"Household, 2 Youth",Yes,,11/21/2017 12:00:00 AM,11/22/2017 11:20:37 AM,,,1 Days between Entry Date and Created Date,
+1-3 Days,411808,"Household, Child",Yes,,11/21/2017 12:00:00 AM,11/22/2017 11:20:37 AM,,,1 Days between Entry Date and Created Date,
+1-3 Days,411920,"Child, GoingToExit",,Yes,,,12/6/2017 12:00:00 AM,12/5/2017 12:41:26 PM,0 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+1-3 Days,412953,"Client, Another",,Yes,,,7/15/2018 12:00:00 AM,7/16/2018 11:55:07 AM,15 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+1-3 Days,412991,"Test, CT-5533",Yes,,8/6/2018 12:00:00 AM,8/8/2018 9:51:03 AM,,,2 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+4-6 days,411216,"Workflow, PATH",Yes,,10/27/2017 12:00:00 AM,11/1/2017 11:56:08 AM,,,5 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+4-6 days,411921,"Doublecount, Q26a",Yes,,12/1/2017 12:00:00 AM,12/5/2017 4:08:41 PM,,,4 Days between Entry Date and Created Date,
+4-6 days,411922,"DoubleCount, OthAdult",Yes,,12/1/2017 12:00:00 AM,12/5/2017 4:15:40 PM,,,4 Days between Entry Date and Created Date,
+4-6 days,411926,"CH Status, NULL",Yes,,12/1/2017 12:00:00 AM,12/6/2017 11:03:50 AM,,,5 Days between Entry Date and Created Date,
+7-10 days,411692,"Reporter, PathGuy",Yes,,10/2/2017 12:00:00 AM,10/11/2017 10:16:55 AM,,,9 Days between Entry Date and Created Date,
+7-10 days,411693,"Report, PathGuy1",Yes,,10/3/2017 12:00:00 AM,10/11/2017 1:12:29 PM,,,8 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+7-10 days,411821,"WithChild, Client123",Yes,,11/15/2017 12:00:00 AM,11/22/2017 3:16:00 PM,,,7 Days between Entry Date and Created Date,
+7-10 days,412237,"SSVF EmploymentCheck, New",Yes,,4/3/2018 12:00:00 AM,4/11/2018 10:27:28 AM,,,8 Days between Entry Date and Created Date,
+11+ days,411715,"One, Vet",Yes,,10/2/2017 12:00:00 AM,10/30/2017 2:36:58 PM,,,28 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+11+ days,411716,"One, Child",Yes,,10/2/2017 12:00:00 AM,10/30/2017 2:36:58 PM,,,28 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+11+ days,411717,"Two, Vet",Yes,,10/2/2017 12:00:00 AM,10/30/2017 2:41:23 PM,,,28 Days between Entry Date and Created Date,
+11+ days,411718,"Three, Vet",Yes,,10/3/2017 12:00:00 AM,10/30/2017 2:41:23 PM,,,27 Days between Entry Date and Created Date,
+11+ days,411783,"HoH, 12Yrold",Yes,,11/1/2017 12:00:00 AM,11/15/2017 10:05:15 AM,,,14 Days between Entry Date and Created Date,
+11+ days,411784,"Adult, 24Yrold",Yes,,11/1/2017 12:00:00 AM,11/15/2017 10:05:15 AM,,,14 Days between Entry Date and Created Date,
+11+ days,411822,"WithChild, Child123",Yes,,11/1/2017 12:00:00 AM,11/22/2017 3:14:43 PM,,,21 Days between Entry Date and Created Date,
+11+ days,411848,"EntryAssessment, Doulbe",Yes,,11/1/2017 12:00:00 AM,11/28/2017 11:56:40 AM,,,27 Days between Entry Date and Created Date,
+11+ days,411849,"EntryAssessment, OtherAdult",Yes,,11/1/2017 12:00:00 AM,11/28/2017 11:56:40 AM,,,27 Days between Entry Date and Created Date,
+11+ days,411936,"MissingDC, ES-IND",Yes,,10/1/2017 12:00:00 AM,12/8/2017 10:49:09 AM,,,68 Days between Entry Date and Created Date,
+11+ days,412037,"EnrolledNoExitInt, PATH",Yes,,11/1/2017 12:00:00 AM,12/22/2017 3:40:22 PM,,,51 Days between Entry Date and Created Date,0 Days between Exit Date and Exit Created Date
+11+ days,412126,"SPM 5.1 Test, Household",Yes,,2/1/2018 12:00:00 AM,2/13/2018 9:16:38 AM,,,12 Days between Entry Date and Created Date,
+11+ days,412127,"SPM 5.1 Test, Child",Yes,,2/1/2018 12:00:00 AM,2/13/2018 9:16:38 AM,,,12 Days between Entry Date and Created Date,
+11+ days,412128,"3.917.3 test, PH- Lit Homeless",Yes,,12/1/2017 12:00:00 AM,2/13/2018 11:55:51 AM,,,74 Days between Entry Date and Created Date,
+11+ days,412135,"HH1Adult, PQR",Yes,Yes,2/1/2018 12:00:00 AM,2/16/2018 1:21:17 PM,3/1/2018 12:00:00 AM,2/16/2018 1:22:31 PM,15 Days between Entry Date and Created Date,13 Days between Exit Date and Exit Created Date
+11+ days,412136,"HH1Child, PQR",Yes,Yes,2/1/2018 12:00:00 AM,2/16/2018 1:21:17 PM,3/1/2018 12:00:00 AM,2/16/2018 1:23:52 PM,15 Days between Entry Date and Created Date,13 Days between Exit Date and Exit Created Date
+11+ days,412137,"nbnShelter, PITYouthHouse",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:08:47 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412138,"nbnShelter, PITYouthOtherAdul",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:08:47 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412139,"nbnShelter, PITYouthChild",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:08:47 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412140,"Housetype, PITAandD",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:18:31 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412141,"Housetype, PITAandDChild",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:18:31 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412142,"Housetype, PITAandDchild2",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:18:31 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412143,"AOYouthHoushold, PITTH",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:21:40 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412144,"AOhouse, PITSH",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:23:05 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412145,"Househtype`, PITHoHAO",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:25:51 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412146,"Housetype, PITOtherAdult",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:25:51 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412147,"Houset, PITChildAHO",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:25:51 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412148,"Typeunder18, PITPrntYouth",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:33:42 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412149,"TypeUnder18, PITPrntYouthAdult",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:33:42 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412150,"Under18, PITPrntYoutChild",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:33:42 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412151,"hhtype, PITPrntYouth1825",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:37:31 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412152,"hhtype, PITprntYouthotheradu",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:37:31 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412153,"hhtype, PITprntChild",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:37:31 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412154,"House, PITChiOnly",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:40:46 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412155,"house, PITChionlyother",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:40:46 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412156,"UnknownHouse, PIT",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:43:28 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412157,"UnknownHouse, PITUnkonwn",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:43:28 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412158,"AChouse, PITACwithunkonwn",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:47:28 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412159,"AChouse, PITACUnknownpers",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:47:28 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412160,"AChouse, PITACwunknochild",Yes,,2/1/2018 12:00:00 AM,2/16/2018 2:47:28 PM,,,15 Days between Entry Date and Created Date,
+11+ days,412169,"NotChronic, 2PersoneeHoH",Yes,,1/1/2018 12:00:00 AM,2/21/2018 5:52:25 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412170,"NotChronic, 2PersoneeChild",Yes,,1/1/2018 12:00:00 AM,2/21/2018 5:52:25 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412171,"ChronicEpisodic, 2PersoneeHoH",Yes,,1/1/2018 12:00:00 AM,2/21/2018 5:55:26 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412172,"ChronicEpisodic, 2PersoneeChild",Yes,,1/1/2018 12:00:00 AM,2/21/2018 5:55:26 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412173,"AgeIntoChronic, 1PersEEHoH",Yes,,11/29/2017 12:00:00 AM,2/21/2018 6:14:41 PM,,,84 Days between Entry Date and Created Date,
+11+ days,412174,"AgeIntoEpisodic, 1PersEE",Yes,,12/29/2017 12:00:00 AM,2/21/2018 6:47:19 PM,,,54 Days between Entry Date and Created Date,
+11+ days,412175,"NotChronic, 1PersEE",Yes,,1/2/2018 12:00:00 AM,2/21/2018 6:52:05 PM,,,50 Days between Entry Date and Created Date,
+11+ days,412176,"EntryChronic, 1PersonSH",Yes,,1/1/2018 12:00:00 AM,2/21/2018 6:54:43 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412177,"AgeIntoContinuous, 1PersSH",Yes,,11/29/2017 12:00:00 AM,2/21/2018 6:57:18 PM,,,84 Days between Entry Date and Created Date,
+11+ days,412178,"AgeIntoEpisodic, 1PersSH",Yes,,12/29/2017 12:00:00 AM,2/21/2018 6:59:14 PM,,,54 Days between Entry Date and Created Date,
+11+ days,412179,"MissedAgeInto, 1PersSHHoH",Yes,,12/29/2017 12:00:00 AM,2/21/2018 7:04:26 PM,,,54 Days between Entry Date and Created Date,
+11+ days,412180,"NotChronic, 1PersTH",Yes,,1/1/2018 12:00:00 AM,2/21/2018 7:06:05 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412181,"EpisodeChronic, 2PersNbN",Yes,,1/1/2018 12:00:00 AM,2/21/2018 7:09:50 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412182,"EpisodeChronic, 2PersNbNChild",Yes,,1/1/2018 12:00:00 AM,2/21/2018 7:09:50 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412183,"AgeIntoContinuous, 1PersNbNHoH",Yes,,12/1/2017 12:00:00 AM,2/21/2018 7:16:34 PM,,,82 Days between Entry Date and Created Date,
+11+ days,412184,"DoubleMonthMissAgeInto, 1PersESnbn",Yes,,1/1/2018 12:00:00 AM,2/21/2018 7:24:35 PM,,,51 Days between Entry Date and Created Date,
+11+ days,412185,"TwoSpannedAgedCont, 1PersESNbN",Yes,,11/29/2017 12:00:00 AM,2/21/2018 7:32:27 PM,,,84 Days between Entry Date and Created Date,
+11+ days,412186,"AgeEpisodic1Span, 1PersESNBN",Yes,,12/29/2017 12:00:00 AM,2/21/2018 7:37:07 PM,,,54 Days between Entry Date and Created Date,
+11+ days,412187,"MissedAgeEpisodic, 1PersES NBN",Yes,,1/2/2018 12:00:00 AM,2/21/2018 7:41:42 PM,,,50 Days between Entry Date and Created Date,
+11+ days,412188,"DoubleSpanAgeEpisodic, 1PersonNBN",Yes,,11/29/2017 12:00:00 AM,2/21/2018 7:46:31 PM,,,84 Days between Entry Date and Created Date,
+11+ days,412190,"ActiveClient2, Den",Yes,,1/1/2018 12:00:00 AM,2/23/2018 8:34:16 AM,,,53 Days between Entry Date and Created Date,
+11+ days,412190,"ActiveClient2, Den",Yes,,1/1/2018 12:00:00 AM,2/23/2018 8:34:16 AM,,,53 Days between Entry Date and Created Date,
+11+ days,412191,"ActiveClient2, Denny",Yes,,1/1/2018 12:00:00 AM,2/23/2018 8:34:16 AM,,,53 Days between Entry Date and Created Date,
+11+ days,412194,"BarrierAtExit, DisCond",Yes,Yes,1/1/2018 12:00:00 AM,2/27/2018 2:52:34 PM,2/1/2018 12:00:00 AM,2/27/2018 2:53:23 PM,57 Days between Entry Date and Created Date,26 Days between Exit Date and Exit Created Date
+11+ days,412916,"HoH, Youth",Yes,,4/1/2018 12:00:00 AM,5/3/2018 9:04:59 AM,,,32 Days between Entry Date and Created Date,
+11+ days,412917,"HoH, OtherAdult",Yes,,4/1/2018 12:00:00 AM,5/3/2018 9:16:40 AM,,,32 Days between Entry Date and Created Date,
+11+ days,412948,"IsCh, YouthHoH",Yes,Yes,1/24/2018 12:00:00 AM,7/10/2018 10:31:18 AM,2/19/2018 12:00:00 AM,7/10/2018 10:33:22 AM,167 Days between Entry Date and Created Date,141 Days between Exit Date and Exit Created Date
+11+ days,412949,"OfYouthHoH, Child",Yes,Yes,1/24/2018 12:00:00 AM,7/10/2018 10:31:18 AM,2/19/2018 12:00:00 AM,7/10/2018 10:33:48 AM,167 Days between Entry Date and Created Date,141 Days between Exit Date and Exit Created Date
+11+ days,412953,"Client, Another",Yes,,7/1/2018 12:00:00 AM,7/16/2018 11:53:28 AM,,,15 Days between Entry Date and Created Date,1 Days between Exit Date and Exit Created Date
+11+ days,413023,"Wednesday, Two",Yes,,7/1/2018 12:00:00 AM,9/14/2018 1:27:44 PM,,,75 Days between Entry Date and Created Date,
+11+ days,413028,"Birchworm, John",,Yes,,,6/29/2018 12:00:00 AM,9/28/2018 12:46:12 PM,,91 Days between Exit Date and Exit Created Date
+11+ days,413045,"Case, Multi",Yes,Yes,7/1/2018 12:00:00 AM,10/31/2018 5:07:12 PM,7/3/2018 12:00:00 AM,10/31/2018 5:08:15 PM,122 Days between Entry Date and Created Date,120 Days between Exit Date and Exit Created Date
+11+ days,413046,"multi, Child",Yes,Yes,7/1/2018 12:00:00 AM,10/31/2018 5:07:12 PM,7/3/2018 12:00:00 AM,10/31/2018 5:08:32 PM,122 Days between Entry Date and Created Date,120 Days between Exit Date and Exit Created Date
+11+ days,413052,"TEst, Primary",Yes,,6/1/2018 12:00:00 AM,11/14/2018 12:30:38 PM,,,166 Days between Entry Date and Created Date,

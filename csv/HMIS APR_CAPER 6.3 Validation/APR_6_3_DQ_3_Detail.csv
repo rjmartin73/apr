@@ -1,0 +1,222 @@
+Data Element,clientid,Name,DataIssueReason
+Veteran Status (3.7),408245,"Bell, John",Data Not Collected
+Veteran Status (3.7),409948,"SOARtest, DIfwkgp",Data Not Collected
+Veteran Status (3.7),410010,"ForCollection, UniversalTest",Data Not Collected
+Veteran Status (3.7),410201,"RHYtest, Another",Data Not Collected
+Veteran Status (3.7),410802,"Augustine, Saint",Data Not Collected
+Veteran Status (3.7),411047,"apr5, ch2",Client Doesn't Know
+Veteran Status (3.7),411139,"apr5, c1ad3",Client Doesn't Know
+Veteran Status (3.7),411264,"FYSB, New",Data Not Collected
+Veteran Status (3.7),411280,"Test, PATH",Client Refused
+Veteran Status (3.7),411284,"test1, BCP",Client Doesn't Know
+Veteran Status (3.7),411291,"TEST4, SKR",Client Doesn't Know
+Veteran Status (3.7),411315,"No.2, Student",Client Refused
+Veteran Status (3.7),411321,"HIVADS, SKR",Client Doesn't Know
+Veteran Status (3.7),412045,"Yo, TestParticipant",Missing
+Veteran Status (3.7),412047,"YoYoYo, TestParticipationtwo",Missing
+Veteran Status (3.7),412940,"Doesnt Know, Bad Veteran",Client Doesn't Know
+Veteran Status (3.7),412941,"Refused, Bad Veteran",Client Refused
+Veteran Status (3.7),412942,"DNC, Bad Veteran",Data Not Collected
+Project Start Date (3.10),411807,"Household, OtherAdult",Overlaping Enrollments
+Project Start Date (3.10),411821,"WithChild, Client123",Overlaping Enrollments
+Project Start Date (3.10),412916,"HoH, Youth",Overlaping Enrollments
+Relationship to Head of Household (3.15),410213,"Adult, Child AHAR",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),410846,"CoC, CHchild",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411070,"Deceased, ChildAC91",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411102,"CashStatusNoSourcesYes, ChildOf",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411180,"AnnualCheck, SecondAnother",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411238,"Rooney, Lil' Wayne JR",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411349,"AssessAtExit, OtherAdutl",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411425,"OfYouth, child",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411494,"Tey, Yett",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411807,"Household, OtherAdult",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411819,"Household, OtherChild",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411829,"NoHoH, Child",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411923,"HoH, Multiple",Missing or More than one Head of Household
+Relationship to Head of Household (3.15),411924,"HoH, Second",Missing or More than one Head of Household
+Client Location (3.16),551,"Simpson, Home Boy",Head of Household without Location
+Client Location (3.16),398984,"Cooper, Dale",Head of Household without Location
+Client Location (3.16),409880,"Greeen, Bernice",Head of Household without Location
+Client Location (3.16),409947,"Testso, NewPATH",Head of Household without Location
+Client Location (3.16),409976,"Test, OtherCrisis",Head of Household without Location
+Client Location (3.16),410166,"Crystal, Billy",Head of Household without Location
+Client Location (3.16),410188,"Family, Prevention",Head of Household without Location
+Client Location (3.16),410212,"Adult, AHAR",Head of Household without Location
+Client Location (3.16),410358,"KOLACZYK, JENNIFER",Head of Household without Location
+Client Location (3.16),410687,"hmisCh1, c1",Head of Household without Location
+Client Location (3.16),410696,"Warnings, Test",Head of Household without Location
+Client Location (3.16),410713,"Adult, Mother",Head of Household without Location
+Client Location (3.16),410831,"Halper, Santos R",Head of Household without Location
+Client Location (3.16),410975,"Test, VAMC",Head of Household without Location
+Client Location (3.16),410999,"Macklemore, John",Head of Household without Location
+Client Location (3.16),411000,"The Younger, Seneca",Head of Household without Location
+Client Location (3.16),411099,"FinanceAssessWrongDate, DQincome",Head of Household without Location
+Client Location (3.16),411122,"Bee, Q26",Head of Household without Location
+Client Location (3.16),411135,"Wilson, Steven",Head of Household without Location
+Client Location (3.16),411143,"Test1, SKR",Head of Household without Location
+Client Location (3.16),411145,"Source Test, Short leaver",Head of Household without Location
+Client Location (3.16),411150,"Q27 TEST, SKR",Head of Household without Location
+Client Location (3.16),411167,"path17, c3",Head of Household without Location
+Client Location (3.16),411188,"Return Test, Double Implied",Head of Household without Location
+Client Location (3.16),411202,"ESGclient, Closed",Head of Household without Location
+Client Location (3.16),411222,"Test, PC",Head of Household without Location
+Client Location (3.16),411234,"Hunter, Head",Head of Household without Location
+Client Location (3.16),411245,"ewqwqe, aedwe",Head of Household without Location
+Client Location (3.16),411248,"test1, Test1",Head of Household without Location
+Client Location (3.16),411251,"Rhy3, test",Head of Household without Location
+Client Location (3.16),411252,"rhy17, c1",Head of Household without Location
+Client Location (3.16),411254,"Gat, Tag",Head of Household without Location
+Client Location (3.16),411255,"po, panda",Head of Household without Location
+Client Location (3.16),411256,"Dan, Jack",Head of Household without Location
+Client Location (3.16),411257,"bcp, test",Head of Household without Location
+Client Location (3.16),411260,"Williamson, Stacy",Head of Household without Location
+Client Location (3.16),411262,"Test, Mark",Head of Household without Location
+Client Location (3.16),411264,"FYSB, New",Head of Household without Location
+Client Location (3.16),411269,"Boy, Game",Head of Household without Location
+Client Location (3.16),411270,"Test, Gray",Head of Household without Location
+Client Location (3.16),411277,"THtest, Child",Head of Household without Location
+Client Location (3.16),411279,"TEST22, BCP",Head of Household without Location
+Client Location (3.16),411283,"Testing3, BCP",Head of Household without Location
+Client Location (3.16),411284,"test1, BCP",Head of Household without Location
+Client Location (3.16),411286,"test, Safe&E",Head of Household without Location
+Client Location (3.16),411287,"Jackson, Julia",Head of Household without Location
+Client Location (3.16),411288,"TEST3, SKR",Head of Household without Location
+Client Location (3.16),411291,"TEST4, SKR",Head of Household without Location
+Client Location (3.16),411295,"ANNUAL, SKR",Head of Household without Location
+Client Location (3.16),411297,"Test, GPD TIP",Head of Household without Location
+Client Location (3.16),411305,"Etten, Matt",Head of Household without Location
+Client Location (3.16),411306,"Something, Wendy",Head of Household without Location
+Client Location (3.16),411311,"RHY, StudentAdult2",Head of Household without Location
+Client Location (3.16),411315,"No.2, Student",Head of Household without Location
+Client Location (3.16),411318,"SOARtest, PATH",Head of Household without Location
+Client Location (3.16),411320,"Test, MoveIn",Head of Household without Location
+Client Location (3.16),411322,"AssessmentTest, PATH",Head of Household without Location
+Client Location (3.16),411340,"123, tester",Head of Household without Location
+Client Location (3.16),411341,"123, TEstone",Head of Household without Location
+Client Location (3.16),411345,"EdReq, Adult",Head of Household without Location
+Client Location (3.16),411382,"Test, MultiFund",Head of Household without Location
+Client Location (3.16),411493,"Tey, Yet",Head of Household without Location
+Client Location (3.16),411548,"Man, Test",Head of Household without Location
+Client Location (3.16),411583,"Test, FintestClient",Head of Household without Location
+Client Location (3.16),411749,"Client, New",Head of Household without Location
+Client Location (3.16),411750,"ES, RTest",Head of Household without Location
+Client Location (3.16),411757,"EntryMaster, AdjustedProgram",Head of Household without Location
+Client Location (3.16),411912,"PermAdd, RRH",Head of Household without Location
+Client Location (3.16),411924,"HoH, Second",Head of Household without Location
+Client Location (3.16),411926,"CH Status, NULL",Head of Household without Location
+Client Location (3.16),412045,"Yo, TestParticipant",Head of Household without Location
+Client Location (3.16),412046,"YoYo, TestParticipantone",Head of Household without Location
+Client Location (3.16),412047,"YoYoYo, TestParticipationtwo",Head of Household without Location
+Client Location (3.16),412987,"Frost, John",Head of Household without Location
+Client Location (3.16),412991,"Test, CT-5533",Head of Household without Location
+Disabling Condition (3.8),551,"Simpson, Home Boy",Missing
+Disabling Condition (3.8),809,"Bill, Gill",Missing
+Disabling Condition (3.8),398984,"Cooper, Dale",Missing
+Disabling Condition (3.8),409880,"Greeen, Bernice",Missing
+Disabling Condition (3.8),409963,"QA12, HMIS-Son",Missing
+Disabling Condition (3.8),409976,"Test, OtherCrisis",Missing
+Disabling Condition (3.8),410025,"TestVet, OtherAdult",Missing
+Disabling Condition (3.8),410166,"Crystal, Billy",Missing
+Disabling Condition (3.8),410188,"Family, Prevention",Missing
+Disabling Condition (3.8),410212,"Adult, AHAR",Missing
+Disabling Condition (3.8),410213,"Adult, Child AHAR",Missing
+Disabling Condition (3.8),410358,"KOLACZYK, JENNIFER",Missing
+Disabling Condition (3.8),410687,"hmisCh1, c1",Missing
+Disabling Condition (3.8),410696,"Warnings, Test",Missing
+Disabling Condition (3.8),410713,"Adult, Mother",Missing
+Disabling Condition (3.8),410714,"Adult, Father",Missing
+Disabling Condition (3.8),410802,"Augustine, Saint",Missing
+Disabling Condition (3.8),410831,"Halper, Santos R",Missing
+Disabling Condition (3.8),410975,"Test, VAMC",Missing
+Disabling Condition (3.8),410999,"Macklemore, John",Missing
+Disabling Condition (3.8),411000,"The Younger, Seneca",Missing
+Disabling Condition (3.8),411002,"apr5, ch1",Missing
+Disabling Condition (3.8),411045,"SSVF-RRH, Fam-Child",Missing
+Disabling Condition (3.8),411047,"apr5, ch2",Missing
+Disabling Condition (3.8),411070,"Deceased, ChildAC91",Missing
+Disabling Condition (3.8),411102,"CashStatusNoSourcesYes, ChildOf",Data Not Collected
+Disabling Condition (3.8),411103,"apr5, ad1",Missing
+Disabling Condition (3.8),411109,"famadd, test",Missing
+Disabling Condition (3.8),411118,"apr5, uk1",Missing
+Disabling Condition (3.8),411122,"Bee, Q26",Missing
+Disabling Condition (3.8),411123,"Bee, Q26 Jr",Missing
+Disabling Condition (3.8),411135,"Wilson, Steven",Missing
+Disabling Condition (3.8),411139,"apr5, c1ad3",Missing
+Disabling Condition (3.8),411143,"Test1, SKR",Missing
+Disabling Condition (3.8),411145,"Source Test, Short leaver",Missing
+Disabling Condition (3.8),411150,"Q27 TEST, SKR",Missing
+Disabling Condition (3.8),411167,"path17, c3",Missing
+Disabling Condition (3.8),411202,"ESGclient, Closed",Missing
+Disabling Condition (3.8),411222,"Test, PC",Missing
+Disabling Condition (3.8),411223,"PC, PC",Missing
+Disabling Condition (3.8),411234,"Hunter, Head",Missing
+Disabling Condition (3.8),411238,"Rooney, Lil' Wayne JR",Missing
+Disabling Condition (3.8),411241,"test1, new",Missing
+Disabling Condition (3.8),411245,"ewqwqe, aedwe",Missing
+Disabling Condition (3.8),411248,"test1, Test1",Missing
+Disabling Condition (3.8),411251,"Rhy3, test",Client Doesn't Know
+Disabling Condition (3.8),411252,"rhy17, c1",Missing
+Disabling Condition (3.8),411254,"Gat, Tag",Missing
+Disabling Condition (3.8),411255,"po, panda",Missing
+Disabling Condition (3.8),411256,"Dan, Jack",Missing
+Disabling Condition (3.8),411257,"bcp, test",Missing
+Disabling Condition (3.8),411260,"Williamson, Stacy",Missing
+Disabling Condition (3.8),411262,"Test, Mark",Missing
+Disabling Condition (3.8),411264,"FYSB, New",Missing
+Disabling Condition (3.8),411269,"Boy, Game",Missing
+Disabling Condition (3.8),411270,"Test, Gray",Missing
+Disabling Condition (3.8),411277,"THtest, Child",Missing
+Disabling Condition (3.8),411279,"TEST22, BCP",Missing
+Disabling Condition (3.8),411283,"Testing3, BCP",Missing
+Disabling Condition (3.8),411284,"test1, BCP",Missing
+Disabling Condition (3.8),411286,"test, Safe&E",Missing
+Disabling Condition (3.8),411287,"Jackson, Julia",Missing
+Disabling Condition (3.8),411288,"TEST3, SKR",Missing
+Disabling Condition (3.8),411291,"TEST4, SKR",Missing
+Disabling Condition (3.8),411295,"ANNUAL, SKR",Missing
+Disabling Condition (3.8),411297,"Test, GPD TIP",Missing
+Disabling Condition (3.8),411305,"Etten, Matt",Missing
+Disabling Condition (3.8),411311,"RHY, StudentAdult2",Missing
+Disabling Condition (3.8),411315,"No.2, Student",Missing
+Disabling Condition (3.8),411318,"SOARtest, PATH",Missing
+Disabling Condition (3.8),411320,"Test, MoveIn",Missing
+Disabling Condition (3.8),411322,"AssessmentTest, PATH",Missing
+Disabling Condition (3.8),411340,"123, tester",Missing
+Disabling Condition (3.8),411341,"123, TEstone",Missing
+Disabling Condition (3.8),411345,"EdReq, Adult",Missing
+Disabling Condition (3.8),411353,"Jim, Sonny",Missing
+Disabling Condition (3.8),411354,"Cooper, Jane",Missing
+Disabling Condition (3.8),411379,"Test, OtherAdult",Missing
+Disabling Condition (3.8),411382,"Test, MultiFund",Missing
+Disabling Condition (3.8),411383,"OtherAdult, MultiFund",Missing
+Disabling Condition (3.8),411385,"Test, Child",Missing
+Disabling Condition (3.8),411393,"robin, red",No Disabling Conditon but Chronic Condition
+Disabling Condition (3.8),411394,"calc, ion",Client Doesn't Know
+Disabling Condition (3.8),411396,"yop, poy",Data Not Collected
+Disabling Condition (3.8),411418,"reay, Year",No Disabling Conditon but Chronic Condition
+Disabling Condition (3.8),411492,"Ffej, Geff",Missing
+Disabling Condition (3.8),411493,"Tey, Yet",Missing
+Disabling Condition (3.8),411494,"Tey, Yett",Client Refused
+Disabling Condition (3.8),411548,"Man, Test",Missing
+Disabling Condition (3.8),411583,"Test, FintestClient",Missing
+Disabling Condition (3.8),411749,"Client, New",Missing
+Disabling Condition (3.8),411750,"ES, RTest",Missing
+Disabling Condition (3.8),411759,"CopyFamily, OtherAdult",Missing
+Disabling Condition (3.8),411765,"Member, AddedInFam",Missing
+Disabling Condition (3.8),411772,"Youth, Child",Missing
+Disabling Condition (3.8),411773,"Youth, ChildElder",Missing
+Disabling Condition (3.8),411819,"Household, OtherChild",Missing
+Disabling Condition (3.8),411912,"PermAdd, RRH",Missing
+Disabling Condition (3.8),411914,"RRH, SSVFAdult1",Missing
+Disabling Condition (3.8),411926,"CH Status, NULL",Missing
+Disabling Condition (3.8),411927,"CH Status, DK/R",Client Doesn't Know
+Disabling Condition (3.8),412045,"Yo, TestParticipant",Missing
+Disabling Condition (3.8),412046,"YoYo, TestParticipantone",Missing
+Disabling Condition (3.8),412047,"YoYoYo, TestParticipationtwo",Missing
+Disabling Condition (3.8),412159,"AChouse, PITACUnknownpers",Missing
+Disabling Condition (3.8),412160,"AChouse, PITACwunknochild",Missing
+Disabling Condition (3.8),412940,"Doesnt Know, Bad Veteran",Client Doesn't Know
+Disabling Condition (3.8),412941,"Refused, Bad Veteran",Client Refused
+Disabling Condition (3.8),412942,"DNC, Bad Veteran",Data Not Collected
+Disabling Condition (3.8),412987,"Frost, John",Missing
+Disabling Condition (3.8),412991,"Test, CT-5533",Missing

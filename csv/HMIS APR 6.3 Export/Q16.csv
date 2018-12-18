@@ -1,0 +1,14 @@
+Cash Income - Ranges,Income at Start,Income at Latest Annual Assessment for Stayers,Income at Exit for Leavers
+No Income,204,4,7
+$1 - $150,9,7,0
+$151 - $250,1,0,0
+$251 - $500,9,1,0
+"$501 - $1,000",4,1,0
+"$1,001 - $1,500",1,0,0
+"$1,501 - $2,000",2,0,0
+"$2,001+",2,0,0
+Client Doesn't Know/Client Refused,16,1,1
+Data Not Collected,203,3,19
+Number of adult stayers not yet required to have an annual assessment,,106,
+Number of adult stayers without required annual assessment,,301,
+Total Adults,451,424,27

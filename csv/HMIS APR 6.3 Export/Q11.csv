@@ -1,0 +1,13 @@
+Age,Total,Without Children,With Children and Adults,With Only Children,Unknown Household Type
+Under 5,37,,26,11,0
+5-12,47,,26,20,1
+13-17,36,,5,31,0
+18-24,87,60,27,,0
+25-34,160,137,21,,2
+35-44,147,127,19,,1
+45-54,31,28,3,,0
+55-61,11,11,0,,0
+62+,15,14,1,,0
+Client Doesn't Know/Client Refused,12,0,2,0,10
+Data Not Collected,4,0,1,0,3
+Total,587,377,131,62,17

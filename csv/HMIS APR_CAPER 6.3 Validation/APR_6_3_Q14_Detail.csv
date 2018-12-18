@@ -1,0 +1,516 @@
+ClientID,HouseholdType,CollectionStage,Name,EnrollID,Entry Date,AssessmentID,AssessmentDate,DomesticViolenceVictim,CurrentlyFleeing
+551,Without Children,,"Simpson, Home Boy",99485,4/12/2017 12:00:00 AM,,,Data Not Collected,N/A
+809,With Children and Adults,At Start,"Bill, Gill",99841,7/26/2017 12:00:00 AM,22912,7/26/2017 12:00:00 AM,Data Not Collected,N/A
+2188,Without Children,,"Housing, ClientOne",99907,8/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+398984,With Children and Adults,,"Cooper, Dale",100242,8/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+405948,Without Children,At Start,"RHY, BCP-es",93429,8/22/2016 12:00:00 AM,16677,8/22/2016 12:00:00 AM,No,N/A
+408245,Without Children,,"Bell, John",99825,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+409861,With Children and Adults,Annual,"Hill, Hank",98397,1/1/2016 12:00:00 AM,22222,2/24/2017 12:00:00 AM,No,N/A
+409862,With Children and Adults,Annual,"Hill, Peggy",98398,1/1/2016 12:00:00 AM,22223,2/24/2017 12:00:00 AM,No,N/A
+409863,With Only Children,,"Hill, Bobby",98399,1/7/2016 12:00:00 AM,,,Data Not Collected,N/A
+409880,Without Children,,"Greeen, Bernice",98814,11/28/2016 12:00:00 AM,,,Data Not Collected,N/A
+409882,Without Children,Annual,"Hammer, Mike",93384,8/2/2016 12:00:00 AM,16627,8/18/2016 12:00:00 AM,No,N/A
+409883,With Children and Adults,,"Humphrey, Dalton",93385,8/2/2016 12:00:00 AM,,,Data Not Collected,N/A
+409885,Without Children,,"Greg, Old",93389,8/18/2016 12:00:00 AM,,,Data Not Collected,N/A
+409888,Without Children,,"HMIS Street Outreach, NewPATHSo",93393,8/15/2016 12:00:00 AM,,,Data Not Collected,N/A
+409893,With Only Children,,"Test, BCP-P",93399,8/19/2016 12:00:00 AM,,,Data Not Collected,N/A
+409896,Without Children,At Start,"Test, ESworkgroup",93404,8/19/2016 12:00:00 AM,16647,8/19/2016 12:00:00 AM,No,N/A
+409899,Without Children,During Program Enrollment,"Test2, EE",93408,8/1/2016 12:00:00 AM,16655,8/10/2016 12:00:00 AM,No,N/A
+409910,Without Children,At Start,"Test, NewPATH",93432,8/22/2016 12:00:00 AM,16679,8/22/2016 12:00:00 AM,No,N/A
+409915,Without Children,,"Test, SecondPath",93440,8/22/2016 12:00:00 AM,,,Data Not Collected,N/A
+409916,Without Children,At Start,"test, VAhudvash",93444,8/22/2016 12:00:00 AM,16695,8/22/2016 12:00:00 AM,No,N/A
+409922,Without Children,,"Date, Adult",99882,10/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+409923,With Children and Adults,At Start,"Date, OtherAdult",93461,8/23/2016 12:00:00 AM,16717,8/23/2016 12:00:00 AM,No,N/A
+409930,Without Children,Annual,"Test, NewCoC",93488,8/24/2016 12:00:00 AM,16815,8/25/2016 12:00:00 AM,No,N/A
+409931,Without Children,At Start,"Test, NewHOPWA",93489,8/24/2016 12:00:00 AM,16742,8/24/2016 12:00:00 AM,No,N/A
+409933,Unknown Household Type,Annual,"RRHtest, NewCoC",93492,1/1/2016 12:00:00 AM,16749,7/6/2016 12:00:00 AM,No,N/A
+409937,Without Children,,"Test, HPdate",93500,8/10/2016 12:00:00 AM,,,Data Not Collected,N/A
+409939,Without Children,At Start,"Test, ESwkgp",93507,8/25/2016 12:00:00 AM,16770,8/25/2016 12:00:00 AM,No,N/A
+409947,Without Children,,"Testso, NewPATH",93515,8/25/2016 12:00:00 AM,,,Data Not Collected,N/A
+409948,Without Children,,"SOARtest, DIfwkgp",93517,8/25/2016 12:00:00 AM,,,Data Not Collected,N/A
+409951,With Children and Adults,,"Pointvalue, SSVFhpTest",93520,6/2/2016 12:00:00 AM,,,Data Not Collected,N/A
+409952,With Children and Adults,,"Pointvalue, Spouse",93521,6/2/2016 12:00:00 AM,,,Data Not Collected,N/A
+409953,With Only Children,,"Pointvalue, Child",93539,8/17/2016 12:00:00 AM,,,Data Not Collected,N/A
+409957,Without Children,,"AMItest, SSVF",93530,8/3/2016 12:00:00 AM,,,Data Not Collected,N/A
+409961,With Only Children,,"QA11, HMIS-Youth",93536,8/25/2016 12:00:00 AM,,,Data Not Collected,N/A
+409962,With Children and Adults,During Program Enrollment,"QA12, HMIS-Dad",93537,8/25/2016 12:00:00 AM,16819,8/25/2016 12:00:00 AM,No,N/A
+409965,Without Children,,"Test, NewDay",93552,8/26/2016 12:00:00 AM,,,Data Not Collected,N/A
+409967,Without Children,At Start,"Test, NewESShelter",93559,8/26/2016 12:00:00 AM,16840,8/26/2016 12:00:00 AM,No,N/A
+409968,Without Children,At Start,"Test, NewCoCPSH",93562,6/7/2016 12:00:00 AM,16843,6/7/2016 12:00:00 AM,No,N/A
+409972,Without Children,At Start,"test, NewSTRMU",93567,7/13/2016 12:00:00 AM,16852,7/13/2016 12:00:00 AM,No,N/A
+409973,With Children and Adults,,"Test, Crisis",93656,8/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+409974,With Children and Adults,,"Test, SpouseCrisis",93657,8/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+409976,Without Children,,"Test, OtherCrisis",93654,8/22/2016 12:00:00 AM,,,Data Not Collected,N/A
+409978,Without Children,,"Test, AssessDate",93580,7/4/2016 12:00:00 AM,,,Data Not Collected,N/A
+409979,With Children and Adults,,"Test, NewVetAssess",93585,8/3/2016 12:00:00 AM,,,Data Not Collected,N/A
+409980,With Only Children,,"Test, ChildAssess",93586,5/4/2016 12:00:00 AM,,,Data Not Collected,N/A
+409982,With Only Children,,"MGtest, NewRHY",93590,8/26/2016 12:00:00 AM,,,Data Not Collected,N/A
+409983,Without Children,,"ConsistTest, Workflow",93595,8/26/2016 12:00:00 AM,,,Data Not Collected,N/A
+409984,Without Children,,"Test, NewCrisis",93602,8/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+409985,With Children and Adults,,"Spouse, NonVet",93598,3/2/2016 12:00:00 AM,,,Data Not Collected,N/A
+409986,Without Children,,"Test, VetAdult",93637,8/29/2016 12:00:00 AM,,,Data Not Collected,N/A
+409988,Without Children,,"Test, AdultEd",93608,8/26/2016 12:00:00 AM,,,Data Not Collected,N/A
+409989,Without Children,At Start,"Test, NoSOAR",93636,8/29/2016 12:00:00 AM,16949,8/29/2016 12:00:00 AM,No,N/A
+409990,Without Children,At Start,"Test, EdCheck",93617,8/11/2016 12:00:00 AM,16921,8/11/2016 12:00:00 AM,No,N/A
+409996,Without Children,At Start,"Test, NextHP",93631,8/29/2016 12:00:00 AM,16945,8/29/2016 12:00:00 AM,No,N/A
+409998,With Only Children,,"QA13, HMIS-Youth",93630,8/29/2016 12:00:00 AM,,,Data Not Collected,N/A
+409999,With Only Children,At Start,"EdTest, NewChildAssess",93634,8/18/2016 12:00:00 AM,16946,8/18/2016 12:00:00 AM,No,N/A
+410000,Without Children,,"TestNew, PATHsso",93635,8/29/2016 12:00:00 AM,,,Data Not Collected,N/A
+410005,With Only Children,,"Test, FinalChildPATH",93645,7/7/2016 12:00:00 AM,,,Data Not Collected,N/A
+410006,Without Children,At Start,"PATH, FinalAdult",93650,8/29/2016 12:00:00 AM,16975,8/29/2016 12:00:00 AM,No,N/A
+410007,Without Children,At Start,"Test, LastVASH",93648,8/29/2016 12:00:00 AM,16971,8/29/2016 12:00:00 AM,No,N/A
+410008,Without Children,,"Test, NextVash",93651,8/29/2016 12:00:00 AM,,,Data Not Collected,N/A
+410009,Without Children,At Start,"Test, HUDVASHnew",93653,8/29/2016 12:00:00 AM,16982,8/29/2016 12:00:00 AM,No,N/A
+410010,With Children and Adults,At Start,"ForCollection, UniversalTest",93655,8/2/2016 12:00:00 AM,22284,8/2/2016 12:00:00 AM,No,N/A
+410012,With Only Children,,"Little, Eugene",93681,8/30/2016 12:00:00 AM,,,Data Not Collected,N/A
+410014,Without Children,,"Test, NewSSVF",93678,8/22/2016 12:00:00 AM,,,Data Not Collected,N/A
+410015,Without Children,,"Test, SpouseSSVF asd",93679,8/22/2016 12:00:00 AM,,,Data Not Collected,N/A
+410020,Without Children,,"TestVet, Third",100031,8/16/2017 12:00:00 AM,,,Data Not Collected,N/A
+410025,Without Children,,"TestVet, OtherAdult",100033,8/16/2017 12:00:00 AM,,,Data Not Collected,N/A
+410164,With Only Children,,"RHYtest, SecondChild",98215,9/13/2016 12:00:00 AM,,,Data Not Collected,N/A
+410165,Without Children,,"Hulka, Sgt",98218,9/14/2016 12:00:00 AM,,,Data Not Collected,N/A
+410166,Without Children,,"Crystal, Billy",98267,9/20/2016 12:00:00 AM,,,Data Not Collected,N/A
+410167,With Only Children,,"Crystal, Child",98255,9/19/2015 12:00:00 AM,,,Data Not Collected,N/A
+410170,With Only Children,,"Test, AnotherRHy",98237,9/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+410174,With Only Children,At Start,"THtest, MultiFund",100178,8/23/2017 12:00:00 AM,23300,8/23/2017 12:00:00 AM,No,N/A
+410182,With Children and Adults,At Start,"Test, Family",98328,9/14/2016 12:00:00 AM,21800,9/14/2016 12:00:00 AM,No,N/A
+410186,With Only Children,,"Test, Annual",98340,9/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+410188,Without Children,,"Family, Prevention",99912,8/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+410189,With Only Children,,"Family, Child",99233,3/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+410192,Unknown Household Type,,"Check, Address",98366,10/10/2016 12:00:00 AM,,,Data Not Collected,N/A
+410201,Without Children,,"RHYtest, Another",98390,10/28/2016 12:00:00 AM,,,Data Not Collected,N/A
+410204,Without Children,At Start,"Testing, Hopwa",98391,10/28/2016 12:00:00 AM,21842,10/28/2016 12:00:00 AM,Yes,Yes
+410212,Without Children,,"Adult, AHAR",99096,12/6/2016 12:00:00 AM,,,Data Not Collected,N/A
+410358,Without Children,,"KOLACZYK, JENNIFER",99111,12/21/2016 12:00:00 AM,,,Data Not Collected,N/A
+410687,Without Children,,"hmisCh1, c1",100060,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+410692,Unknown Household Type,At Start,"Test, DQ-SL",99104,12/13/2016 12:00:00 AM,22034,12/13/2016 12:00:00 AM,No,N/A
+410696,Without Children,,"Warnings, Test",99109,12/19/2016 12:00:00 AM,,,Data Not Collected,N/A
+410713,Without Children,,"Adult, Mother",99122,12/26/2016 12:00:00 AM,,,Data Not Collected,N/A
+410714,Without Children,,"Adult, Father",99123,12/26/2016 12:00:00 AM,,,Data Not Collected,N/A
+410741,Without Children,At Start,"Arnez, Desi",99159,11/15/2016 12:00:00 AM,22121,1/13/2017 12:00:00 AM,No,N/A
+410780,Without Children,,"EmergShelt, AdultTwo",99225,2/19/2017 12:00:00 AM,,,Data Not Collected,N/A
+410802,Without Children,,"Augustine, Saint",99569,3/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+410821,Without Children,,"Selected, AllRaces",99380,4/7/2017 12:00:00 AM,,,Data Not Collected,N/A
+410828,Without Children,,"apr5, c1",100153,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+410831,Without Children,,"Halper, Santos R",99461,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+410851,With Children and Adults,At Start,"apr5, c2",100094,8/19/2017 12:00:00 AM,23227,8/19/2017 12:00:00 AM,No,N/A
+410856,With Only Children,At Start,"Diddy, Bo",99280,4/3/2017 12:00:00 AM,22296,4/3/2017 12:00:00 AM,Yes,Yes
+410953,Unknown Household Type,At Start,"Donkulus, Re",99383,4/7/2017 12:00:00 AM,22379,4/7/2017 12:00:00 AM,No,N/A
+410975,Without Children,,"Test, VAMC",99408,4/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+410997,Without Children,,"PSH, AdultOnly91",99432,4/10/2017 12:00:00 AM,,,Data Not Collected,N/A
+410998,Without Children,,"VAMC, SSVF",99435,4/10/2017 12:00:00 AM,,,Data Not Collected,N/A
+410999,Without Children,,"Macklemore, John",99434,4/10/2017 12:00:00 AM,,,Data Not Collected,N/A
+411000,Without Children,,"The Younger, Seneca",99437,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411001,Without Children,,"apr5, c3",99828,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+411002,Without Children,,"apr5, ch1",99829,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+411004,Without Children,,"VAMCtest, Another",99441,4/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411024,Without Children,,"Test1, VAMC",99462,4/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411025,Without Children,,"Test2, VAMC",99463,4/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411026,Without Children,,"Test3, VAMC",99464,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411027,Without Children,,"Test3, OtherAdult",99465,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411028,With Children and Adults,,"Test4, VAMC",99466,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411029,With Children and Adults,,"Test4, OtherAdult",99467,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411031,With Children and Adults,,"Test5, VAMC",99469,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411032,With Children and Adults,,"Test5, OtherAdult",99470,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411034,With Children and Adults,,"Test6, VAMC",99472,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411035,With Children and Adults,,"Test6, OtherAdult",99473,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411037,With Children and Adults,At Start,"VAMCTest1, VASH",99475,4/11/2017 12:00:00 AM,22433,4/11/2017 12:00:00 AM,No,N/A
+411038,With Children and Adults,At Start,"VAMCTest1, OtherAdult",99476,4/11/2017 12:00:00 AM,22434,4/11/2017 12:00:00 AM,No,N/A
+411040,With Children and Adults,,"SSVF-HP, Fam-HoH",99478,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411041,With Children and Adults,,"SSVF-HP, Fam-OtherAdult",99479,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411043,With Children and Adults,,"SSVF-RRH, Fam-HoH",99481,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411044,With Children and Adults,,"SSVF-RRH, Fam-OtherAdult",99482,4/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411047,Without Children,,"apr5, ch2",99830,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+411098,Without Children,At Start,"MissingEntryAssess, DQincome",99550,4/2/2016 12:00:00 AM,22493,3/1/2016 12:00:00 AM,No,N/A
+411099,Without Children,Annual,"FinanceAssessWrongDate, DQincome",99551,3/1/2016 12:00:00 AM,22502,2/1/2017 12:00:00 AM,No,N/A
+411101,Without Children,At Start,"CashStatusNoSourcesYes, DQincome",99555,11/1/2016 12:00:00 AM,22499,11/1/2016 12:00:00 AM,No,N/A
+411103,Without Children,,"apr5, ad1",99831,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+411107,Without Children,At Start,"DQ ES nbnb, AdultAC",100557,9/1/2017 12:00:00 AM,23884,9/1/2017 12:00:00 AM,No,N/A
+411109,Without Children,,"famadd, test",99568,3/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+411111,With Only Children,,"PHOnly, ChildOnly",100096,8/19/2017 12:00:00 AM,,,Data Not Collected,N/A
+411113,Without Children,,"Walton, Matt",100092,8/19/2017 12:00:00 AM,,,Data Not Collected,N/A
+411118,Without Children,,"apr5, uk1",99832,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+411122,Without Children,,"Bee, Q26",100110,8/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411123,Without Children,,"Bee, Q26 Jr",100111,8/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411135,Without Children,,"Wilson, Steven",100112,8/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411139,Without Children,,"apr5, c1ad3",100154,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411142,Without Children,At Start,"MultiIncome, TH",100091,8/19/2017 12:00:00 AM,23224,8/19/2017 12:00:00 AM,No,N/A
+411143,Unknown Household Type,,"Test1, SKR",100072,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+411144,Without Children,Annual,"Test, Source",99609,1/1/2016 12:00:00 AM,22581,12/21/2016 12:00:00 AM,No,N/A
+411145,Without Children,,"Source Test, Short leaver",100107,8/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411146,Without Children,Annual,"Test APR, Early Source",99613,1/2/2015 12:00:00 AM,22586,1/2/2016 12:00:00 AM,No,N/A
+411147,Without Children,Annual,"APR Test, New Source",99616,1/2/2015 12:00:00 AM,22590,1/2/2016 12:00:00 AM,No,N/A
+411150,Without Children,,"Q27 TEST, SKR",100146,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411165,Without Children,,"Test, Test",100362,9/12/2017 12:00:00 AM,,,Data Not Collected,N/A
+411167,With Only Children,,"path17, c3",100172,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411169,Without Children,At Start,"Measure 4 Test, SPM take 2",99673,7/1/2016 12:00:00 AM,22677,7/1/2016 12:00:00 AM,No,N/A
+411170,Without Children,Annual,"Skipped Annual, SPM Test",99669,1/7/2011 12:00:00 AM,22667,1/1/2016 12:00:00 AM,No,N/A
+411174,Without Children,,"Test, SPM Return",99710,2/17/2016 12:00:00 AM,,,Data Not Collected,N/A
+411177,Without Children,At Start,"Check, FirstAnnual",100117,8/21/2017 12:00:00 AM,23246,8/21/2017 12:00:00 AM,No,N/A
+411178,Without Children,Annual,"Check, SecondAnnual",99695,1/1/2016 12:00:00 AM,22719,1/1/2017 12:00:00 AM,No,N/A
+411179,Without Children,At Start,"AnnualCheck, Another",100907,6/1/2017 12:00:00 AM,24424,6/1/2017 12:00:00 AM,No,N/A
+411180,Without Children,Annual,"AnnualCheck, SecondAnother",99697,1/1/2015 12:00:00 AM,22723,1/1/2017 12:00:00 AM,No,N/A
+411181,Without Children,Annual,"AnnualCheck, Third",99698,1/1/2016 12:00:00 AM,22726,1/1/2017 12:00:00 AM,No,N/A
+411188,Without Children,,"Return Test, Double Implied",99713,10/1/2015 12:00:00 AM,,,Data Not Collected,N/A
+411189,Without Children,,"Test, Double Return",99716,10/1/2015 12:00:00 AM,,,Data Not Collected,N/A
+411198,With Children and Adults,At Start,"ParYouthMultiChild, Test3",99729,8/5/2017 12:00:00 AM,22761,8/5/2017 12:00:00 AM,No,N/A
+411202,Without Children,,"ESGclient, Closed",100152,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411204,With Children and Adults,At Start,"Youth, Under18Parent",99739,6/15/2017 12:00:00 AM,22781,6/15/2017 12:00:00 AM,No,N/A
+411205,With Children and Adults,,"Youth, OtherYouth",99740,6/15/2017 12:00:00 AM,,,Data Not Collected,N/A
+411207,Without Children,,"Parker, Jamie",100181,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411208,Without Children,,"ServiceAndReferral, PATH",99743,6/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411211,Without Children,,"ChangedProjectType, UDAcheck",100197,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411214,Without Children,At Start,"voca3, c1",100179,8/23/2017 12:00:00 AM,23301,8/23/2017 12:00:00 AM,No,N/A
+411216,Without Children,,"Workflow, PATH",100816,10/27/2017 12:00:00 AM,,,Data Not Collected,N/A
+411222,With Children and Adults,Annual,"Test, PC",99814,7/21/2017 12:00:00 AM,22917,7/21/2017 12:00:00 AM,No,N/A
+411223,With Children and Adults,,"PC, PC",99815,7/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411224,With Only Children,,"test pc, PC",99760,7/7/2017 12:00:00 AM,,,Data Not Collected,N/A
+411225,Without Children,,"pc test, pc",99761,7/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411226,Unknown Household Type,,"test, test",99764,7/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411228,Unknown Household Type,,"test3, PC",99766,7/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411229,Unknown Household Type,,"test5, pc",99768,7/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411230,Without Children,,"Test, RHY",100277,8/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411231,Without Children,,"Rooney, Wayne",100008,8/15/2017 12:00:00 AM,,,Data Not Collected,N/A
+411232,Without Children,,"Test, Vete",100028,8/16/2017 12:00:00 AM,,,Data Not Collected,N/A
+411234,Without Children,,"Hunter, Head",100182,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411238,Without Children,,"Rooney, Lil' Wayne JR",100133,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411239,Without Children,,"test, sharing addnew",100259,8/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411240,Without Children,At Start,"DEF, ABC",100149,8/22/2017 12:00:00 AM,23275,8/22/2017 12:00:00 AM,No,N/A
+411241,With Children and Adults,,"test1, new",99816,7/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411245,With Only Children,At Start,"ewqwqe, aedwe",99802,7/21/2017 12:00:00 AM,22865,7/17/2017 12:00:00 AM,No,N/A
+411246,With Only Children,,"test1, test1",100180,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411247,Without Children,,"wqewqe, sdewqd",99807,7/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411248,With Children and Adults,At Start,"test1, Test1",99822,7/25/2017 12:00:00 AM,22891,7/25/2017 12:00:00 AM,No,N/A
+411250,Without Children,,"RHY2, test",99819,7/24/2017 12:00:00 AM,,,Data Not Collected,N/A
+411251,Without Children,,"Rhy3, test",99820,7/24/2017 12:00:00 AM,,,Data Not Collected,N/A
+411252,Without Children,,"rhy17, c1",100136,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411253,Without Children,,"test1, RHY",99823,7/25/2017 12:00:00 AM,,,Data Not Collected,N/A
+411254,Without Children,,"Gat, Tag",100130,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411255,With Only Children,,"po, panda",99836,7/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+411256,Without Children,,"Dan, Jack",100067,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+411257,Without Children,,"bcp, test",100070,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+411258,Without Children,At Start,"Cho, Pan",100156,8/22/2017 12:00:00 AM,23279,8/22/2017 12:00:00 AM,No,N/A
+411260,Without Children,,"Williamson, Stacy",100057,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+411262,Without Children,,"Test, Mark",100129,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411263,With Only Children,,"Data, NoFYSB",99855,7/27/2017 12:00:00 AM,,,Data Not Collected,N/A
+411264,Without Children,,"FYSB, New",100125,8/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411265,Without Children,At Start,"Test, Kent",100150,8/22/2017 12:00:00 AM,23276,8/22/2017 12:00:00 AM,No,N/A
+411268,Without Children,At Start,"Test, Emma",100118,8/21/2017 12:00:00 AM,23247,8/21/2017 12:00:00 AM,No,N/A
+411269,Without Children,,"Boy, Game",100138,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411270,Without Children,,"Test, Gray",100141,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411274,Without Children,At Start,"Go, Rent",100010,8/15/2017 12:00:00 AM,23142,8/15/2017 12:00:00 AM,No,N/A
+411276,Without Children,,"Test, Henry",100090,8/19/2017 12:00:00 AM,,,Data Not Collected,N/A
+411277,With Only Children,,"THtest, Child",100145,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411278,Without Children,,"Jones, Heather",100093,8/19/2017 12:00:00 AM,,,Data Not Collected,N/A
+411279,Without Children,,"TEST22, BCP",99898,8/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411280,Without Children,At Start,"Test, PATH",100155,8/22/2017 12:00:00 AM,23278,8/22/2017 12:00:00 AM,No,N/A
+411281,Without Children,,"Testing, BCP",99895,8/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411283,Without Children,,"Testing3, BCP",100151,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411284,Without Children,,"test1, BCP",100164,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411285,Without Children,,"dsadsad, asasd",99913,8/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+411286,Without Children,,"test, Safe&E",100124,8/21/2017 12:00:00 AM,,,Data Not Collected,N/A
+411287,Without Children,,"Jackson, Julia",100137,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411288,Without Children,,"TEST3, SKR",100143,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411289,With Children and Adults,At Start,"FollowupTest, RHY",99957,8/13/2017 12:00:00 AM,23099,8/13/2017 12:00:00 AM,No,N/A
+411291,Without Children,,"TEST4, SKR",100256,8/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411295,Without Children,,"ANNUAL, SKR",100128,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411296,Without Children,At Start,"Test, DV",99959,8/13/2017 12:00:00 AM,23101,8/13/2017 12:00:00 AM,No,N/A
+411297,Without Children,,"Test, GPD TIP",99967,8/14/2017 12:00:00 AM,,,Data Not Collected,N/A
+411298,Without Children,At Start,"PARTIAL, SKR",100034,8/16/2017 12:00:00 AM,23166,8/16/2017 12:00:00 AM,No,N/A
+411299,Without Children,At Start,"AssessmentTest, Vet",100119,8/21/2017 12:00:00 AM,23248,8/21/2017 12:00:00 AM,No,N/A
+411300,Without Children,,"Vet, New",99982,8/15/2017 12:00:00 AM,,,Data Not Collected,N/A
+411301,Without Children,,"Curtis, Ian",99987,8/15/2017 12:00:00 AM,,,Data Not Collected,N/A
+411303,Without Children,At Start,"Benjamin, Astro",100030,8/16/2017 12:00:00 AM,23164,8/16/2017 12:00:00 AM,No,N/A
+411305,Without Children,,"Etten, Matt",100045,8/17/2017 12:00:00 AM,,,Data Not Collected,N/A
+411306,Without Children,,"Something, Wendy",100061,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+411307,With Only Children,At Start,"RHY, Student1",100050,8/17/2017 12:00:00 AM,23192,8/17/2017 12:00:00 AM,No,N/A
+411308,With Only Children,At Start,"RHY, Student2",100051,8/17/2017 12:00:00 AM,23193,8/17/2017 12:00:00 AM,No,N/A
+411309,With Only Children,At Start,"RHY, Student3",100052,8/17/2017 12:00:00 AM,23194,8/17/2017 12:00:00 AM,No,N/A
+411310,Without Children,,"NonRHY, AdultStudent1",100053,8/17/2017 12:00:00 AM,,,Data Not Collected,N/A
+411311,Without Children,,"RHY, StudentAdult2",100173,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411313,Without Children,,"RHY, NewCLient",100089,8/18/2017 12:00:00 AM,,,Data Not Collected,N/A
+411314,With Only Children,At Start,"No.1, Student",100097,8/19/2017 12:00:00 AM,23230,8/19/2017 12:00:00 AM,No,N/A
+411315,Without Children,,"No.2, Student",100252,8/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411316,Without Children,At Start,"BCPStatus, R2RHY",100099,8/19/2017 12:00:00 AM,23232,8/19/2017 12:00:00 AM,No,N/A
+411318,Without Children,,"SOARtest, PATH",100238,8/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+411320,Without Children,,"Test, MoveIn",100157,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411321,Without Children,At Start,"HIVADS, SKR",100235,8/28/2017 12:00:00 AM,23359,8/28/2017 12:00:00 AM,No,N/A
+411322,Without Children,,"AssessmentTest, PATH",100163,8/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411326,Without Children,,"Onyeabor, William",100174,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411328,Without Children,At Start,"Farmingo, Brad",100184,8/23/2017 12:00:00 AM,23305,8/23/2017 12:00:00 AM,No,N/A
+411329,Without Children,At Start,"Erickson, Brad",100185,8/23/2017 12:00:00 AM,23306,8/23/2017 12:00:00 AM,No,N/A
+411330,Without Children,At Start,"Edmond, Peter",100187,8/23/2017 12:00:00 AM,23308,8/23/2017 12:00:00 AM,No,N/A
+411331,Without Children,,"Check, Education Required",100188,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411332,With Only Children,,"Check, ChildEd",100189,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411333,With Children and Adults,At Start,"Family, SSVF HoH",100254,8/29/2017 12:00:00 AM,23392,8/29/2017 12:00:00 AM,No,N/A
+411335,Without Children,At Start,"123, Test",100191,8/23/2017 12:00:00 AM,23316,8/23/2017 12:00:00 AM,No,N/A
+411336,Without Children,At Start,"123, testing",100192,8/23/2017 12:00:00 AM,23317,8/23/2017 12:00:00 AM,No,N/A
+411340,Without Children,,"123, tester",100239,8/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+411341,Without Children,,"123, TEstone",100199,8/23/2017 12:00:00 AM,,,Data Not Collected,N/A
+411342,Without Children,At Start,"123, testiin",100358,9/12/2017 12:00:00 AM,23604,9/12/2017 12:00:00 AM,No,N/A
+411343,Without Children,,"Giantsbane, Tormund",100202,8/24/2017 12:00:00 AM,,,Data Not Collected,N/A
+411345,Without Children,,"EdReq, Adult",100215,8/24/2017 12:00:00 AM,,,Data Not Collected,N/A
+411346,Without Children,At Start,"Lodge, Possum",100218,8/25/2017 12:00:00 AM,23337,8/25/2017 12:00:00 AM,No,N/A
+411349,Without Children,,"AssessAtExit, OtherAdutl",100223,8/25/2017 12:00:00 AM,,,Data Not Collected,N/A
+411350,Without Children,,"Client, EmpTest",100228,8/27/2017 12:00:00 AM,,,Data Not Collected,N/A
+411354,With Children and Adults,,"Cooper, Jane",100244,8/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+411355,Without Children,,"Patricia, Susan",100236,8/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+411357,Without Children,,"Belinda, John",100342,9/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411363,Without Children,At Start,"Silverstone, Stephen",100253,8/29/2017 12:00:00 AM,23391,8/29/2017 12:00:00 AM,No,N/A
+411373,Without Children,,"Deonardo, Sunny",100276,8/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411374,Without Children,At Start,"RHY, HighestGrade",100278,8/30/2017 12:00:00 AM,23447,8/30/2017 12:00:00 AM,No,N/A
+411378,Without Children,,"Test, ExitHoH",100292,8/31/2017 12:00:00 AM,,,Data Not Collected,N/A
+411379,Without Children,,"Test, OtherAdult",100293,8/31/2017 12:00:00 AM,,,Data Not Collected,N/A
+411382,Without Children,,"Test, MultiFund",100327,9/6/2017 12:00:00 AM,,,Data Not Collected,N/A
+411383,With Children and Adults,,"OtherAdult, MultiFund",100304,9/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411384,Without Children,,"Test, MultiVet",100812,10/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411386,Unknown Household Type,At Start,"Housing Move-in, Testing",100338,9/10/2017 12:00:00 AM,23582,9/10/2017 12:00:00 AM,No,N/A
+411392,Without Children,,"Bag, Jim",100325,9/5/2017 12:00:00 AM,,,Data Not Collected,N/A
+411393,Without Children,,"robin, red",100328,9/6/2017 12:00:00 AM,,,Data Not Collected,N/A
+411394,Without Children,,"calc, ion",100329,9/6/2017 12:00:00 AM,,,Data Not Collected,N/A
+411395,Without Children,At Start,"Sop, Pos",100331,9/7/2017 12:00:00 AM,23565,9/7/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411396,Without Children,,"yop, poy",100332,9/7/2017 12:00:00 AM,,,Data Not Collected,N/A
+411397,Without Children,At Start,"Tah, Hat",100333,9/7/2017 12:00:00 AM,23567,9/7/2017 12:00:00 AM,No,N/A
+411398,Without Children,,"nel, Len",100336,9/7/2017 12:00:00 AM,,,Data Not Collected,N/A
+411399,Without Children,,"Krispers, Rice",100337,9/8/2017 12:00:00 AM,,,Data Not Collected,N/A
+411401,With Only Children,At Start,"Test, Disab",100348,9/11/2017 12:00:00 AM,23596,9/11/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411403,Without Children,During Program Enrollment,"McArthur, John",100352,8/15/2016 12:00:00 AM,23615,9/13/2017 12:00:00 AM,No,N/A
+411404,Without Children,,"Set, Get",100357,9/12/2017 12:00:00 AM,,,Data Not Collected,N/A
+411406,Without Children,,"test, ping",100360,9/12/2017 12:00:00 AM,,,Data Not Collected,N/A
+411409,Without Children,,"Not, Ton",100364,9/13/2017 12:00:00 AM,,,Data Not Collected,N/A
+411413,Without Children,At Start,"AssessTest, Health",100370,9/1/2017 12:00:00 AM,23629,9/1/2017 12:00:00 AM,No,N/A
+411418,Without Children,At Start,"reay, Year",100382,9/14/2017 12:00:00 AM,23640,9/14/2017 12:00:00 AM,Data Not Collected,N/A
+411419,With Children and Adults,,"Graham, Heather Joan",100384,9/14/2017 12:00:00 AM,,,Data Not Collected,N/A
+411420,Without Children,At Start,"Teg, Get",100383,9/14/2017 12:00:00 AM,23642,9/14/2017 12:00:00 AM,Data Not Collected,N/A
+411421,Without Children,At Start,"yar, Ray",100386,9/14/2017 12:00:00 AM,23645,9/14/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411444,With Children and Adults,At Start,"Client, HOH",100422,9/20/2017 12:00:00 AM,23715,9/20/2017 12:00:00 AM,Data Not Collected,N/A
+411447,With Children and Adults,At Start,"Client, HOHTwo",100424,9/20/2017 12:00:00 AM,23717,9/20/2017 12:00:00 AM,Data Not Collected,N/A
+411449,With Children and Adults,At Start,"Client, HOHThree",100426,9/20/2017 12:00:00 AM,23719,9/20/2017 12:00:00 AM,Data Not Collected,N/A
+411453,Without Children,At Start,"Client, HOHAdult",100430,9/20/2017 12:00:00 AM,23721,9/20/2017 12:00:00 AM,Yes,Yes
+411458,With Children and Adults,,"Graham, Franny K",100440,9/22/2017 12:00:00 AM,,,Data Not Collected,N/A
+411471,Without Children,At Start,"TestLength, Annual",100465,10/1/2016 12:00:00 AM,23775,1/1/2016 12:00:00 AM,No,N/A
+411472,Without Children,At Start,"TestLength, OtherAdult",100466,8/31/2017 12:00:00 AM,23776,8/31/2017 12:00:00 AM,No,N/A
+411474,Without Children,,"EntryError, Pre101",100468,9/30/2016 12:00:00 AM,,,Data Not Collected,N/A
+411475,Without Children,,"EntryError, Post101",100469,10/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+411487,Unknown Household Type,At Start,"Test2, BCP",100481,9/28/2017 12:00:00 AM,23790,9/28/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411489,With Only Children,At Start,"Parent, Under18",100482,8/1/2017 12:00:00 AM,23791,8/1/2017 12:00:00 AM,No,N/A
+411491,Without Children,At Start,"Ffej, Jeff",100487,9/29/2017 12:00:00 AM,23796,9/29/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411492,Without Children,,"Ffej, Geff",100488,9/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411493,Without Children,,"Tey, Yet",100530,9/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411494,Without Children,At Start,"Tey, Yett",100490,9/29/2017 12:00:00 AM,23799,9/29/2017 12:00:00 AM,Data Not Collected,N/A
+411495,Without Children,,"oiu, Uio",100491,9/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411498,Without Children,,"Brupo, Opurb",100493,9/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411502,Without Children,,"RHYTest, BCP",100496,9/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411503,Without Children,,"Dnuorg, Ground",100497,9/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411508,Without Children,At Start,"EnrollmentWF, Edit",100524,9/29/2017 12:00:00 AM,23842,9/29/2017 12:00:00 AM,No,N/A
+411520,Without Children,During Program Enrollment,"CHtest, Vet",100528,1/1/2017 12:00:00 AM,23918,12/29/2017 12:00:00 AM,No,N/A
+411525,Without Children,At Start,"Inactive, ESnbn",100534,9/1/2016 12:00:00 AM,23858,9/1/2016 12:00:00 AM,No,N/A
+411527,Without Children,,"TEST, BCPQQ",100536,9/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411528,Without Children,At Start,"PS, BCPESG",100537,9/30/2017 12:00:00 AM,23862,9/30/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411529,Without Children,,"ESG, BCP",100538,9/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411530,Without Children,,"IncomeCheck, BCP",100550,9/7/2017 12:00:00 AM,,,Data Not Collected,N/A
+411536,Without Children,,"SingleFunding, BCP",100547,9/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411537,Without Children,At Start,"DualFunding, BCP",100548,9/30/2017 12:00:00 AM,23877,9/30/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411545,Without Children,At Start,"StayerNoUpdate, CHVet",100565,1/1/2017 12:00:00 AM,23893,1/1/2017 12:00:00 AM,No,N/A
+411548,With Only Children,,"Man, Test",100566,10/2/2017 12:00:00 AM,,,Data Not Collected,N/A
+411551,Without Children,,"Assessment, Financial",100567,10/2/2017 12:00:00 AM,,,Data Not Collected,N/A
+411552,Without Children,,"neh, Hen",100568,10/2/2017 12:00:00 AM,,,Data Not Collected,N/A
+411553,Without Children,,"Ydna, Andy",100569,10/2/2016 12:00:00 AM,,,Data Not Collected,N/A
+411555,Without Children,,"nah, Han",100571,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411556,Without Children,,"you, Yit",100572,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411557,Without Children,At Start,"Terw, Quer",100573,10/3/2017 12:00:00 AM,23903,10/3/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411561,Without Children,At Start,"Terro, Yertey",100577,10/3/2017 12:00:00 AM,23907,10/3/2017 12:00:00 AM,Data Not Collected,N/A
+411563,Without Children,At Start,"BednightBefore, ESnbn",100579,10/1/2016 12:00:00 AM,23909,10/1/2016 12:00:00 AM,No,N/A
+411564,With Only Children,,"yotttt, toy",100580,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411567,Without Children,,"Head, Arrow",100583,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411569,Without Children,,"Gor, Poting",100585,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411570,Without Children,,"Er, Young",100586,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411572,Without Children,,"ActiveClient, SO",100770,10/11/2017 12:00:00 AM,,,Data Not Collected,N/A
+411574,Without Children,,"SOP, RHYClient",100590,10/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+411576,With Only Children,,"Client, Orientation",100593,10/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+411577,Without Children,,"Todd, Tedd",100594,10/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+411579,With Only Children,,"Mouse, Jerry",100596,10/4/2017 12:00:00 AM,,,Data Not Collected,N/A
+411580,With Only Children,At Start,"Henry, Hen",100597,10/4/2017 12:00:00 AM,23927,10/4/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411581,Without Children,,"Nig, Gin",100598,10/5/2017 12:00:00 AM,,,Data Not Collected,N/A
+411583,Without Children,,"Test, FintestClient",100653,10/6/2017 12:00:00 AM,,,Data Not Collected,N/A
+411687,Without Children,,"Matthew, Jon",102341,3/22/2018 12:00:00 AM,,,Data Not Collected,N/A
+411690,Without Children,At Start,"Report, AHAR",100767,10/10/2017 12:00:00 AM,24178,10/10/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411691,Without Children,,"Grey, Ben",100768,10/11/2016 12:00:00 AM,,,Data Not Collected,N/A
+411692,Without Children,,"Reporter, PathGuy",100769,10/2/2017 12:00:00 AM,,,Data Not Collected,N/A
+411693,Without Children,,"Report, PathGuy1",100771,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411694,Without Children,,"guy, pathsubstance",100772,10/12/2017 12:00:00 AM,,,Data Not Collected,N/A
+411695,Without Children,,"drug, pathguy",100773,10/12/2017 12:00:00 AM,,,Data Not Collected,N/A
+411698,Without Children,,"InsTest, Health",100782,10/16/2017 12:00:00 AM,,,Data Not Collected,N/A
+411699,Without Children,,"CritIssue, SOP",100783,10/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411700,Without Children,,"Date, ChangeAssessment",100785,10/19/2016 12:00:00 AM,,,Data Not Collected,N/A
+411701,Without Children,At Start,"Family, ThreeMember",100786,10/19/2017 12:00:00 AM,24210,10/19/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411702,Without Children,At Start,"Family, Two",100787,10/19/2017 12:00:00 AM,24211,10/19/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411703,Without Children,At Start,"Family, One",100788,10/19/2017 12:00:00 AM,24212,10/19/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411714,Without Children,,"Klitchko, John",100805,10/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411715,With Children and Adults,,"One, Vet",100807,10/2/2017 12:00:00 AM,,,Data Not Collected,N/A
+411717,Without Children,,"Two, Vet",100809,10/2/2017 12:00:00 AM,,,Data Not Collected,N/A
+411718,Without Children,,"Three, Vet",100810,10/3/2017 12:00:00 AM,,,Data Not Collected,N/A
+411723,With Only Children,At Start,"Bee, Bee",100817,11/1/2017 12:00:00 AM,24279,11/1/2017 12:00:00 AM,No,N/A
+411724,With Only Children,At Start,"Test, ExitInsurance",100818,11/2/2017 12:00:00 AM,24283,11/2/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411726,Without Children,At Start,"AfterReportEnd, Annual",100820,1/3/2017 12:00:00 AM,24287,1/3/2017 12:00:00 AM,No,N/A
+411727,Without Children,At Start,"HouseholdChronic, AO",100821,11/1/2016 12:00:00 AM,24291,11/1/2016 12:00:00 AM,No,N/A
+411728,Without Children,At Start,"HouseholdChronic, AO-NotChronic",100822,11/1/2016 12:00:00 AM,24292,11/1/2016 12:00:00 AM,No,N/A
+411729,With Children and Adults,At Start,"HouseholdChronic, AC",100823,12/1/2016 12:00:00 AM,24294,12/1/2016 12:00:00 AM,No,N/A
+411733,Without Children,At Start,"ChronicNoAnn, AO",100827,1/4/2017 12:00:00 AM,24301,1/4/2017 12:00:00 AM,No,N/A
+411734,Without Children,At Start,"Test8, Sean",100829,9/22/2017 12:00:00 AM,24305,9/22/2017 12:00:00 AM,No,N/A
+411735,Without Children,At Start,"MissAnn, AOChronic",100840,12/7/2016 12:00:00 AM,24324,12/7/2016 12:00:00 AM,No,N/A
+411736,Without Children,At Start,"Enrollments, back2back",100831,1/6/2017 12:00:00 AM,24312,1/6/2017 12:00:00 AM,No,N/A
+411737,Without Children,At Start,"Enrollments, b2b",100833,1/27/2017 12:00:00 AM,24314,1/27/2017 12:00:00 AM,No,N/A
+411738,Without Children,At Start,"Spouse, Added",100834,2/1/2016 12:00:00 AM,24315,2/1/2016 12:00:00 AM,No,N/A
+411739,Without Children,At Start,"Spouse, CameLate",100835,2/22/2017 12:00:00 AM,24316,2/22/2017 12:00:00 AM,No,N/A
+411740,Without Children,At Start,"ContinuousSpouse, AdultHoho",100838,2/1/2017 12:00:00 AM,24322,2/1/2017 12:00:00 AM,No,N/A
+411741,Without Children,At Start,"Continuous, Spouse",100839,2/1/2017 12:00:00 AM,24323,2/1/2017 12:00:00 AM,No,N/A
+411742,Without Children,At Start,"MissAnnual, AO",100841,12/8/2016 12:00:00 AM,24328,12/8/2016 12:00:00 AM,No,N/A
+411743,Without Children,During Program Enrollment,"EarlyAndInFram, 2Annual",100842,12/7/2016 12:00:00 AM,24334,12/14/2017 12:00:00 AM,No,N/A
+411744,Without Children,At Start,"Annual, WayEarly",100843,5/1/2017 12:00:00 AM,24335,5/1/2017 12:00:00 AM,No,N/A
+411745,Without Children,At Start,"Eighteen, Turning",100844,1/1/2017 12:00:00 AM,24337,1/1/2017 12:00:00 AM,No,N/A
+411749,Without Children,,"Client, New",100855,11/7/2013 12:00:00 AM,,,Data Not Collected,N/A
+411750,With Only Children,,"ES, RTest",100852,11/8/2016 12:00:00 AM,,,Data Not Collected,N/A
+411756,Without Children,At Start,"AssessGap, Annual",100859,3/1/2015 12:00:00 AM,24358,3/1/2015 12:00:00 AM,No,N/A
+411757,Without Children,At Start,"EntryMaster, AdjustedProgram",100860,5/2/2016 12:00:00 AM,24360,5/2/2016 12:00:00 AM,No,N/A
+411758,Without Children,At Start,"FamilyIntoEnrollment, Copied",100861,10/1/2016 12:00:00 AM,24361,10/1/2016 12:00:00 AM,No,N/A
+411759,Without Children,,"CopyFamily, OtherAdult",100862,10/1/2016 12:00:00 AM,,,Data Not Collected,N/A
+411764,Without Children,At Start,"HoH, AddedFam",100869,1/9/2015 12:00:00 AM,24369,1/9/2015 12:00:00 AM,No,N/A
+411765,Without Children,,"Member, AddedInFam",100870,1/7/2016 12:00:00 AM,,,Data Not Collected,N/A
+411770,With Children and Adults,At Start,"Youth, Parenting",100875,11/13/2017 12:00:00 AM,24386,11/13/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411771,With Children and Adults,,"Youth, Spouse",100876,11/13/2017 12:00:00 AM,,,Data Not Collected,N/A
+411774,Without Children,,"ContactInfo, RTest",100879,11/14/2017 12:00:00 AM,,,Data Not Collected,N/A
+411775,With Only Children,,"ContactInfo1, RTest",100880,11/14/2017 12:00:00 AM,,,Data Not Collected,N/A
+411783,With Children and Adults,At Start,"HoH, 12Yrold",100890,11/1/2017 12:00:00 AM,24400,11/1/2017 12:00:00 AM,No,N/A
+411784,With Children and Adults,At Start,"Adult, 24Yrold",100891,11/1/2017 12:00:00 AM,24401,11/1/2017 12:00:00 AM,No,N/A
+411794,Without Children,At Start,"DisablingCond, Bad",100902,9/1/2016 12:00:00 AM,24414,9/1/2016 12:00:00 AM,No,N/A
+411795,Without Children,At Start,"AnnualDisCond, Unknown",100903,9/1/2016 12:00:00 AM,24415,9/1/2016 12:00:00 AM,No,N/A
+411796,Without Children,At Start,"Exit, BadDisCond",100904,12/14/2016 12:00:00 AM,24417,12/14/2016 12:00:00 AM,No,N/A
+411800,Without Children,,"Jones, Dougie",100969,11/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+411806,With Children and Adults,At Start,"Household, 2 Youth",100916,11/21/2017 12:00:00 AM,24451,11/22/2017 12:00:00 AM,No,N/A
+411807,With Children and Adults,At Start,"Household, OtherAdult",100926,11/22/2017 12:00:00 AM,24461,11/22/2017 12:00:00 AM,No,N/A
+411821,Without Children,At Start,"WithChild, Client123",100934,11/15/2017 12:00:00 AM,24469,11/15/2017 12:00:00 AM,No,N/A
+411824,With Only Children,,"AssessmentLink, Testing",100939,11/27/2017 12:00:00 AM,,,Data Not Collected,N/A
+411835,With Only Children,At Start,"EnrollhoH, Double",100948,8/1/2016 12:00:00 AM,24488,8/1/2016 12:00:00 AM,No,N/A
+411846,With Children and Adults,At Start,"Test, AgeCheckAdult",100963,11/28/2017 12:00:00 AM,24509,11/28/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411848,Without Children,At Start,"EntryAssessment, Doulbe",100967,11/1/2017 12:00:00 AM,24516,11/1/2017 12:00:00 AM,No,N/A
+411849,Without Children,At Start,"EntryAssessment, OtherAdult",100968,11/1/2017 12:00:00 AM,24513,12/1/2016 12:00:00 AM,No,N/A
+411850,Without Children,At Start,"Test, RRHClient1",100970,11/29/2017 12:00:00 AM,24519,11/29/2017 12:00:00 AM,Data Not Collected,N/A
+411851,Without Children,At Start,"Test, RRHClient2",100971,11/29/2017 12:00:00 AM,24520,11/29/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+411852,Without Children,,"Test, RRHClient3",100972,11/29/2017 12:00:00 AM,,,Data Not Collected,N/A
+411884,Without Children,At Start,"ONe, Test",101014,9/1/2016 12:00:00 AM,24569,9/1/2016 12:00:00 AM,No,N/A
+411885,Without Children,At Start,"Test, HoHAge3917",101015,11/30/2017 12:00:00 AM,24571,11/30/2017 12:00:00 AM,No,N/A
+411886,Without Children,,"Test, ChildSwitched",101016,11/30/2017 12:00:00 AM,,,Data Not Collected,N/A
+411912,Without Children,,"PermAdd, RRH",101046,12/5/2017 12:00:00 AM,,,Data Not Collected,N/A
+411913,Without Children,,"RRH, SSVFAdult",101047,12/5/2017 12:00:00 AM,,,Data Not Collected,N/A
+411914,Without Children,,"RRH, SSVFAdult1",101048,12/5/2017 12:00:00 AM,,,Data Not Collected,N/A
+411915,Without Children,At Start,"Household, 3Part",101049,12/14/2016 12:00:00 AM,24622,12/14/2016 12:00:00 AM,No,N/A
+411916,Without Children,At Start,"InHousehold, OtherAdult",101050,12/14/2016 12:00:00 AM,24624,12/14/2016 12:00:00 AM,No,N/A
+411917,Without Children,At Start,"InHousehold, ThirdAdult",101051,12/14/2016 12:00:00 AM,24623,12/14/2016 12:00:00 AM,No,N/A
+411918,Without Children,At Start,"HoH, Adult",101052,12/5/2017 12:00:00 AM,24628,12/5/2017 12:00:00 AM,No,N/A
+411919,Without Children,At Start,"Adult, AgingInto",101053,12/5/2017 12:00:00 AM,24629,12/5/2017 12:00:00 AM,No,N/A
+411920,Without Children,,"Child, GoingToExit",101054,12/5/2017 12:00:00 AM,,,Data Not Collected,N/A
+411921,Without Children,At Start,"Doublecount, Q26a",101055,12/1/2017 12:00:00 AM,24632,12/1/2017 12:00:00 AM,No,N/A
+411922,Without Children,At Start,"DoubleCount, OthAdult",101057,12/1/2017 12:00:00 AM,24634,12/5/2017 12:00:00 AM,No,N/A
+411923,With Children and Adults,At Start,"HoH, Multiple",101058,12/6/2017 12:00:00 AM,24635,12/6/2017 12:00:00 AM,No,N/A
+411924,With Children and Adults,,"HoH, Second",101059,12/6/2017 12:00:00 AM,,,Data Not Collected,N/A
+411926,Without Children,,"CH Status, NULL",101061,12/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+411927,Without Children,At Start,"CH Status, DK/R",101062,12/6/2017 12:00:00 AM,24639,12/6/2017 12:00:00 AM,No,N/A
+411928,Without Children,At Start,"NoSourcesAtAnnual, CashYes",101063,12/1/2016 12:00:00 AM,24640,12/1/2016 12:00:00 AM,No,N/A
+411929,Without Children,At Start,"NoSourcesEntry, CashYes",101064,12/1/2016 12:00:00 AM,24642,12/1/2016 12:00:00 AM,No,N/A
+411930,Without Children,At Start,"ToMinorHoH, 3917AAdult",101065,12/7/2017 12:00:00 AM,24646,12/7/2017 12:00:00 AM,No,N/A
+411931,Without Children,At Start,"To Minor, A-Adult",101066,12/7/2017 12:00:00 AM,24647,12/7/2017 12:00:00 AM,No,N/A
+411932,Unknown Household Type,At Start,"HoH, BAtoM",101067,12/7/2017 12:00:00 AM,24648,12/7/2017 12:00:00 AM,No,N/A
+411936,Without Children,At Start,"MissingDC, ES-IND",101071,10/1/2017 12:00:00 AM,24658,10/1/2017 12:00:00 AM,No,N/A
+411981,With Only Children,,"Test, ProgramDate",101131,12/15/2014 12:00:00 AM,,,Data Not Collected,N/A
+412012,With Only Children,,"Workflow, Test",102157,12/15/2017 12:00:00 AM,,,Data Not Collected,N/A
+412034,Without Children,,"TestCase, EnrollmentGuy12",102178,12/26/2017 12:00:00 AM,,,Data Not Collected,N/A
+412037,With Only Children,,"EnrolledNoExitInt, PATH",102175,11/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+412043,Without Children,,"Ben, Gary",102180,12/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+412045,Without Children,,"Yo, TestParticipant",102182,12/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+412046,Without Children,,"YoYo, TestParticipantone",102183,12/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+412047,Without Children,,"YoYoYo, TestParticipationtwo",102184,12/28/2017 12:00:00 AM,,,Data Not Collected,N/A
+412052,Without Children,,"Unsheltered, Other Adult",102187,1/8/2018 12:00:00 AM,,,Data Not Collected,N/A
+412057,Without Children,At Start,"Old, IsChTest",102190,1/8/2018 12:00:00 AM,25899,1/8/2018 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+412058,Without Children,At Start,"Test, IsCHUnshelteredPIT",102191,1/8/2018 12:00:00 AM,25901,1/8/2018 12:00:00 AM,No,N/A
+412065,Without Children,At Start,"WithoutEnroll, PitTestClnt1",102200,1/30/2018 12:00:00 AM,25963,1/30/2018 12:00:00 AM,No,N/A
+412072,Without Children,At Start,"SPM, ESnbnNegated",102208,9/30/2016 12:00:00 AM,25974,9/30/2016 12:00:00 AM,No,N/A
+412073,Without Children,At Start,"SPM, SHonly",102209,9/30/2016 12:00:00 AM,25975,9/30/2016 12:00:00 AM,No,N/A
+412074,Without Children,At Start,"SPM, SHwithESee",102212,9/30/2016 12:00:00 AM,25978,9/30/2016 12:00:00 AM,No,N/A
+412075,Without Children,At Start,"SPM, SHwithPSHnoOverlap",102214,10/1/2016 12:00:00 AM,25981,10/1/2016 12:00:00 AM,No,N/A
+412078,Without Children,At Start,"SPM, ESeePSHnext",102218,10/1/2016 12:00:00 AM,25988,10/1/2016 12:00:00 AM,No,N/A
+412079,Without Children,At Start,"SPM, ESeeTHoverlap",102220,10/1/2016 12:00:00 AM,25991,10/1/2016 12:00:00 AM,No,N/A
+412081,Without Children,At Start,"SPM, ESeePSHnegated",102222,10/1/2016 12:00:00 AM,25994,10/1/2016 12:00:00 AM,No,N/A
+412082,Without Children,At Start,"SPM, ESeeOtherCoC",102225,9/30/2017 12:00:00 AM,25999,9/30/2017 12:00:00 AM,No,N/A
+412083,Without Children,At Start,"SPM, THactive",102226,9/30/2016 12:00:00 AM,26000,9/30/2016 12:00:00 AM,No,N/A
+412084,Without Children,At Start,"SPM, PSHnotLHNoMoveExit",102227,9/30/2016 12:00:00 AM,26001,9/30/2016 12:00:00 AM,No,N/A
+412087,Without Children,At Start,"SPM, PSHentryPriorMoveIn",102231,9/30/2016 12:00:00 AM,26008,9/30/2016 12:00:00 AM,No,N/A
+412088,Without Children,At Start,"SPM, PSHEntryMoveInPrior",102232,9/30/2016 12:00:00 AM,26009,9/30/2016 12:00:00 AM,No,N/A
+412089,Without Children,At Start,"SPM, ESeePSH",102234,9/30/2017 12:00:00 AM,26012,9/30/2017 12:00:00 AM,No,N/A
+412090,Without Children,At Start,"SPM, ESeePSHLitHome",102236,9/30/2017 12:00:00 AM,26015,9/30/2017 12:00:00 AM,No,N/A
+412091,Without Children,At Start,"SPM, PSHEntryIsMoveIn",102237,10/2/2016 12:00:00 AM,26016,10/2/2016 12:00:00 AM,No,N/A
+412092,Without Children,During Program Enrollment,"SPM, PSHMovedInAfter",102238,10/2/2016 12:00:00 AM,128125,7/18/2018 12:00:00 AM,No,N/A
+412093,Without Children,At Start,"SPM, THandPSHLHoverlap",102239,10/1/2016 12:00:00 AM,26018,10/1/2016 12:00:00 AM,No,N/A
+412094,Without Children,At Start,"SPM, TH-PSHnLHoverlap",102241,10/1/2016 12:00:00 AM,26020,10/1/2016 12:00:00 AM,No,N/A
+412095,Without Children,At Start,"SPM, PSHLHEnteredNoMove",102243,10/2/2016 12:00:00 AM,26022,10/2/2016 12:00:00 AM,No,N/A
+412096,Without Children,At Start,"SPM, PSHnotLHlos",102244,10/2/2016 12:00:00 AM,26023,10/2/2016 12:00:00 AM,No,N/A
+412098,Without Children,At Start,"SPM, PSHNightbeforecheck",102245,10/2/2016 12:00:00 AM,26024,10/2/2016 12:00:00 AM,No,N/A
+412099,Without Children,At Start,"SPM, PSHNightBeforeYes",102246,10/2/2016 12:00:00 AM,26025,10/2/2016 12:00:00 AM,No,N/A
+412126,With Children and Adults,At Start,"SPM 5.1 Test, Household",102258,2/1/2018 12:00:00 AM,26041,2/1/2018 12:00:00 AM,No,N/A
+412128,Without Children,At Start,"3.917.3 test, PH- Lit Homeless",102260,12/1/2017 12:00:00 AM,26043,12/1/2017 12:00:00 AM,No,N/A
+412129,Unknown Household Type,,"ABCD, Test1259",102261,2/13/2018 12:00:00 AM,,,Data Not Collected,N/A
+412135,With Children and Adults,At Start,"HH1Adult, PQR",102271,2/1/2018 12:00:00 AM,26059,2/1/2018 12:00:00 AM,No,N/A
+412137,With Children and Adults,At Start,"nbnShelter, PITYouthHouse",102273,2/1/2018 12:00:00 AM,26063,2/1/2018 12:00:00 AM,No,N/A
+412138,With Children and Adults,At Start,"nbnShelter, PITYouthOtherAdul",102274,2/1/2018 12:00:00 AM,26064,2/1/2018 12:00:00 AM,No,N/A
+412140,With Children and Adults,At Start,"Housetype, PITAandD",102276,2/1/2018 12:00:00 AM,26066,2/1/2018 12:00:00 AM,No,N/A
+412143,Without Children,At Start,"AOYouthHoushold, PITTH",102279,2/1/2018 12:00:00 AM,26069,2/1/2018 12:00:00 AM,No,N/A
+412144,Without Children,At Start,"AOhouse, PITSH",102280,2/1/2018 12:00:00 AM,26070,2/1/2018 12:00:00 AM,No,N/A
+412145,With Children and Adults,At Start,"Househtype`, PITHoHAO",102281,2/1/2018 12:00:00 AM,26071,2/1/2018 12:00:00 AM,No,N/A
+412146,With Children and Adults,At Start,"Housetype, PITOtherAdult",102282,2/1/2018 12:00:00 AM,26072,2/1/2018 12:00:00 AM,No,N/A
+412148,With Only Children,At Start,"Typeunder18, PITPrntYouth",102284,2/1/2018 12:00:00 AM,26074,2/1/2018 12:00:00 AM,No,N/A
+412151,With Children and Adults,At Start,"hhtype, PITPrntYouth1825",102287,2/1/2018 12:00:00 AM,26077,2/1/2018 12:00:00 AM,No,N/A
+412152,With Children and Adults,At Start,"hhtype, PITprntYouthotheradu",102288,2/1/2018 12:00:00 AM,26078,2/1/2018 12:00:00 AM,No,N/A
+412154,With Only Children,At Start,"House, PITChiOnly",102290,2/1/2018 12:00:00 AM,26080,2/1/2018 12:00:00 AM,No,N/A
+412156,Unknown Household Type,At Start,"UnknownHouse, PIT",102292,2/1/2018 12:00:00 AM,26082,2/1/2018 12:00:00 AM,No,N/A
+412158,With Children and Adults,At Start,"AChouse, PITACwithunkonwn",102294,2/1/2018 12:00:00 AM,26084,2/1/2018 12:00:00 AM,No,N/A
+412169,With Children and Adults,At Start,"NotChronic, 2PersoneeHoH",102300,1/1/2018 12:00:00 AM,26096,1/1/2018 12:00:00 AM,No,N/A
+412171,With Children and Adults,At Start,"ChronicEpisodic, 2PersoneeHoH",102302,1/1/2018 12:00:00 AM,26098,1/1/2018 12:00:00 AM,No,N/A
+412173,Without Children,At Start,"AgeIntoChronic, 1PersEEHoH",102304,11/29/2017 12:00:00 AM,26100,12/29/2017 12:00:00 AM,No,N/A
+412174,Without Children,At Start,"AgeIntoEpisodic, 1PersEE",102305,12/29/2017 12:00:00 AM,26101,12/29/2017 12:00:00 AM,No,N/A
+412175,Without Children,At Start,"NotChronic, 1PersEE",102306,1/2/2018 12:00:00 AM,26102,1/1/2018 12:00:00 AM,No,N/A
+412176,Without Children,At Start,"EntryChronic, 1PersonSH",102307,1/1/2018 12:00:00 AM,26103,1/1/2018 12:00:00 AM,No,N/A
+412177,Without Children,At Start,"AgeIntoContinuous, 1PersSH",102308,11/29/2017 12:00:00 AM,26104,11/29/2017 12:00:00 AM,No,N/A
+412178,Without Children,At Start,"AgeIntoEpisodic, 1PersSH",102309,12/29/2017 12:00:00 AM,26105,12/29/2017 12:00:00 AM,No,N/A
+412179,Without Children,At Start,"MissedAgeInto, 1PersSHHoH",102310,12/29/2017 12:00:00 AM,26106,12/29/2017 12:00:00 AM,No,N/A
+412180,Without Children,At Start,"NotChronic, 1PersTH",102311,1/1/2018 12:00:00 AM,26107,1/1/2018 12:00:00 AM,No,N/A
+412181,With Children and Adults,At Start,"EpisodeChronic, 2PersNbN",102312,1/1/2018 12:00:00 AM,26108,1/1/2018 12:00:00 AM,No,N/A
+412183,Without Children,At Start,"AgeIntoContinuous, 1PersNbNHoH",102314,12/1/2017 12:00:00 AM,26110,12/1/2017 12:00:00 AM,No,N/A
+412184,Without Children,At Start,"DoubleMonthMissAgeInto, 1PersESnbn",102315,1/1/2018 12:00:00 AM,26111,1/1/2018 12:00:00 AM,No,N/A
+412185,Without Children,At Start,"TwoSpannedAgedCont, 1PersESNbN",102316,11/29/2017 12:00:00 AM,26112,11/29/2017 12:00:00 AM,No,N/A
+412186,Without Children,At Start,"AgeEpisodic1Span, 1PersESNBN",102317,12/29/2017 12:00:00 AM,26113,12/29/2017 12:00:00 AM,No,N/A
+412187,Without Children,At Start,"MissedAgeEpisodic, 1PersES NBN",102318,1/2/2018 12:00:00 AM,26114,1/2/2018 12:00:00 AM,No,N/A
+412188,Without Children,At Start,"DoubleSpanAgeEpisodic, 1PersonNBN",102319,11/29/2017 12:00:00 AM,26115,11/29/2017 12:00:00 AM,No,N/A
+412190,Without Children,At Start,"ActiveClient2, Den",102322,1/1/2018 12:00:00 AM,26119,1/1/2018 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+412191,Without Children,At Start,"ActiveClient2, Denny",102323,1/1/2018 12:00:00 AM,26120,1/1/2018 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+412194,Without Children,At Start,"BarrierAtExit, DisCond",102327,1/1/2018 12:00:00 AM,26125,1/1/2018 12:00:00 AM,No,N/A
+412195,Without Children,,"MissesEpAge, Individual",102328,9/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+412208,Without Children,,"RRH Project Type ID, SSVF",102334,3/12/2018 12:00:00 AM,,,Data Not Collected,N/A
+412212,Without Children,,"TEst, RHY",102340,3/22/2018 12:00:00 AM,,,Data Not Collected,N/A
+412237,Without Children,,"SSVF EmploymentCheck, New",102355,4/3/2018 12:00:00 AM,,,Data Not Collected,N/A
+412916,With Children and Adults,At Start,"HoH, Youth",104300,4/1/2018 12:00:00 AM,127858,4/1/2018 12:00:00 AM,No,N/A
+412930,With Only Children,,"RHYFamily, RHYDaughter",104312,6/19/2018 12:00:00 AM,,,Data Not Collected,N/A
+412935,Without Children,,"ES, RHY5482",104324,6/21/2018 12:00:00 AM,,,Data Not Collected,N/A
+412938,With Children and Adults,During Program Enrollment,"Look, Annual",104331,6/1/2016 12:00:00 AM,127904,6/27/2018 12:00:00 AM,No,N/A
+412940,With Children and Adults,At Start,"Doesnt Know, Bad Veteran",104333,9/16/1997 12:00:00 AM,127906,6/1/2017 12:00:00 AM,Client Doesn't Know/Client Refused,N/A
+412941,With Children and Adults,At Start,"Refused, Bad Veteran",104334,6/1/2017 12:00:00 AM,127908,6/1/2017 12:00:00 AM,No,N/A
+412942,With Children and Adults,At Start,"DNC, Bad Veteran",104335,6/1/2017 12:00:00 AM,127907,6/1/2017 12:00:00 AM,Data Not Collected,N/A
+412943,With Children and Adults,,"105, Vet",104336,6/1/2017 12:00:00 AM,,,Data Not Collected,N/A
+412948,With Only Children,At Start,"IsCh, YouthHoH",104349,1/24/2018 12:00:00 AM,127924,1/24/2018 12:00:00 AM,No,N/A
+412952,Without Children,At Start,"1, Income",104353,7/1/2017 12:00:00 AM,127930,7/1/2017 12:00:00 AM,No,N/A
+412953,Without Children,At Start,"Client, Another",104354,7/1/2018 12:00:00 AM,127932,7/1/2018 12:00:00 AM,No,N/A
+412987,Without Children,,"Frost, John",104385,8/2/2018 12:00:00 AM,,,Data Not Collected,N/A
+412991,Without Children,,"Test, CT-5533",104388,8/6/2018 12:00:00 AM,,,Data Not Collected,N/A
+413023,Without Children,At Start,"Wednesday, Two",104417,7/1/2018 12:00:00 AM,128021,7/1/2018 12:00:00 AM,No,N/A
+413028,Without Children,At Start,"Birchworm, John",104427,7/3/2017 12:00:00 AM,128036,7/3/2017 12:00:00 AM,No,N/A
+413045,With Children and Adults,At Start,"Case, Multi",104464,7/1/2018 12:00:00 AM,128126,7/1/2018 12:00:00 AM,No,N/A
+413052,Without Children,At Start,"TEst, Primary",104478,6/1/2018 12:00:00 AM,128146,6/1/2018 12:00:00 AM,No,N/A

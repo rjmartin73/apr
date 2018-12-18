@@ -1,0 +1,17 @@
+Health Insurance,Insurance at Start,Insurance at Latest Annual Assessment for Stayers,Insurance at Exit for Leavers
+Medicaid,5,0,1
+Medicare,1,0,0
+State Children's Health Insurance Program,1,0,0
+Veteran's Administration (VA) Medical Services,6,0,2
+Employer Provided Health Insurance,3,0,2
+Health Insurance through COBRA,0,0,0
+Private Pay Health Insurance,3,0,3
+State Health Insurance for Adults,0,0,1
+Indian Health Services Program,0,0,1
+Other,1,0,0
+No Health Insurance,379,18,19
+Client Doesn't Know/Client Refused,29,0,5
+Data not Collected,164,379,7
+Number of Stayers not yet Required To Have an Annual Assessment,,152,
+1 Source of Health Insurance,12,0,5
+More than 1 Source of Health Insurance,3,0,2

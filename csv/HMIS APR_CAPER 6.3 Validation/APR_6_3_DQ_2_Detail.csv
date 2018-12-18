@@ -1,0 +1,412 @@
+Data Element,clientid,Name,Client Doesn’t Know/Refused,Missing,DataIssue,DataIssueReason
+Name (3.1),551,"Simpson, Home Boy",,Yes,,
+Name (3.1),410852,"apr5, fam1",,,Yes,
+Name (3.1),410856,"Diddy, Bo",,,Yes,
+Name (3.1),411109,"famadd, test",,Yes,,
+Social Security Number (3.2),782,"Test, 1120",Yes,,,
+Social Security Number (3.2),2188,"Housing, ClientOne",Yes,,,
+Social Security Number (3.2),398984,"Cooper, Dale",Yes,,,
+Social Security Number (3.2),409882,"Hammer, Mike",,,Yes,SSN Quality Value
+Social Security Number (3.2),409883,"Humphrey, Dalton",,,Yes,SSN Quality Value
+Social Security Number (3.2),409884,"Humphrey, Daughter",,,Yes,SSN Quality Value
+Social Security Number (3.2),409893,"Test, BCP-P",,,Yes,SSN Quality Value
+Social Security Number (3.2),409896,"Test, ESworkgroup",,,Yes,SSN Quality Value
+Social Security Number (3.2),409899,"Test2, EE",,,Yes,SSN Quality Value
+Social Security Number (3.2),409910,"Test, NewPATH",,,Yes,SSN Quality Value
+Social Security Number (3.2),409915,"Test, SecondPath",,,Yes,SSN Quality Value
+Social Security Number (3.2),409916,"test, VAhudvash",,,Yes,SSN Quality Value
+Social Security Number (3.2),409921,"Date, NoBirth",,,Yes,SSN Quality Value
+Social Security Number (3.2),409922,"Date, Adult",,,Yes,SSN Quality Value
+Social Security Number (3.2),409923,"Date, OtherAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),409930,"Test, NewCoC",,,Yes,SSN Quality Value
+Social Security Number (3.2),409933,"RRHtest, NewCoC",,,Yes,SSN Quality Value
+Social Security Number (3.2),409948,"SOARtest, DIfwkgp",,,Yes,SSN Quality Value
+Social Security Number (3.2),409952,"Pointvalue, Spouse",,,Yes,SSN Quality Value
+Social Security Number (3.2),409953,"Pointvalue, Child",Yes,,,
+Social Security Number (3.2),409961,"QA11, HMIS-Youth",,,Yes,SSN Quality Value
+Social Security Number (3.2),409962,"QA12, HMIS-Dad",,,Yes,SSN Quality Value
+Social Security Number (3.2),409963,"QA12, HMIS-Son",Yes,,,
+Social Security Number (3.2),409965,"Test, NewDay",,,Yes,SSN Quality Value
+Social Security Number (3.2),409967,"Test, NewESShelter",,,Yes,SSN Quality Value
+Social Security Number (3.2),409968,"Test, NewCoCPSH",,,Yes,SSN Quality Value
+Social Security Number (3.2),409975,"Test, ChildCrisis",,,Yes,SSN Quality Value
+Social Security Number (3.2),409978,"Test, AssessDate",,,Yes,SSN Quality Value
+Social Security Number (3.2),409979,"Test, NewVetAssess",,,Yes,SSN Quality Value
+Social Security Number (3.2),409980,"Test, ChildAssess",,,Yes,SSN Quality Value
+Social Security Number (3.2),409981,"Test, ChildAssess",,,Yes,SSN Quality Value
+Social Security Number (3.2),409982,"MGtest, NewRHY",,,Yes,SSN Quality Value
+Social Security Number (3.2),409985,"Spouse, NonVet",,,Yes,SSN Quality Value
+Social Security Number (3.2),409986,"Test, VetAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),409987,"Test, ChildFam",,,Yes,SSN Quality Value
+Social Security Number (3.2),409990,"Test, EdCheck",,,Yes,SSN Quality Value
+Social Security Number (3.2),409997,"Child, NextHP",,,Yes,SSN Quality Value
+Social Security Number (3.2),409998,"QA13, HMIS-Youth",,,Yes,SSN Quality Value
+Social Security Number (3.2),409999,"EdTest, NewChildAssess",,,Yes,SSN Quality Value
+Social Security Number (3.2),410006,"PATH, FinalAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),410007,"Test, LastVASH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),410015,"Test, SpouseSSVF asd",,,Yes,SSN Quality Value
+Social Security Number (3.2),410164,"RHYtest, SecondChild",,,Yes,SSN Quality Value
+Social Security Number (3.2),410165,"Hulka, Sgt",,,Yes,SSN Quality Value
+Social Security Number (3.2),410166,"Crystal, Billy",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),410167,"Crystal, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),410183,"Teset, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),410186,"Test, Annual",,,Yes,SSN Quality Value
+Social Security Number (3.2),410189,"Family, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),410192,"Check, Address",,,Yes,SSN Quality Value
+Social Security Number (3.2),410213,"Adult, Child AHAR",,,Yes,SSN Quality Value
+Social Security Number (3.2),410687,"hmisCh1, c1",Yes,,,
+Social Security Number (3.2),410693,"Test, DQ-OtherAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),410741,"Arnez, Desi",Yes,,,
+Social Security Number (3.2),410802,"Augustine, Saint",Yes,,,
+Social Security Number (3.2),410828,"apr5, c1",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),410831,"Halper, Santos R",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),410849,"ForCollection, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),410856,"Diddy, Bo",Yes,,,
+Social Security Number (3.2),410953,"Donkulus, Re",Yes,,,
+Social Security Number (3.2),410975,"Test, VAMC",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411001,"apr5, c3",Yes,,,
+Social Security Number (3.2),411002,"apr5, ch1",Yes,,,
+Social Security Number (3.2),411027,"Test3, OtherAdult",Yes,,,
+Social Security Number (3.2),411029,"Test4, OtherAdult",Yes,,,
+Social Security Number (3.2),411030,"Test4, Child",Yes,,,
+Social Security Number (3.2),411032,"Test5, OtherAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),411033,"Test5, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),411035,"Test6, OtherAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),411036,"Test6, Child",Yes,,,
+Social Security Number (3.2),411039,"VAMCTest1, Child",Yes,,,
+Social Security Number (3.2),411041,"SSVF-HP, Fam-OtherAdult",Yes,,,
+Social Security Number (3.2),411042,"SSVF-HP, Fam-Child",Yes,,,
+Social Security Number (3.2),411044,"SSVF-RRH, Fam-OtherAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),411045,"SSVF-RRH, Fam-Child",,Yes,,
+Social Security Number (3.2),411047,"apr5, ch2",Yes,,,
+Social Security Number (3.2),411070,"Deceased, ChildAC91",Yes,,,
+Social Security Number (3.2),411102,"CashStatusNoSourcesYes, ChildOf",Yes,,,
+Social Security Number (3.2),411103,"apr5, ad1",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411109,"famadd, test",Yes,,,
+Social Security Number (3.2),411113,"Walton, Matt",Yes,,,
+Social Security Number (3.2),411118,"apr5, uk1",Yes,,,
+Social Security Number (3.2),411122,"Bee, Q26",Yes,,,
+Social Security Number (3.2),411123,"Bee, Q26 Jr",Yes,,,
+Social Security Number (3.2),411135,"Wilson, Steven",Yes,,,
+Social Security Number (3.2),411139,"apr5, c1ad3",Yes,,,
+Social Security Number (3.2),411145,"Source Test, Short leaver",,,Yes,SSN Quality Value
+Social Security Number (3.2),411167,"path17, c3",Yes,,,
+Social Security Number (3.2),411169,"Measure 4 Test, SPM take 2",,,Yes,SSN Quality Value
+Social Security Number (3.2),411197,"ParentingYouth, Child",,Yes,,
+Social Security Number (3.2),411199,"ParYouthMultiChild, Child1",Yes,,,
+Social Security Number (3.2),411200,"ParYouthMultiChild, Child2",Yes,,,
+Social Security Number (3.2),411205,"Youth, OtherYouth",Yes,,,
+Social Security Number (3.2),411206,"Youth, Chidl",Yes,,,
+Social Security Number (3.2),411207,"Parker, Jamie",Yes,,,
+Social Security Number (3.2),411214,"voca3, c1",Yes,,,
+Social Security Number (3.2),411223,"PC, PC",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411224,"test pc, PC",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411225,"pc test, pc",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411229,"test5, pc",Yes,,,
+Social Security Number (3.2),411232,"Test, Vete",Yes,,,
+Social Security Number (3.2),411234,"Hunter, Head",Yes,,,
+Social Security Number (3.2),411238,"Rooney, Lil' Wayne JR",Yes,,,
+Social Security Number (3.2),411239,"test, sharing addnew",Yes,,,
+Social Security Number (3.2),411240,"DEF, ABC",Yes,,,
+Social Security Number (3.2),411251,"Rhy3, test",Yes,,,
+Social Security Number (3.2),411252,"rhy17, c1",Yes,,,
+Social Security Number (3.2),411255,"po, panda",,Yes,,
+Social Security Number (3.2),411256,"Dan, Jack",Yes,,,
+Social Security Number (3.2),411258,"Cho, Pan",,Yes,,
+Social Security Number (3.2),411260,"Williamson, Stacy",Yes,,,
+Social Security Number (3.2),411264,"FYSB, New",,,Yes,SSN Quality Value
+Social Security Number (3.2),411277,"THtest, Child",Yes,,,
+Social Security Number (3.2),411278,"Jones, Heather",Yes,,,
+Social Security Number (3.2),411288,"TEST3, SKR",,,Yes,SSN Quality Value
+Social Security Number (3.2),411290,"SafeExitTest, OtherChild",Yes,,,
+Social Security Number (3.2),411291,"TEST4, SKR",Yes,,,
+Social Security Number (3.2),411295,"ANNUAL, SKR",Yes,,,
+Social Security Number (3.2),411298,"PARTIAL, SKR",Yes,,,
+Social Security Number (3.2),411299,"AssessmentTest, Vet",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411311,"RHY, StudentAdult2",Yes,,,
+Social Security Number (3.2),411318,"SOARtest, PATH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411319,"SOARtest, PATHChild",Yes,,,
+Social Security Number (3.2),411320,"Test, MoveIn",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411321,"HIVADS, SKR",,,Yes,SSN Quality Value
+Social Security Number (3.2),411322,"AssessmentTest, PATH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411328,"Farmingo, Brad",Yes,,,
+Social Security Number (3.2),411329,"Erickson, Brad",Yes,,,
+Social Security Number (3.2),411330,"Edmond, Peter",Yes,,,
+Social Security Number (3.2),411332,"Check, ChildEd",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411333,"Family, SSVF HoH",Yes,,,
+Social Security Number (3.2),411334,"Family, SSVF non HoH",Yes,,,
+Social Security Number (3.2),411335,"123, Test",Yes,,,
+Social Security Number (3.2),411336,"123, testing",Yes,,,
+Social Security Number (3.2),411340,"123, tester",Yes,,,
+Social Security Number (3.2),411341,"123, TEstone",Yes,,,
+Social Security Number (3.2),411342,"123, testiin",Yes,,,
+Social Security Number (3.2),411349,"AssessAtExit, OtherAdutl",Yes,,,
+Social Security Number (3.2),411350,"Client, EmpTest",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411353,"Jim, Sonny",Yes,,,
+Social Security Number (3.2),411354,"Cooper, Jane",Yes,,,
+Social Security Number (3.2),411378,"Test, ExitHoH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411379,"Test, OtherAdult",Yes,,,
+Social Security Number (3.2),411382,"Test, MultiFund",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411383,"OtherAdult, MultiFund",Yes,,,
+Social Security Number (3.2),411385,"Test, Child",Yes,,,
+Social Security Number (3.2),411386,"Housing Move-in, Testing",Yes,,,
+Social Security Number (3.2),411392,"Bag, Jim",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411406,"test, ping",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411425,"OfYouth, child",Yes,,,
+Social Security Number (3.2),411444,"Client, HOH",Yes,,,
+Social Security Number (3.2),411445,"Client, HOHChild",Yes,,,
+Social Security Number (3.2),411447,"Client, HOHTwo",Yes,,,
+Social Security Number (3.2),411448,"Client, HOHTwoClhild",Yes,,,
+Social Security Number (3.2),411449,"Client, HOHThree",Yes,,,
+Social Security Number (3.2),411450,"Client, HOHThreeChild",Yes,,,
+Social Security Number (3.2),411453,"Client, HOHAdult",Yes,,,
+Social Security Number (3.2),411471,"TestLength, Annual",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411472,"TestLength, OtherAdult",Yes,,,
+Social Security Number (3.2),411487,"Test2, BCP",,,Yes,SSN Quality Value
+Social Security Number (3.2),411490,"Und18Parent, Child",Yes,,,
+Social Security Number (3.2),411492,"Ffej, Geff",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411520,"CHtest, Vet",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411525,"Inactive, ESnbn",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411530,"IncomeCheck, BCP",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411545,"StayerNoUpdate, CHVet",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411572,"ActiveClient, SO",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411687,"Matthew, Jon",,,Yes,SSN Quality Value
+Social Security Number (3.2),411690,"Report, AHAR",,,Yes,SSN Quality Value
+Social Security Number (3.2),411698,"InsTest, Health",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411716,"One, Child",Yes,,,
+Social Security Number (3.2),411718,"Three, Vet",Yes,,,
+Social Security Number (3.2),411726,"AfterReportEnd, Annual",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411728,"HouseholdChronic, AO-NotChronic",Yes,,,
+Social Security Number (3.2),411729,"HouseholdChronic, AC",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411730,"HouseholdChronic, AC-Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),411733,"ChronicNoAnn, AO",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411734,"Test8, Sean",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411735,"MissAnn, AOChronic",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411736,"Enrollments, back2back",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411737,"Enrollments, b2b",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411738,"Spouse, Added",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411739,"Spouse, CameLate",Yes,,,
+Social Security Number (3.2),411741,"Continuous, Spouse",Yes,,,
+Social Security Number (3.2),411742,"MissAnnual, AO",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411744,"Annual, WayEarly",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411745,"Eighteen, Turning",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411749,"Client, New",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411756,"AssessGap, Annual",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411757,"EntryMaster, AdjustedProgram",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411758,"FamilyIntoEnrollment, Copied",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411759,"CopyFamily, OtherAdult",Yes,,,
+Social Security Number (3.2),411764,"HoH, AddedFam",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411765,"Member, AddedInFam",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411783,"HoH, 12Yrold",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411784,"Adult, 24Yrold",Yes,,,
+Social Security Number (3.2),411794,"DisablingCond, Bad",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411795,"AnnualDisCond, Unknown",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411796,"Exit, BadDisCond",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411806,"Household, 2 Youth",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411807,"Household, OtherAdult",,,Yes,SSN Quality Value
+Social Security Number (3.2),411808,"Household, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),411819,"Household, OtherChild",,Yes,,
+Social Security Number (3.2),411821,"WithChild, Client123",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411822,"WithChild, Child123",Yes,,,
+Social Security Number (3.2),411829,"NoHoH, Child",,,Yes,SSN Quality Value
+Social Security Number (3.2),411835,"EnrollhoH, Double",,,Yes,SSN Quality Value
+Social Security Number (3.2),411836,"Enrol, Child",Yes,,,
+Social Security Number (3.2),411848,"EntryAssessment, Doulbe",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411849,"EntryAssessment, OtherAdult",Yes,,,
+Social Security Number (3.2),411884,"ONe, Test",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411885,"Test, HoHAge3917",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411886,"Test, ChildSwitched",Yes,,,
+Social Security Number (3.2),411914,"RRH, SSVFAdult1",,,Yes,SSN Quality Value
+Social Security Number (3.2),411915,"Household, 3Part",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411916,"InHousehold, OtherAdult",,Yes,,
+Social Security Number (3.2),411917,"InHousehold, ThirdAdult",Yes,,,
+Social Security Number (3.2),411918,"HoH, Adult",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411919,"Adult, AgingInto",Yes,,,
+Social Security Number (3.2),411920,"Child, GoingToExit",Yes,,,
+Social Security Number (3.2),411921,"Doublecount, Q26a",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411922,"DoubleCount, OthAdult",Yes,,,
+Social Security Number (3.2),411923,"HoH, Multiple",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411924,"HoH, Second",Yes,,,
+Social Security Number (3.2),411926,"CH Status, NULL",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411927,"CH Status, DK/R",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411928,"NoSourcesAtAnnual, CashYes",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411929,"NoSourcesEntry, CashYes",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411930,"ToMinorHoH, 3917AAdult",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),411931,"To Minor, A-Adult",Yes,,,
+Social Security Number (3.2),411933,"ToMinor, B-Adult",Yes,,,
+Social Security Number (3.2),411936,"MissingDC, ES-IND",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412037,"EnrolledNoExitInt, PATH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412052,"Unsheltered, Other Adult",Yes,,,
+Social Security Number (3.2),412072,"SPM, ESnbnNegated",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412073,"SPM, SHonly",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412074,"SPM, SHwithESee",,,Yes,SSN Quality Value
+Social Security Number (3.2),412075,"SPM, SHwithPSHnoOverlap",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412081,"SPM, ESeePSHnegated",,,Yes,SSN Quality Value
+Social Security Number (3.2),412082,"SPM, ESeeOtherCoC",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412083,"SPM, THactive",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412084,"SPM, PSHnotLHNoMoveExit",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412087,"SPM, PSHentryPriorMoveIn",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412088,"SPM, PSHEntryMoveInPrior",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412089,"SPM, ESeePSH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412092,"SPM, PSHMovedInAfter",,,Yes,SSN Quality Value
+Social Security Number (3.2),412093,"SPM, THandPSHLHoverlap",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412094,"SPM, TH-PSHnLHoverlap",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412095,"SPM, PSHLHEnteredNoMove",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412096,"SPM, PSHnotLHlos",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412098,"SPM, PSHNightbeforecheck",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412099,"SPM, PSHNightBeforeYes",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412127,"SPM 5.1 Test, Child",Yes,,,
+Social Security Number (3.2),412128,"3.917.3 test, PH- Lit Homeless",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412137,"nbnShelter, PITYouthHouse",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412138,"nbnShelter, PITYouthOtherAdul",Yes,,,
+Social Security Number (3.2),412139,"nbnShelter, PITYouthChild",Yes,,,
+Social Security Number (3.2),412140,"Housetype, PITAandD",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412141,"Housetype, PITAandDChild",Yes,,,
+Social Security Number (3.2),412142,"Housetype, PITAandDchild2",Yes,,,
+Social Security Number (3.2),412143,"AOYouthHoushold, PITTH",,,Yes,SSN Quality Value
+Social Security Number (3.2),412144,"AOhouse, PITSH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412145,"Househtype`, PITHoHAO",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412146,"Housetype, PITOtherAdult",Yes,,,
+Social Security Number (3.2),412147,"Houset, PITChildAHO",Yes,,,
+Social Security Number (3.2),412148,"Typeunder18, PITPrntYouth",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412149,"TypeUnder18, PITPrntYouthAdult",Yes,,,
+Social Security Number (3.2),412150,"Under18, PITPrntYoutChild",Yes,,,
+Social Security Number (3.2),412151,"hhtype, PITPrntYouth1825",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412152,"hhtype, PITprntYouthotheradu",Yes,,,
+Social Security Number (3.2),412153,"hhtype, PITprntChild",Yes,,,
+Social Security Number (3.2),412154,"House, PITChiOnly",,,Yes,SSN Quality Value
+Social Security Number (3.2),412155,"house, PITChionlyother",Yes,,,
+Social Security Number (3.2),412157,"UnknownHouse, PITUnkonwn",Yes,,,
+Social Security Number (3.2),412158,"AChouse, PITACwithunkonwn",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412159,"AChouse, PITACUnknownpers",Yes,,,
+Social Security Number (3.2),412160,"AChouse, PITACwunknochild",Yes,,,
+Social Security Number (3.2),412170,"NotChronic, 2PersoneeChild",Yes,,,
+Social Security Number (3.2),412171,"ChronicEpisodic, 2PersoneeHoH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412172,"ChronicEpisodic, 2PersoneeChild",Yes,,,
+Social Security Number (3.2),412173,"AgeIntoChronic, 1PersEEHoH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412174,"AgeIntoEpisodic, 1PersEE",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412175,"NotChronic, 1PersEE",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412176,"EntryChronic, 1PersonSH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412177,"AgeIntoContinuous, 1PersSH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412178,"AgeIntoEpisodic, 1PersSH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412179,"MissedAgeInto, 1PersSHHoH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412180,"NotChronic, 1PersTH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412181,"EpisodeChronic, 2PersNbN",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412182,"EpisodeChronic, 2PersNbNChild",Yes,,,
+Social Security Number (3.2),412183,"AgeIntoContinuous, 1PersNbNHoH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412184,"DoubleMonthMissAgeInto, 1PersESnbn",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412185,"TwoSpannedAgedCont, 1PersESNbN",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412186,"AgeEpisodic1Span, 1PersESNBN",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412187,"MissedAgeEpisodic, 1PersES NBN",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412188,"DoubleSpanAgeEpisodic, 1PersonNBN",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412194,"BarrierAtExit, DisCond",Yes,,,
+Social Security Number (3.2),412195,"MissesEpAge, Individual",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412208,"RRH Project Type ID, SSVF",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412237,"SSVF EmploymentCheck, New",,,Yes,SSN Quality Value
+Social Security Number (3.2),412916,"HoH, Youth",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412917,"HoH, OtherAdult",Yes,,,
+Social Security Number (3.2),412938,"Look, Annual",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412939,"Annual, Child",Yes,,,
+Social Security Number (3.2),412940,"Doesnt Know, Bad Veteran",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412941,"Refused, Bad Veteran",Yes,,,
+Social Security Number (3.2),412942,"DNC, Bad Veteran",Yes,,,
+Social Security Number (3.2),412943,"105, Vet",Yes,,,
+Social Security Number (3.2),412944,"Person, NoDOB",Yes,,,
+Social Security Number (3.2),412945,"entry, Child Born after",Yes,,,
+Social Security Number (3.2),412946,"DOB, Refused",Yes,,,
+Social Security Number (3.2),412948,"IsCh, YouthHoH",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412949,"OfYouthHoH, Child",Yes,,,
+Social Security Number (3.2),412953,"Client, Another",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),412987,"Frost, John",Yes,,,
+Social Security Number (3.2),412991,"Test, CT-5533",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),413023,"Wednesday, Two",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),413045,"Case, Multi",,,Yes,Number does not conform to SSA rules
+Social Security Number (3.2),413046,"multi, Child",Yes,,,
+Social Security Number (3.2),413052,"TEst, Primary",,,Yes,Number does not conform to SSA rules
+Date of Birth (3.3),782,"Test, 1120",,,Yes," Birthdate after Client's created date, on or after Client's Project Start Date, or before 1/1/1915"
+Date of Birth (3.3),409888,"HMIS Street Outreach, NewPATHSo",,,Yes,Birthdate Quality Value
+Date of Birth (3.3),409915,"Test, SecondPath",,,Yes,Birthdate Quality Value
+Date of Birth (3.3),409933,"RRHtest, NewCoC",,Yes,,
+Date of Birth (3.3),410000,"TestNew, PATHsso",,,Yes,Birthdate Quality Value
+Date of Birth (3.3),410174,"THtest, MultiFund",,,Yes," Birthdate after Client's created date, on or after Client's Project Start Date, or before 1/1/1915"
+Date of Birth (3.3),410192,"Check, Address",,Yes,,
+Date of Birth (3.3),410692,"Test, DQ-SL",Yes,,,
+Date of Birth (3.3),410953,"Donkulus, Re",Yes,,,
+Date of Birth (3.3),411143,"Test1, SKR",Yes,,,
+Date of Birth (3.3),411226,"test, test",Yes,,,
+Date of Birth (3.3),411228,"test3, PC",Yes,,,
+Date of Birth (3.3),411229,"test5, pc",Yes,,,
+Date of Birth (3.3),411386,"Housing Move-in, Testing",Yes,,,
+Date of Birth (3.3),411487,"Test2, BCP",Yes,,,
+Date of Birth (3.3),411694,"guy, pathsubstance",,,Yes," Birthdate after Client's created date, on or after Client's Project Start Date, or before 1/1/1915"
+Date of Birth (3.3),411933,"ToMinor, B-Adult",Yes,,,
+Date of Birth (3.3),412157,"UnknownHouse, PITUnkonwn",Yes,,,
+Date of Birth (3.3),412159,"AChouse, PITACUnknownpers",Yes,,,
+Date of Birth (3.3),412940,"Doesnt Know, Bad Veteran",,,Yes," Birthdate after Client's created date, on or after Client's Project Start Date, or before 1/1/1915"
+Date of Birth (3.3),412943,"105, Vet",,,Yes,"Birthdate Quality Value Birthdate after Client's created date, on or after Client's Project Start Date, or before 1/1/1915"
+Date of Birth (3.3),412944,"Person, NoDOB",,Yes,,
+Date of Birth (3.3),412946,"DOB, Refused",Yes,,,
+Race (3.4),410821,"Selected, AllRaces",Yes,,,
+Race (3.4),410828,"apr5, c1",,Yes,,Data Not Collected
+Race (3.4),411139,"apr5, c1ad3",,Yes,,Data Not Collected
+Race (3.4),411143,"Test1, SKR",Yes,,,
+Race (3.4),411255,"po, panda",Yes,,,
+Race (3.4),411257,"bcp, test",Yes,,,
+Race (3.4),411258,"Cho, Pan",Yes,,,
+Race (3.4),411298,"PARTIAL, SKR",,Yes,,Data Not Collected
+Race (3.4),411309,"RHY, Student3",Yes,,,
+Race (3.4),411310,"NonRHY, AdultStudent1",Yes,,,
+Race (3.4),411311,"RHY, StudentAdult2",Yes,,,
+Race (3.4),411563,"BednightBefore, ESnbn",Yes,,,
+Race (3.4),412940,"Doesnt Know, Bad Veteran",Yes,,,
+Race (3.4),412941,"Refused, Bad Veteran",Yes,,,
+Race (3.4),412942,"DNC, Bad Veteran",,Yes,,Data Not Collected
+Ethnicity (3.5),409916,"test, VAhudvash",Yes,,,
+Ethnicity (3.5),410828,"apr5, c1",,Yes,,Data Not Collected
+Ethnicity (3.5),410851,"apr5, c2",,Yes,,Data Not Collected
+Ethnicity (3.5),411139,"apr5, c1ad3",,Yes,,Data Not Collected
+Ethnicity (3.5),411143,"Test1, SKR",,Yes,,Data Not Collected
+Ethnicity (3.5),411150,"Q27 TEST, SKR",Yes,,,
+Ethnicity (3.5),411225,"pc test, pc",Yes,,,
+Ethnicity (3.5),411228,"test3, PC",Yes,,,
+Ethnicity (3.5),411258,"Cho, Pan",Yes,,,
+Ethnicity (3.5),411268,"Test, Emma",Yes,,,
+Ethnicity (3.5),411270,"Test, Gray",Yes,,,
+Ethnicity (3.5),411274,"Go, Rent",Yes,,,
+Ethnicity (3.5),411279,"TEST22, BCP",Yes,,,
+Ethnicity (3.5),411280,"Test, PATH",Yes,,,
+Ethnicity (3.5),411281,"Testing, BCP",Yes,,,
+Ethnicity (3.5),411285,"dsadsad, asasd",Yes,,,
+Ethnicity (3.5),411295,"ANNUAL, SKR",Yes,,,
+Ethnicity (3.5),411303,"Benjamin, Astro",Yes,,,
+Ethnicity (3.5),411307,"RHY, Student1",,Yes,,Data Not Collected
+Ethnicity (3.5),411308,"RHY, Student2",Yes,,,
+Ethnicity (3.5),411309,"RHY, Student3",Yes,,,
+Ethnicity (3.5),411310,"NonRHY, AdultStudent1",,Yes,,Data Not Collected
+Ethnicity (3.5),411311,"RHY, StudentAdult2",Yes,,,
+Ethnicity (3.5),411313,"RHY, NewCLient",,Yes,,Data Not Collected
+Ethnicity (3.5),411314,"No.1, Student",,Yes,,Data Not Collected
+Ethnicity (3.5),411315,"No.2, Student",Yes,,,
+Ethnicity (3.5),411316,"BCPStatus, R2RHY",Yes,,,
+Ethnicity (3.5),411328,"Farmingo, Brad",Yes,,,
+Ethnicity (3.5),411329,"Erickson, Brad",Yes,,,
+Ethnicity (3.5),411330,"Edmond, Peter",Yes,,,
+Ethnicity (3.5),411335,"123, Test",Yes,,,
+Ethnicity (3.5),411336,"123, testing",Yes,,,
+Ethnicity (3.5),411340,"123, tester",Yes,,,
+Ethnicity (3.5),411341,"123, TEstone",Yes,,,
+Ethnicity (3.5),411355,"Patricia, Susan",Yes,,,
+Ethnicity (3.5),411363,"Silverstone, Stephen",Yes,,,
+Ethnicity (3.5),411374,"RHY, HighestGrade",Yes,,,
+Ethnicity (3.5),411386,"Housing Move-in, Testing",Yes,,,
+Ethnicity (3.5),411529,"ESG, BCP",Yes,,,
+Ethnicity (3.5),412940,"Doesnt Know, Bad Veteran",Yes,,,
+Ethnicity (3.5),412941,"Refused, Bad Veteran",Yes,,,
+Ethnicity (3.5),412942,"DNC, Bad Veteran",,Yes,,Data Not Collected
+Gender (3.6),410828,"apr5, c1",Yes,,,
+Gender (3.6),411139,"apr5, c1ad3",Yes,,,
+Gender (3.6),411143,"Test1, SKR",,Yes,,Data Not Collected
+Gender (3.6),411167,"path17, c3",Yes,,,
+Gender (3.6),412940,"Doesnt Know, Bad Veteran",Yes,,,
+Gender (3.6),412941,"Refused, Bad Veteran",Yes,,,
+Gender (3.6),412942,"DNC, Bad Veteran",,Yes,,Data Not Collected
