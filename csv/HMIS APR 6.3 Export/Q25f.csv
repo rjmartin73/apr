@@ -1,0 +1,10 @@
+Number of Veterans By Income Category,Number of Veterans at Start,Number of Veterans at Annual Assessment (Stayer),Number of Veterans at Exit (Leavers)
+"Veterans with Only Earned Income (i.e., Employment Income)",4,0,0
+Veterans with Only Other Income,4,1,0
+Veterans with Both Earned and Other Income,1,0,0
+Veterans with No Income,66,1,1
+Veterans with Client Doesn't Know/Client Refused Income Information,1,0,0
+Veterans with Missing Income Information,51,1,1
+Number of adult stayers not yet required to have an annual assessment,,33,
+Number of adult stayers without required annual assessment,,89,
+Total Veterans,127,125,2

@@ -1,0 +1,6 @@
+Number Of Persons Served,Total,Without Children,With Children and Adults,With Only Children,Unknown Household Type
+Adults,451,377,71,,3
+Children,120,,57,62,1
+Client Doesn't Know/ Client Refused,12,0,2,0,10
+Data Not Collected,4,0,1,0,3
+Total,587,377,131,62,17
